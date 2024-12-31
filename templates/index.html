@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistical Analysis Web App</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">Statistical Analysis Web App</h1>
+        
+        <!-- File Upload -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5 class="mb-0">Data Upload</h5>
+            </div>
+            <div class="card-body">
+                <form id="uploadForm">
+                    <div class="mb-3">
+                        <label for="dataFile" class="form-label">Choose CSV or Excel file</label>
+                        <input type="file" class="form-control" id="dataFile" accept=".csv,.xlsx,.xls">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Upload</button>
+                </form>
+                <div id="dataPreview" class="mt-3"></div>
+            </div>
+        </div>
+
+        <!-- Analysis Options -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5 class="mb-0">Analysis Options</h5>
+            </div>
+            <div class="card-body">
+                <ul class="nav nav-tabs" id="analysisTabs">
+                    <li class="nav-item">
+                        <a class="nav-link active" data-bs-toggle="tab" href="#descriptive">Descriptive Statistics</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-bs-toggle="tab" href="#cfa">CFA</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-bs-toggle="tab" href="#sem">SEM</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-bs-toggle="tab" href="#regression">Regression</a>
+                    </li>
+                </ul>
+
+                <div class="tab-content mt-3">
+                    <!-- Descriptive Statistics -->
+                    <div class="tab-pane fade show active" id="descriptive">
+                        <form id="descriptiveForm">
+                            <div class="mb-3">
+                                <label class="form-label">Select Variables</label>
+                                <div id="descriptiveVars"></div>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Analyze</button>
+                        </form>
+                    </div>
+
+                    <!-- CFA -->
+                    <div class="tab-pane fade" id="cfa">
+                        <form id="cfaForm">
+                            <div class="mb-3">
+                                <label class="form-label">Select Variables</label>
+                                <div id="cfaVars"></div>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Number of Factors</label>
+                                <input type="number" class="form-control" id="nFactors" min="1">
+                            </div>
+                            <button type="submit" class="btn btn-primary">Analyze</button>
+                        </form>
+                    </div>
+
+                    <!-- SEM -->
+                    <div class="tab-pane fade" id="sem">
+                        <form id="semForm">
+                            <div class="mb-3">
+                                <label class="form-label">Model Specification</label>
+                                <textarea class="form-control" id="modelSpec" rows="5" 
+                                    placeholder="Enter SEM model specification..."></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Analyze</button>
+                        </form>
+                    </div>
+
+                    <!-- Regression -->
+                    <div class="tab-pane fade" id="regression">
+                        <form id="regressionForm">
+                            <div class="mb-3">
+                                <label class="form-label">Dependent Variable</label>
+                                <select class="form-control" id="dependentVar"></select>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Independent Variables</label>
+                                <div id="independentVars"></div>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Analyze</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h5 class="mb-0">Results</h5>
+            </div>
+            <div class="card-body">
+                <div id="statsResults"></div>
+                <div id="plotResults" class="mt-4"></div>
+            </div>
+        </div>
+    
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script>
+
+        // Analysis form submissions
+        document.getElementById('descriptiveForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const selectedVars = Array.from(document.querySelectorAll('#descriptiveVars input:checked'))
+                .map(input => input.value);
+            
+            try {
+                const response = await fetch('/analyze', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        type: 'descriptive',
+                        columns: selectedVars
+                    })
+                });
+                const data = await response.json();
+                displayResults(data);
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        });
+
+        // Similar event listeners for CFA, SEM, and regression forms...
+
+        // Update variable selectors after file upload
+        async function updateVariableSelectors() {
+            try {
+                const response = await fetch('/get_columns');
+                const data = await response.json();
+                
+                if (data.error) {
+                    console.error(data.error);
+                    return;
+                }
+
+                const columns = data.columns;
+                
+                // Update descriptive statistics variables
+                const descriptiveVars = document.getElementById('descriptiveVars');
+                descriptiveVars.innerHTML = columns.map(col => `
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="${col}" id="var_${col}">
+                        <label class="form-check-label" for="var_${col}">${col}</label>
+                    </div>
+                `).join('');
+                
+                // Update regression dependent variable dropdown
+                const dependentVar = document.getElementById('dependentVar');
+                dependentVar.innerHTML = columns.map(col => 
+                    `<option value="${col}">${col}</option>`
+                ).join('');
+                
+                // Update regression independent variables
+                const independentVars = document.getElementById('independentVars');
+                independentVars.innerHTML = columns.map(col => `
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="${col}" id="ind_${col}">
+                        <label class="form-check-label" for="ind_${col}">${col}</label>
+                    </div>
+                `).join('');
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        }
+
+        // Update file upload handler
+        document.getElementById('uploadForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const formData = new FormData();
+            formData.append('file', document.getElementById('dataFile').files[0]);
+            
+            try {
+                const response = await fetch('/upload', {
+                    method: 'POST',
+                    body: formData
+                });
+                const data = await response.json();
+                
+                if (data.error) {
+                    console.error(data.error);
+                    return;
+                }
+                
+                document.getElementById('dataPreview').innerHTML = data.preview;
+                await updateVariableSelectors();
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        });
+
+        function displayResults(data) {
+            const statsDiv = document.getElementById('statsResults');
+            const plotDiv = document.getElementById('plotResults');
+            
+            // Xóa kết quả cũ
+            statsDiv.innerHTML = '';
+            plotDiv.innerHTML = '';
+            
+            if (data.stats) {
+                statsDiv.innerHTML = data.stats;
+            }
+            
+            if (data.plot) {
+                plotDiv.innerHTML = `<img src="${data.plot}" class="img-fluid" alt="Distribution Plot">`;
+            }
+            
+            // Add more result display logic for other analysis types
+        }
+    </script>
+</body>
+</html>
