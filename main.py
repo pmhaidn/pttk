@@ -1,16 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
-import seaborn as sns
-from scipy import stats
-from factor_analyzer import FactorAnalyzer
-import statsmodels.api as sm
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
-import arviz as az
-from module import descriptive_module, ttest_module, correlation_module, linear_regression_module
+from module import descriptive, ttest_module, correlation_module, linear_regression_module
 
 class StatisticalApp:
     def __init__(self):
@@ -58,8 +49,7 @@ class StatisticalApp:
         
         if self.uploaded_file:
             self.load_data()
-            self.show_data_preview()
-            self.run_analysis()
+            self.show_tabs()
     
     def load_data(self):
         try:
@@ -70,10 +60,19 @@ class StatisticalApp:
             st.sidebar.success("Đã tải dữ liệu thành công!")
         except Exception as e:
             st.error(f"Lỗi khi đọc file: {str(e)}")
+
+    def show_tabs(self):
+        tabs = st.tabs(["Xem trước dữ liệu", "Phân tích"])
+
+        with tabs[0]:
+            self.show_data_preview()
+        with tabs[1]:
+            self.run_analysis()
+            pass
             
     def show_data_preview(self):
         st.header("Xem trước dữ liệu")
-        
+
         col1, col2 = st.columns(2)
         with col1:
             st.write("Số hàng:", self.df.shape[0])
@@ -85,90 +84,6 @@ class StatisticalApp:
         n_rows = st.slider("Số hàng hiển thị", 5, 50, 10)
         st.write(self.df.head(n_rows))
 
-    def raincloud_plot(self, vars):
-        st.subheader("Biểu đồ Raincloud")
-        for var in vars:
-            # Tạo violin plot
-            violin = go.Violin(
-                y=self.df[var],
-                name="Violin",
-                side="negative",
-                line_color="blue"
-            )
-            
-            # Tạo box plot
-            box = go.Box(
-                y=self.df[var],
-                name="Box",
-                line_color="red"
-            )
-            
-            # Tạo scatter plot (points)
-            scatter = go.Scatter(
-                y=self.df[var],
-                mode="markers",
-                name="Points",
-                marker=dict(color="black", size=3)
-            )
-            
-            fig = go.Figure(data=[violin, box, scatter])
-            fig.update_layout(title=f"Raincloud Plot của {var}")
-            st.plotly_chart(fig)
-
-    def time_series_analysis(self, vars):
-        st.subheader("Phân tích chuỗi thời gian")
-        
-        # Chọn biến thời gian
-        time_col = st.selectbox("Chọn biến thời gian", self.df.columns)
-        
-        if time_col:
-            try:
-                self.df[time_col] = pd.to_datetime(self.df[time_col])
-                for var in vars:
-                    fig = px.line(
-                        self.df, 
-                        x=time_col, 
-                        y=var,
-                        title=f"Chuỗi thời gian của {var}"
-                    )
-                    
-                    # Thêm tùy chọn đường xu hướng
-                    if st.checkbox(f"Hiển thị đường xu hướng cho {var}"):
-                        fig.add_scatter(
-                            x=self.df[time_col],
-                            y=self.df[var].rolling(window=7).mean(),
-                            name="Đường xu hướng (MA-7)",
-                            line=dict(color="red")
-                        )
-                    
-                    st.plotly_chart(fig)
-            except:
-                st.error("Không thể chuyển đổi cột thời gian")
-
-    def flexplot_analysis(self, vars):
-        st.subheader("Flexplot Analysis")
-        if len(vars) >= 2:
-            x_var = st.selectbox("Chọn biến X", vars)
-            y_var = st.selectbox("Chọn biến Y", vars)
-            
-            # Scatter plot với các tùy chọn
-            fig = px.scatter(
-                self.df,
-                x=x_var,
-                y=y_var,
-                title=f"Flexplot: {x_var} vs {y_var}"
-            )
-            
-            # Thêm đường hồi quy
-            if st.checkbox("Hiển thị đường hồi quy"):
-                fig.add_scatter(
-                    x=self.df[x_var],
-                    y=np.poly1d(np.polyfit(self.df[x_var], self.df[y_var], 1))(self.df[x_var]),
-                    name="Đường hồi quy",
-                    line=dict(color="red")
-                )
-            
-            st.plotly_chart(fig)
 
     def ttest_analysis(self):
         if self.df is not None:
@@ -230,10 +145,10 @@ class StatisticalApp:
             self.cfa_analysis()
 
     def run_analysis(self):
+        # Move the analysis logic to be within the "Analysis" tab
         if self.analysis_type == "Thống kê mô tả":
             if self.df is not None:  # Kiểm tra xem dữ liệu đã được tải chưa
-                descriptive_stats = descriptive_module.DescriptiveStatistics(self.df)
-                descriptive_stats.descriptive_analysis()
+                descriptive.menu.descriptive_analysis(self.df)
             else:
                 st.warning("Vui lòng tải lên file dữ liệu để thực hiện phân tích.")
         elif self.analysis_type == "Kiểm định T":
