@@ -1,0 +1,5262 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: gl_ES\n"
+"X-Source-Language: C\n"
+"X-Qt-Contexts: true\n"
+
+msgctxt "SelectionModels|"
+msgid "N"
+msgstr "N"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Path to the fitted model"
+msgstr "Ruta ao modelo axustado"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Set null priors"
+msgstr "Establecer os previos como nulos"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Study Labels"
+msgstr "Etiquetas dos Estudos"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Fitted model"
+msgstr "Modelo axustado"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "log(OR)"
+msgstr "log(OR)"
+
+msgctxt "SelectionModels|"
+msgid "Effect sizes & SE"
+msgstr "Magnitudes dos efectos & EP"
+
+msgctxt "SelectionModels|"
+msgid "Positive"
+msgstr "Positivo"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Forest plot"
+msgstr "Gráfica forestal"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Effect Size Standard Error"
+msgstr "Erro padrón da Magnitude do efecto"
+
+msgctxt "SelectionModels|"
+msgid "Rescale x-axis"
+msgstr "Volver escalar o eixe x"
+
+msgctxt "BayesianMetaAnalysis|"
+msgid "95% CI Lower and Upper Bound"
+msgstr "Límites Inferior e Superior do IC do 95%"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgctxt "SelectionModels|"
+msgid "Negative"
+msgstr "Negativo"
+
+msgctxt "SelectionModels|"
+msgid "Correlations & N"
+msgstr "Correlacións & N"
+
+msgctxt "SelectionModels|"
+msgid "Fisher's z"
+msgstr "Z de Fisher"
+
+msgctxt "SelectionModels|"
+msgid "P-value (one-sided)"
+msgstr "Valor p (unilateral)"
+
+msgctxt "SelectionModels|"
+msgid "Random Effects"
+msgstr "Efectos aleatorios"
+
+msgctxt "SelectionModels|"
+msgid "Two-sided selection"
+msgstr "Selección bilateral"
+
+msgctxt "SelectionModels|"
+msgid "Weight Function"
+msgstr "Función de Ponderación"
+
+msgctxt "SelectionModels|"
+msgid "P-value cutoffs"
+msgstr "Puntos de corte do valor p"
+
+msgctxt "SelectionModels|"
+msgid "Automatically join p-value intervals"
+msgstr "Unir intervalos de valor p automáticamente"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Fixed Effects"
+msgstr "Efectos Fixos"
+
+msgctxt "SelectionModels|"
+msgid "Mean model estimates"
+msgstr "Estimacións do modelo medio"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Method"
+msgstr "Método"
+
+msgctxt "Description|"
+msgid "Selection Models"
+msgstr "Modelos de selección"
+
+msgctxt "Description|"
+msgid "Robust Bayesian Meta-Analysis"
+msgstr "Meta-análise baiesiana robusta"
+
+msgctxt "Description|"
+msgid "Meta-Analysis"
+msgstr "Meta-Análise"
+
+msgctxt "Description|"
+msgid "Bayesian Meta-Analysis"
+msgstr "Meta-Análise baiesiana"
+
+msgctxt "Description|"
+msgid "Classical Meta-Analysis"
+msgstr "Meta-Análise Clásica"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Diagnostic plots"
+msgstr "Gráficas de diagnóstico"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Funnel plot"
+msgstr "Gráfica en funil"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Fit Indices"
+msgstr "Índices de Axuste"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Egger's Regression test"
+msgstr "Proba da Regresión de Egger"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Fixed Effects Covariance Matrix"
+msgstr "Matriz de Covarianzas de Efectos Fixos"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Diagnostics Table"
+msgstr "Táboa de Diagnósticos"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Model Derived Statistics"
+msgstr "Estatísticos Derivados do Modelo"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Profile Random Effects Parameters (takes time)"
+msgstr "Perfilar os Parámetros de Efectos Aleatorios (lévalle tempo)"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Inner Grouping (Multivariate Structure)"
+msgstr "Agrupamento Interno (Estrutura Multivariante)"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Fixed Effects Coefficients Table"
+msgstr "Táboa de Coeficientes de Efectos Fixos"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Test for Funnel Plot Asymmetry"
+msgstr "Proba de Asimetría con Gráfica en Funil"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Anova Table"
+msgstr "Táboa ANOVA"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Fixed Effects Model"
+msgstr "Modelo de Efectos Fixos"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Outer Grouping (Grouping Structure)"
+msgstr "Agrupamento Externo (Estrutura de agrupamento)"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Omnibus Statistics"
+msgstr "Estatísticos ómnibus"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Multivariate Covariance Model"
+msgstr "Modelo de Covarianzas Multivariante"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Random Effects Coefficients Table"
+msgstr "Táboa de Coeficientes de Efectos Aleatorios"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Use intercept"
+msgstr "Utilizar a constante"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Random Effects Model"
+msgstr "Modelo de Efectos Aleatorios"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Case labels"
+msgstr "Etiquetas dos casos"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Residual vs Dependent"
+msgstr "Erro vs. Dependente"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Rank correlation test"
+msgstr "Proba de correlación por rangos"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Estimated Marginal Means"
+msgstr "Medias marxinais estimadas"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Fail-safe-N analysis (controversial)"
+msgstr "Análise do N a proba de fallos (polémico)"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Effect Size Variance"
+msgstr "Varianza da Magnitude do Efecto"
+
+msgctxt "Description|"
+msgid "Synthesize evidence across multiple studies"
+msgstr "Sintetizar a evidencia de varios estudos"
+
+msgctxt "BayesianMetaAnalysis|"
+msgid "Effect Size"
+msgstr "Magnitude do efecto"
+
+msgctxt "BayesianMetaAnalysis|"
+msgid "Effect Size Standard Error"
+msgstr "Erro padrón da Magnitude do efecto"
+
+msgctxt "BayesianMetaAnalysis|"
+msgid "Study Labels"
+msgstr "Etiquetas dos Estudos"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Effect Size"
+msgstr "Magnitude do efecto"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Effect Size"
+msgstr "Magnitude do efecto"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Predictors"
+msgstr "Preditores"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Model Terms"
+msgstr "Elementos do Modelo"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Statistics"
+msgstr "Estatísticos"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Coefficients"
+msgstr "Coeficientes"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Plots"
+msgstr "Gráficas"
+
+msgctxt "MultilevelMetaAnalysis|"
+msgid "Diagnostics"
+msgstr "Diagnósticos"
+
+msgctxt "BayesianMetaAnalysisAdvanced|"
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgctxt "BayesianMetaAnalysisAdvanced|"
+msgid "Prior model probability"
+msgstr "Probabilidade do Modelo Previo"
+
+msgctxt "BayesianMetaAnalysisAdvanced|"
+msgid "Fixed effects"
+msgstr "Efectos fixos"
+
+msgctxt "BayesianMetaAnalysisAdvanced|"
+msgid "Random effects"
+msgstr "Efectos aleatorios"
+
+msgctxt "BayesianMetaAnalysisAdvanced|"
+msgid "Estimation settings (MCMC)"
+msgstr "Configuracións da estimación (MCMC)"
+
+msgctxt "BayesianMetaAnalysisAdvanced|"
+msgid "iterations:"
+msgstr "iteracións:"
+
+msgctxt "BayesianMetaAnalysisAdvanced|"
+msgid "chains:"
+msgstr "cadeas:"
+
+msgctxt "BayesianMetaAnalysisAdvanced|"
+msgid "Bayes factor computation"
+msgstr "Cálculo do factor de Bayes"
+
+msgctxt "BayesianMetaAnalysisAdvanced|"
+msgid "Integration"
+msgstr "Integración"
+
+msgctxt "BayesianMetaAnalysisAdvanced|"
+msgid "Bridge sampling"
+msgstr "Mostraxe ponte"
+
+msgctxt "BayesianMetaAnalysisInference|"
+msgid "Inference"
+msgstr "Inferencia"
+
+msgctxt "BayesianMetaAnalysisInference|"
+msgid "Model"
+msgstr "Modelo"
+
+msgctxt "BayesianMetaAnalysisInference|"
+msgid "Fixed effects"
+msgstr "Efectos fixos"
+
+msgctxt "BayesianMetaAnalysisInference|"
+msgid "Random effects"
+msgstr "Efectos aleatorios"
+
+msgctxt "BayesianMetaAnalysisInference|"
+msgid "Model averaging"
+msgstr "Facer a media do Modelo"
+
+msgctxt "BayesianMetaAnalysisInference|"
+msgid "Constrained random effects"
+msgstr "Efectos aleatorios restrinxidos"
+
+msgctxt "BayesianMetaAnalysisInference|"
+msgid "All positive"
+msgstr "Todo positivo"
+
+msgctxt "BayesianMetaAnalysisInference|"
+msgid "All negative"
+msgstr "Todo negativo"
+
+msgctxt "BayesianMetaAnalysisInference|"
+msgid "Table"
+msgstr "Táboa"
+
+msgctxt "BayesianMetaAnalysisInference|"
+msgid "Model probabilities"
+msgstr "Probabilidades do modelo"
+
+msgctxt "BayesianMetaAnalysisInference|"
+msgid "Effect sizes per study"
+msgstr "Magnitudes dos efectos por estudo"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Plots"
+msgstr "Gráficas"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Forest plot"
+msgstr "Gráfica forestal"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Observed"
+msgstr "Observado"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Estimated"
+msgstr "Estimado"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Both"
+msgstr "Ambos"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Show labels"
+msgstr "Amosar as etiquetas"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Ordering"
+msgstr "Ordenación"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Year (ascending)"
+msgstr "Ano (ascendente)"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Year (descending)"
+msgstr "Ano (descendente)"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Effect size (ascending)"
+msgstr "Magnitude do efecto (ascendente)"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Effect size (descending)"
+msgstr "Magnitude do efecto (descendente)"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Order"
+msgstr "Orde"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Descending"
+msgstr "Descendente"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Row order"
+msgstr "Orde de filas"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Cumulative forest plot"
+msgstr "Gráfica acumulada de bosque"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Add prior"
+msgstr "Engadir unha previa"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Prior and posterior"
+msgstr "Previa e Posterior"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Additional info"
+msgstr "Información adicional"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Add fixed and random effects posterior"
+msgstr "Engadir efectos fixos e aleatorios posteriores"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Shade 95% CI"
+msgstr "Sombrear o IC do 95%"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Sequential plot"
+msgstr "Gráfica secuencial"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Bayes factors"
+msgstr "Factores de Bayes"
+
+msgctxt "BayesianMetaAnalysisPlots|"
+msgid "Posterior model probabilities"
+msgstr "Probabilidades posteriores do modelo"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "Priors"
+msgstr "Previas"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "Effect size"
+msgstr "Magnitude do efecto"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "Cauchy"
+msgstr "Cauchy"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "location:"
+msgstr "posición:"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "scale:"
+msgstr "escala:"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "Normal"
+msgstr "Normal"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "mean:"
+msgstr "media:"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "std:"
+msgstr "típico:"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "t"
+msgstr "t"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "df:"
+msgstr "GL:"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "Truncation"
+msgstr "Tronzado"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "Lower bound:"
+msgstr "Límite inferior:"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "Upper bound:"
+msgstr "Límite superior:"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "Heterogeneity (between-study SD)"
+msgstr "Heteroxeneidade (DP entre estudos)"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "Inverse gamma"
+msgstr "Gamma Inversa"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "shape:"
+msgstr "Forma:"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "Half t"
+msgstr "Metade de t"
+
+msgctxt "BayesianMetaAnalysisPriors|"
+msgid "Plot prior(s)"
+msgstr "Representar previa(s)"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Diagnostics"
+msgstr "Diagnósticos"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Plots"
+msgstr "Gráficas"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Casewise diagnostics"
+msgstr "Diagnósticos caso a caso"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Statistics"
+msgstr "Estatísticos"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Confidence intervals"
+msgstr "Intervalos de confianza"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Fit measures"
+msgstr "Medidas de axuste"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Cohen's d"
+msgstr "D de Cohen"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Correlation"
+msgstr "Correlación"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Effect Size"
+msgstr "Magnitude do efecto"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Effect Size Standard Error"
+msgstr "Erro padrón da Magnitude do efecto"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "95% CI Lower and Upper Bound"
+msgstr "Límites Inferior e Superior do IC do 95%"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "N"
+msgstr "N"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Study Labels"
+msgstr "Etiquetas dos Estudos"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Positive"
+msgstr "Positivo"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Negative"
+msgstr "Negativo"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Fisher's z"
+msgstr "Z de Fisher"
+
+msgctxt "SelectionModels|"
+msgid "Correlation"
+msgstr "Correlación"
+
+msgctxt "SelectionModels|"
+msgid "Effect Size"
+msgstr "Magnitude do efecto"
+
+msgctxt "SelectionModels|"
+msgid "Effect Size Standard Error"
+msgstr "Erro padrón da Magnitude do efecto"
+
+msgctxt "SelectionModels|"
+msgid "Model"
+msgstr "Modelo"
+
+msgctxt "SelectionModels|"
+msgid "Cohen's d"
+msgstr "D de Cohen"
+
+msgctxt "SelectionModels|"
+msgid "Inference"
+msgstr "Inferencia"
+
+msgctxt "SelectionModels|"
+msgid "Fixed Effects"
+msgstr "Efectos Fixos"
+
+msgctxt "SelectionModels|"
+msgid "Plots"
+msgstr "Gráficas"
+
+msgctxt "SelectionModels|"
+msgid "Fixed effects"
+msgstr "Efectos fixos"
+
+msgctxt "SelectionModels|"
+msgid "Random effects"
+msgstr "Efectos aleatorios"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Effect"
+msgstr "Efecto"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Effect (null)"
+msgstr "Efecto (nulo)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Heterogeneity"
+msgstr "Heteroxeneidade"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Heterogeneity (null)"
+msgstr "Heteroxeneidade (nula)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Publication bias: PET"
+msgstr "Nesgo de publicación: PET"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Publication bias: PET (null)"
+msgstr "Nesgo de publicación: PET (nulo)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Publication bias: PEESE"
+msgstr "Nesgo de publicación: PEESE"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Publication bias: PEESE (null)"
+msgstr "Nesgo de publicación: PEESE (nulo)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Distribution"
+msgstr "Distribución"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Parameters"
+msgstr "Parámetros"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Truncation"
+msgstr "Tronzado"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Prior weights"
+msgstr "Ponderacións previas"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Normal(μ,σ)"
+msgstr "Normal(μ,σ)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Student-t(μ,σ,v)"
+msgstr "T de Student(μ,σ,v)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Cauchy(x₀,θ)"
+msgstr "Cauchy(x₀,θ)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Gamma(α,β)"
+msgstr "Gamma(α,β)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Gamma(k,θ)"
+msgstr "Gamma(k,θ)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Inverse-Gamma(α,β)"
+msgstr "Gamma Inversa(α,β)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Log-Normal(μ,σ)"
+msgstr "Log-Normal(μ,σ)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Beta(α,β)"
+msgstr "Beta(α,β)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Uniform(a,b)"
+msgstr "Uniforme(a,b)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Spike(x₀)"
+msgstr "Pico(x₀)"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "None"
+msgstr "Ningún"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "lower"
+msgstr "inferior"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "upper"
+msgstr "superior"
+
+msgctxt "RobustBayesianMetaAnalysisPriors|"
+msgid "Weight"
+msgstr "Ponderación"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "Publication bias: selection models"
+msgstr "Nesgo de publicación: modelos de selección"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "Publication bias: selection models (null)"
+msgstr "Nesgo de publicación: modelos de selección (nulo)"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "Weight function"
+msgstr "Función de ponderación"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "Cut-points"
+msgstr "Puntos de corte"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "Parameters"
+msgstr "Parámetros"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "Prior weights"
+msgstr "Ponderacións previas"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "Two-sided"
+msgstr "Bilateral"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "One-sided"
+msgstr "Unilateral"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "Two-sided (fixed)"
+msgstr "Bilateral (fixa)"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "One-sided (fixed)"
+msgstr "Unilateral (fixa)"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "None"
+msgstr "Ninguna"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "p-values"
+msgstr "valores p"
+
+msgctxt "RobustBayesianMetaAnalysisWeightfunctions|"
+msgid "Weight"
+msgstr "Ponderación"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Correlations"
+msgstr "Correlacións"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Log odds ratios"
+msgstr "Logaritmo das razóns de probabilidades"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Unstandardized effect sizes"
+msgstr "Dimensións dos efectos non tipificados"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Log Odds Ratio"
+msgstr "Logaritmo da Razón de Probabilidades"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "RoBMA-PSMA"
+msgstr "RoBMA-PSMA"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "RoBMA-PP"
+msgstr "RoBMA-PP"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Custom"
+msgstr "Personalizado"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Prior scale"
+msgstr "Escala previa"
+
+msgctxt "Description|"
+msgid "Classical"
+msgstr "Clásico"
+
+msgctxt "Description|"
+msgid "Bayesian"
+msgstr "Baiesiano"
+
+msgctxt "Description|"
+msgid "Prediction Model Performance"
+msgstr "Comportamento do Modelo de Predición"
+
+msgctxt "Description|"
+msgid "Classical Prediction Model Performance"
+msgstr "Comportamento do Modelo Clásico de Predición"
+
+msgctxt "Description|"
+msgid "WAAP-WLS"
+msgstr "WAAP-MCX"
+
+msgctxt "Description|"
+msgid "PET-PEESE"
+msgstr "PET-PEESE"
+
+msgctxt "Description|"
+msgid "Bayesian Prediction Model Performance"
+msgstr "Comportamento do Modelo Baiesiano de Predición"
+
+msgctxt "BayesianPredictionPerformance|"
+msgid "MCMC Diagnostics"
+msgstr "Diagnósticos MCMC"
+
+msgctxt "BayesianPredictionPerformance|"
+msgid "Plots"
+msgstr "Gráficas"
+
+msgctxt "BayesianPredictionPerformance|"
+msgid "Running means"
+msgstr "Medias móbiles"
+
+msgctxt "BayesianPredictionPerformance|"
+msgid "Autocorrelation"
+msgstr "Autocorrelación"
+
+msgctxt "BayesianPredictionPerformance|"
+msgid "Gelman Rubin"
+msgstr "Gelman Rubin"
+
+msgctxt "BayesianPredictionPerformance|"
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgctxt "BayesianPredictionPerformance|"
+msgid "Adapt"
+msgstr "Adaptar"
+
+msgctxt "BayesianPredictionPerformance|"
+msgid "Burnin"
+msgstr "Quecemento"
+
+msgctxt "BayesianPredictionPerformance|"
+msgid "Sample"
+msgstr "Mostra"
+
+msgctxt "BayesianPredictionPerformance|"
+msgid "Chains"
+msgstr "Cadeas"
+
+msgctxt "PetPeese|"
+msgid "Effect sizes & SE"
+msgstr "Magnitudes dos efectos & EP"
+
+msgctxt "PetPeese|"
+msgid "Correlations & N"
+msgstr "Correlacións & N"
+
+msgctxt "PetPeese|"
+msgid "Correlation"
+msgstr "Correlación"
+
+msgctxt "PetPeese|"
+msgid "Effect Size"
+msgstr "Magnitude do efecto"
+
+msgctxt "PetPeese|"
+msgid "Effect Size Standard Error"
+msgstr "Erro padrón da Magnitude do efecto"
+
+msgctxt "PetPeese|"
+msgid "Fisher's z"
+msgstr "Z de Fisher"
+
+msgctxt "PetPeese|"
+msgid "Cohen's d"
+msgstr "D de Cohen"
+
+msgctxt "PetPeese|"
+msgid "Inference"
+msgstr "Inferencia"
+
+msgctxt "PetPeese|"
+msgid "Multiplicative heterogeneity estimates"
+msgstr "Estimacións da heteroxeneidade multiplicativa"
+
+msgctxt "PetPeese|"
+msgid "Plots"
+msgstr "Gráficas"
+
+msgctxt "PetPeese|"
+msgid "PET"
+msgstr "PET"
+
+msgctxt "PetPeese|"
+msgid "PEESE"
+msgstr "PEESE"
+
+msgctxt "PetPeese|"
+msgid "Mean model estimates"
+msgstr "Estimacións do modelo medio"
+
+msgctxt "PredictionPerformanceData|"
+msgid "Measure"
+msgstr "Medida"
+
+msgctxt "PredictionPerformanceData|"
+msgid "C statistic"
+msgstr "Estatístico C"
+
+msgctxt "PredictionPerformanceData|"
+msgid "C-statistic"
+msgstr "Estatístico C"
+
+msgctxt "PredictionPerformanceData|"
+msgid "Standard Error"
+msgstr "Erro Padrón"
+
+msgctxt "PredictionPerformanceData|"
+msgid "95% CI Lower and Upper Bound"
+msgstr "Límites Inferior e Superior do IC do 95%"
+
+msgctxt "PredictionPerformanceData|"
+msgid "Number of Participants"
+msgstr "Número de Participantes"
+
+msgctxt "PredictionPerformanceData|"
+msgid "Number of Observed Events"
+msgstr "Número de Eventos Observados"
+
+msgctxt "PredictionPerformanceData|"
+msgid "Number of Expected Events"
+msgstr "Número de Eventos Agardados"
+
+msgctxt "PredictionPerformanceData|"
+msgid "Study Labels"
+msgstr "Etiquetas dos Estudos"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Inference"
+msgstr "Inferencia"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Within-study variation"
+msgstr "Variación dentro dos estudos"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Normal/Log"
+msgstr "Normal/Log"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Normal/Identity"
+msgstr "Normal/Identidade"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Poisson/Log"
+msgstr "Poisson/Log"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Prior and posterior plot"
+msgstr "Gráfica previa e posterior"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Forest plot"
+msgstr "Gráfica forestal"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Labels"
+msgstr "Etiquetas"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Estimates"
+msgstr "Estimacións"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Column name (lCI)"
+msgstr "Nome de columna (ICI)"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Column name (uCI)"
+msgstr "Nome de columna (uCI)"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "C-statistics"
+msgstr "Estatísticos C"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "C-statistics (lCI)"
+msgstr "Estatísticos C (ICI)"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "C-statistics (uCI)"
+msgstr "Estatísticos C (uCI)"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Funnel plot asymmetry test"
+msgstr "Proba de asimetría de gráfica en funil"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Egger (unweighted)"
+msgstr "Egger (non ponderado)"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Egger (multiplicative overdispersion)"
+msgstr "Egger (sobredispersión multiplicativa)"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Macaskill"
+msgstr "Macaskill"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Macaskill (pooled)"
+msgstr "Macaskill (combinado)"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Peters"
+msgstr "Peters"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Debray"
+msgstr "Debray"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Plot"
+msgstr "Gráfica"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "Priors"
+msgstr "Previas"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "Normal mean:"
+msgstr "Media normal:"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "sd:"
+msgstr "dp:"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "Uniform"
+msgstr "Uniforme"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "min:"
+msgstr "mín:"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "max:"
+msgstr "máx:"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "location:"
+msgstr "posición:"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "scale:"
+msgstr "Escala:"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "df:"
+msgstr "GL:"
+
+msgctxt "WaapWls|"
+msgid "Effect sizes & SE"
+msgstr "Magnitudes dos efectos & EP"
+
+msgctxt "WaapWls|"
+msgid "Correlations & N"
+msgstr "Correlacións & N"
+
+msgctxt "WaapWls|"
+msgid "Correlation"
+msgstr "Correlación"
+
+msgctxt "WaapWls|"
+msgid "Effect Size"
+msgstr "Magnitude do efecto"
+
+msgctxt "WaapWls|"
+msgid "Effect Size Standard Error"
+msgstr "Erro padrón da Magnitude do efecto"
+
+msgctxt "WaapWls|"
+msgid "Fisher's z"
+msgstr "Z de Fisher"
+
+msgctxt "WaapWls|"
+msgid "Cohen's d"
+msgstr "D de Cohen"
+
+msgctxt "WaapWls|"
+msgid "Inference"
+msgstr "Inferencia"
+
+msgctxt "WaapWls|"
+msgid "Plots"
+msgstr "Gráficas"
+
+msgctxt "WaapWls|"
+msgid "Mean model estimates"
+msgstr "Estimacións do modelo medio"
+
+msgctxt "PetPeese|"
+msgid "Transform correlations to"
+msgstr "Transformar as correlacións a"
+
+msgctxt "SelectionModels|"
+msgid "Transform correlations to"
+msgstr "Transformar as correlacións a"
+
+msgctxt "WaapWls|"
+msgid "Transform correlations to"
+msgstr "Transformar as correlacións a"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Input type"
+msgstr "Tipo de entrada"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Expected direction of effect sizes"
+msgstr "Dirección agardada das magnitudes dos efectos"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "RoBMA-original"
+msgstr "RoBMA-original"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Models (Custom Ensemble Only)"
+msgstr "Modelos (Só Feixe Habitual)"
+
+msgctxt "SelectionModels|"
+msgid "Expected direction of effect sizes"
+msgstr "Dirección agardada das magnitudes dos efectos"
+
+msgctxt "PetPeese|"
+msgid "Measure"
+msgstr "Medida"
+
+msgctxt "SelectionModels|"
+msgid "Measure"
+msgstr "Medida"
+
+msgctxt "WaapWls|"
+msgid "Measure"
+msgstr "Medida"
+
+msgctxt "Description|"
+msgid "Penalized Meta-Analysis"
+msgstr "Meta-Análise penalizada"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Effect Size"
+msgstr "Magnitude do Efecto"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Effect Size Standard Error"
+msgstr "Erro padrón da Magnitude do efecto"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Method"
+msgstr "Método"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Horseshoe"
+msgstr "Ferradura"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Lasso"
+msgstr "Lasso"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Covariates"
+msgstr "Covariantes"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Factors"
+msgstr "Factores"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Clustering"
+msgstr "Conglomeración"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Model"
+msgstr "Modelo"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Components"
+msgstr "Compoñentes"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Include intercept"
+msgstr "Incluír a constante"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Scale predictors"
+msgstr "Escalar predictores"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Priors"
+msgstr "Previas"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Df"
+msgstr "GL"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Scale"
+msgstr "Escala"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Df (global)"
+msgstr "GL (total)"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Df (slab)"
+msgstr "GL (slab)"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Scale (global)"
+msgstr "Escala (total)"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Scale (slab)"
+msgstr "Escala (slab)"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Inference"
+msgstr "Inferencia"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "I²"
+msgstr "I²"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Posterior plots"
+msgstr "Gráficas posteriores"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Model terms"
+msgstr "Elementos do modelo"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Plotted term"
+msgstr "Elemento representado"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "MCMC diagnostics"
+msgstr "Diagnósticos MCMC"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Horizontal axis"
+msgstr "Eixe horizontal"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Vertical axis"
+msgstr "Eixe vertical"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Plot type"
+msgstr "Tipo de gráfica"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Traceplot"
+msgstr "Gráfica de trazado"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Scatterplot"
+msgstr "Gráfica de dispersión"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Histogram"
+msgstr "Histograma"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Density"
+msgstr "Densidade"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Autocorrelations"
+msgstr "Autocorrelacións"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Estimation settings (MCMC)"
+msgstr "Configuracións da estimación (MCMC)"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Warmup"
+msgstr "Quecemento"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Iterations"
+msgstr "Iteracións"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Chains"
+msgstr "Cadeas"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Adapt delta"
+msgstr "Delta de axuste"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Maximum treedepth"
+msgstr "Máxima profundidade da árbore"
+
+msgctxt "BayesianMetaAnalysisAdvanced|"
+msgid "samples:"
+msgstr "mostras:"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Terms"
+msgstr "Elementos"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Estimates table"
+msgstr "Táboa de estimacións"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Heterogeneity table"
+msgstr "Táboa de heteroxeneidade"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Available terms"
+msgstr "Elementos dispoñibles"
+
+msgctxt "PenalizedMetaAnalysis|"
+msgid "Selected terms"
+msgstr "Elementos seleccionados"
+
+msgctxt "PetPeese|"
+msgid "Sample size"
+msgstr "Tamaño da mostra"
+
+msgctxt "PetPeese|"
+msgid "Mean estimates table"
+msgstr "Táboa de estimacións da media"
+
+msgctxt "PetPeese|"
+msgid "Regression estimates table"
+msgstr "Táboa de estimacións da regresión"
+
+msgctxt "PetPeese|"
+msgid "Regression Estimate"
+msgstr "Estimación da Regresión"
+
+msgctxt "PredictionPerformanceData|"
+msgid "O/E Ratio"
+msgstr "Razón O/E"
+
+msgctxt "PredictionPerformanceData|"
+msgid "O/E ratio"
+msgstr "Razón O/E"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Export computed effect size"
+msgstr "Exportar a magnitude calculada do efecto"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Column name (effect size)"
+msgstr "Nome de columna (magnitude do efecto)"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "O/E ratios"
+msgstr "Razóns O/E"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "O/E ratios (lCI)"
+msgstr "Razóns O/E (ICI)"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "O/E ratios (uCI)"
+msgstr "Razóns O/E (uCI)"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "mu: summary estimate (O/E Ratio)"
+msgstr "mu: estimación resumo (Razón O/E)"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "mu: summary estimate (C statistic)"
+msgstr "mu: estimación resumo (Estatístico C)"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "tau: heterogeneity (Between study SD)"
+msgstr "tau: heteroxeneidade (DP entre estudos)"
+
+msgctxt "PredictionPerformancePriors|"
+msgid "T"
+msgstr "T"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Model ensemble type"
+msgstr "Tipo de feixe de modelos"
+
+msgctxt "RobustBayesianMetaAnalysis|"
+msgid "Prior distribution plots"
+msgstr "Gráficas de distribucións previas"
+
+msgctxt "SelectionModels|"
+msgid "P-value frequency table"
+msgstr "Táboa de frecuencias de valores p"
+
+msgctxt "SelectionModels|"
+msgid "Mean estimates table"
+msgstr "Táboa de estimacións da media"
+
+msgctxt "SelectionModels|"
+msgid "Estimated weights table"
+msgstr "Táboa de ponderacións estimadas"
+
+msgctxt "SelectionModels|"
+msgid "Estimated heterogeneity table"
+msgstr "Táboa de heteroxeneidade estimada"
+
+msgctxt "WaapWls|"
+msgid "Sample size"
+msgstr "Tamaño da mostra"
+
+msgctxt "WaapWls|"
+msgid "Mean estimates table"
+msgstr "Táboa de estimacións da media"
+
+msgctxt "WaapWls|"
+msgid "Multiplicative heterogeneity estimates table"
+msgstr "Táboa de estimacións da heteroxeneidade multiplicativa"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Normal/Logit"
+msgstr "Normal/Logit"
+
+msgctxt "Description|"
+msgid "Binomial Meta-Analysis"
+msgstr "Meta-análise Binomial"
+
+msgctxt "Description|"
+msgid "Bayesian Binomial Meta-Analysis"
+msgstr "Meta-análise Binomial baiesiana"
+
+msgctxt "BayesianBinomialMetaAnalysis|"
+msgid "Successes (group 1)"
+msgstr "Acertos (grupo 1)"
+
+msgctxt "BayesianBinomialMetaAnalysis|"
+msgid "Successes (group 2)"
+msgstr "Acertos (grupo 2)"
+
+msgctxt "BayesianBinomialMetaAnalysis|"
+msgid "Observations (group 1)"
+msgstr "Observacións (grupo 1)"
+
+msgctxt "BayesianBinomialMetaAnalysis|"
+msgid "Observations (group 2)"
+msgstr "Observacións (grupo 2)"
+
+msgctxt "BayesianBinomialMetaAnalysis|"
+msgid "Study Labels"
+msgstr "Etiquetas dos Estudos"
+
+msgctxt "BayesianBinomialMetaAnalysis|"
+msgid "Prior distribution plots"
+msgstr "Gráficas de distribucións previas"
+
+msgctxt "BayesianBinomialMetaAnalysis|"
+msgid "Models"
+msgstr "Modelos"
+
+msgctxt "BayesianBinomialMetaAnalysis|"
+msgid "Set null priors"
+msgstr "Establecer os previos como nulos"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Estimation scale"
+msgstr "Escala da estimación"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Fisher's z"
+msgstr "Z de Fisher"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Cohen's d"
+msgstr "D de Cohen"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "logOR"
+msgstr "logOR"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "MCMC"
+msgstr "MCMC"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Adaptation"
+msgstr "Adaptación"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Burnin"
+msgstr "Quecemento"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Samples"
+msgstr "Mostras"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Chains"
+msgstr "Cadeas"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Thin"
+msgstr "Estreito"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Autofit"
+msgstr "Axuste automático"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "R-hat"
+msgstr "R-circunflexo"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Effective sample size"
+msgstr "Tamaño efectivo da mostra"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "MCMC error"
+msgstr "Erro MCMC"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "MCMC error / SD"
+msgstr "Erro MCMC/DP"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Maximum fitting time"
+msgstr "Máximo tempo de axuste"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "hours"
+msgstr "horas"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "minutes"
+msgstr "minutos"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "seconds"
+msgstr "segundos"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Extend samples"
+msgstr "Ampliar as mostras"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Remove failed models"
+msgstr "Eliminar os modelos errados"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Rebalance component probability on model failure"
+msgstr "Volver equilibrar a probabilidade das compoñentes ao fallar o modelo"
+
+msgctxt "RobustBayesianMetaAnalysisAdvanced|"
+msgid "Save the fitted model"
+msgstr "Gardar o modelo axustado"
+
+msgctxt "RobustBayesianMetaAnalysisBaseline|"
+msgid "Baseline"
+msgstr "Base"
+
+msgctxt "RobustBayesianMetaAnalysisBaseline|"
+msgid "Baseline (null)"
+msgstr "Base (nulo)"
+
+msgctxt "RobustBayesianMetaAnalysisBaseline|"
+msgid "Distribution"
+msgstr "Distribución"
+
+msgctxt "RobustBayesianMetaAnalysisBaseline|"
+msgid "Parameters"
+msgstr "Parámetros"
+
+msgctxt "RobustBayesianMetaAnalysisBaseline|"
+msgid "Truncation"
+msgstr "Tronzado"
+
+msgctxt "RobustBayesianMetaAnalysisBaseline|"
+msgid "Prior weights"
+msgstr "Ponderacións previas"
+
+msgctxt "RobustBayesianMetaAnalysisBaseline|"
+msgid "Beta(α,β)"
+msgstr "Beta(α,β)"
+
+msgctxt "RobustBayesianMetaAnalysisBaseline|"
+msgid "lower"
+msgstr "Inferior"
+
+msgctxt "RobustBayesianMetaAnalysisBaseline|"
+msgid "upper"
+msgstr "Superior"
+
+msgctxt "RobustBayesianMetaAnalysisBaseline|"
+msgid "Weight"
+msgstr "Ponderación"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "MCMC Diagnostics"
+msgstr "Diagnósticos MCMC"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "Overview table"
+msgstr "Táboa de revisión"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "Plot"
+msgstr "Gráfica"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "Effect"
+msgstr "Efecto"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "Heterogeneity"
+msgstr "Heteroxeneidade"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "Weights"
+msgstr "Ponderacións"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "PET"
+msgstr "PET"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "PEESE"
+msgstr "PEESE"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "Type"
+msgstr "Tipo"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "Trace"
+msgstr "Rastro"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "Autocorrelation"
+msgstr "Autocorrelación"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "Posterior samples density"
+msgstr "Densidade das mostras posteriores"
+
+msgctxt "RobustBayesianMetaAnalysisDiagnostics|"
+msgid "Single model"
+msgstr "Modelo único"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Inference"
+msgstr "Inferencia"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Conditional parameter estimates"
+msgstr "Estimacións de parámetros condicionados"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Models overview"
+msgstr "Revisión dos modelos"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "BF comparison"
+msgstr "Comparación de FB"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Inclusion"
+msgstr "Inclusión"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "vs. Best"
+msgstr "vs. Mellor"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "vs. Previous"
+msgstr "vs. Previo"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Order"
+msgstr "Orde"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Model number"
+msgstr "Número de modelo"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Marginal likelihood"
+msgstr "Verosimilitude marxinal"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Posterior probability"
+msgstr "Probabilidade posterior"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Individual models"
+msgstr "Modelos individuais"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Single model"
+msgstr "Modelo único"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "CI width"
+msgstr "Largo do IC"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Output scale"
+msgstr "Escala da presentación de resultados"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Cohen's d"
+msgstr "D de Cohen"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Fisher's z"
+msgstr "Z de Fisher"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "logOR"
+msgstr "logOR"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "OR"
+msgstr "OR"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Correlation"
+msgstr "Correlación"
+
+msgctxt "RobustBayesianMetaAnalysisInference|"
+msgid "Shorten prior names"
+msgstr "Acurtar os nomes previos"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Plots"
+msgstr "Gráficas"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Forest plot"
+msgstr "Gráfica forestal"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Order"
+msgstr "Orde"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Descending"
+msgstr "Descendente"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Alphabetical"
+msgstr "Alfabético"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Type"
+msgstr "Tipo"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Model averaged"
+msgstr "Modelo medio"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Conditional"
+msgstr "Condicionado"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Pooled estimates"
+msgstr "Estimacións combinadas"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Effect"
+msgstr "Efecto"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Heterogeneity"
+msgstr "Heteroxeneidade"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Weight function"
+msgstr "Función de ponderación"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Rescale x-axis"
+msgstr "Volver escalar o eixe x"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "PET-PEESE"
+msgstr "PET-PEESE"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Prior distribution"
+msgstr "Distribución previa"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Individual models"
+msgstr "Modelos individuais"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Order by"
+msgstr "Ordenar segundo"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Model number"
+msgstr "Número de modelo"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Estimate"
+msgstr "Estimar"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Bayes factor"
+msgstr "Factor de Bayes"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Posterior prob."
+msgstr "Probabilidade posterior"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Show"
+msgstr "Amosar"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Bayesian updating"
+msgstr "Actualización baiesiana"
+
+msgctxt "RobustBayesianMetaAnalysisPlots|"
+msgid "Posterior estimates"
+msgstr "Estimacións posteriores"
+
+msgctxt "Description|"
+msgid "Miscellaneous"
+msgstr "Miscelánea"
+
+msgctxt "Description|"
+msgid "Effect Size Computation"
+msgstr "Cálculo da magnitude do efecto"
+
+msgctxt "Description|"
+msgid "Funnel Plot"
+msgstr "Gráfica en funil"
+
+msgctxt "Description|"
+msgid "Meta-Analysis (Multilevel/Multivariate)"
+msgstr "Meta-Análise (Multinivel/Multivariante)"
+
+msgctxt "Description|"
+msgid "Classical Meta-Analysis (Multilevel/Multivariate)"
+msgstr "Meta-Análise clásica (Multinivel/Multivariante)"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Variable containing the observed effect sizes."
+msgstr "Variable que contén as magnitudes dos efectos observados."
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid ""
+"Variable containing the standard errors corresponding to the effect sizes."
+msgstr ""
+"Variable que contén os erros padrón que corresponden ás magnitudes dos "
+"efectos."
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Method"
+msgstr "Método"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid ""
+"Method used to estimate heterogeneity (tau-squared) in the meta-analysis. "
+"The available methods depend on the inclusion of heterogeneity model terms."
+msgstr ""
+"Método usado para estimar a heteroxeneidade (tau-cadrado) na meta-análise. "
+"Os métodos dispoñibles dependen da inclusión de elementos de heteroxeneidade "
+"no modelo."
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Equal Effects"
+msgstr "Efectos Iguais"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Fixed Effects"
+msgstr "Efectos Fixos"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Maximum Likelihood"
+msgstr "Máxima-Verosimilitude"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Restricted ML"
+msgstr "MV restrinxida"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "DerSimonian-Laird"
+msgstr "DerSimonian-Laird"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Hedges"
+msgstr "Hedges"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Hunter-Schmidt"
+msgstr "Hunter-Schmidt"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Hunter-Schmidt (SSC)"
+msgstr "Hunter-Schmidt (SSC)"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Sidik-Jonkman"
+msgstr "Sidik-Jonkman"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Empirical Bayes"
+msgstr "Bayes Empírico"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Paule-Mandel"
+msgstr "Paule-Mandel"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Paule-Mandel (MU)"
+msgstr "Paule-Mandel (MU)"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Generalized Q-stat"
+msgstr "Estat-Q xeneralizado"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Generalized Q-stat (MU)"
+msgstr "Estat-Q xeneralizado (MU)"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Fixed effect test"
+msgstr "Proba de efectos fixos"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid ""
+"Method for testing the model coefficients: 'z' uses standard normal "
+"approximation, 't' uses t-distribution, and 'knha' uses the Knapp and "
+"Hartung adjustment (default)."
+msgstr ""
+"Método para probar os coeficientes do modelo: 'z' utiliza a aproximación "
+"Normal estándar, 't' usa a distribución t, e 'knha' emprega o axuste de "
+"Knapp e Hartung (predeterminado)."
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Predictors"
+msgstr "Preditores"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid ""
+"Variables to include as predictors (moderators) in the meta-regression model."
+msgstr ""
+"Variables a incluír como preditores (moderadores) no modelo de meta-"
+"regresión."
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid "Clustering"
+msgstr "Conglomeración"
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid ""
+"Variable indicating clustering of effect sizes. This option is disabled when "
+"permutation tests are selected."
+msgstr ""
+"Variable que indica a conglomeración das magnitudes dos efectos. Esta opción "
+"está inhabilitada cando se elixen probas de permutacións."
+
+msgctxt "ClassicalMetaAnalysis|"
+msgid ""
+"Variable containing labels for the studies. Used for labeling outputs and "
+"plots."
+msgstr ""
+"Variables que conteñen as etiquetas para os estudos. Utilízase para "
+"etiquetar saídas de resultados e gráficas."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Effect Size"
+msgstr "Magnitude do efecto"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Variable containing the observed effect sizes."
+msgstr "Variable que contén as magnitudes dos efectos observados."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Effect Size Standard Error"
+msgstr "Erro padrón da Magnitude do efecto"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Variable containing the standard errors corresponding to the effect sizes."
+msgstr ""
+"Variable que contén os erros padrón que corresponden ás magnitudes dos "
+"efectos."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Method"
+msgstr "Método"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Method used to estimate heterogeneity in the meta-analysis."
+msgstr "Método utilizado para estimar a heteroxeneidade da meta-análise."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Maximum Likelihood"
+msgstr "Máxima-Verosimilitude"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Restricted ML"
+msgstr "MV restrinxida"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Fixed effect test"
+msgstr "Proba de efectos fixos"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Method for testing the model coefficients: 'z' uses standard normal "
+"approximation, 't' uses t-distribution."
+msgstr ""
+"Método para probar os coeficientes do modelo: 'z' utiliza a aproximación "
+"Normal estándar, 't' usa a distribución t."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Predictors"
+msgstr "Preditores"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Variables to include as predictors (moderators) in the meta-regression model."
+msgstr ""
+"Variables a incluír como preditores (moderadores) no modelo de meta-"
+"regresión."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Clustering"
+msgstr "Conglomeración"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Variable indicating clustering of effect sizes. This option is disabled when "
+"permutation tests are selected."
+msgstr ""
+"Variable que indica a conglomeración das magnitudes dos efectos. Esta opción "
+"está inhabilitada cando se elixen probas de permutacións."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Study Labels"
+msgstr "Etiquetas dos Estudos"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Variable containing labels for the studies. Used for labeling outputs and "
+"plots."
+msgstr ""
+"Variables que conteñen as etiquetas para os estudos. Utilízase para "
+"etiquetar saídas de resultados e gráficas."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Random Effects / Model Structure"
+msgstr "Efectos aleatorios / Estrutura do modelo"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Options for specifying the random effects structure for the meta-analysis "
+"model, including the types of random effects and their associated variables. "
+"Allows modeling of complex data structures such as multilevel, multivariate, "
+"autoregressive, spatial, and other forms of dependency."
+msgstr ""
+"Opcións para especificar a estrutura de efectos aleatorios do modelo de meta-"
+"análise, incluíndo os tipos de efectos aleatorios e as súas variables "
+"asociadas. Permite modelar estruturas complexas de datos como as "
+"multiniveis, multivariantes, autorregresivas, espaciais, e outras formas de "
+"dependencia."
+
+#, qt-format
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Structure %1"
+msgstr "Estrutura %1"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Type of random effect to include in the model."
+msgstr "Tipo de efecto aleatorio a incluír no modelo."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Simple"
+msgstr "Simple"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Nested (multilevel)"
+msgstr "Aniñado (multinivel)"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Random slopes"
+msgstr "Pendentes aleatorias"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Structured"
+msgstr "Estruturado"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Autoregressive"
+msgstr "Autorregresivo"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Spatial"
+msgstr "Espacial"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Known correlation"
+msgstr "Correlación coñecida"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Structure"
+msgstr "Estrutura"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Structure of the random effect when the type is 'Structured', "
+"'Autoregressive', or 'Spatial'. Available structures depend on the selected "
+"type."
+msgstr ""
+"Estrutura do efecto aleatorio cando o tipo é 'Estructurado', "
+"'Autorregresivo', ou 'Espacial'. As estruturas dispoñibles dependen do tipo "
+"seleccionado."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Compound symmetry"
+msgstr "Simetría composta"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Heteroscedastic compound symmetry"
+msgstr "Simetría composta heterocedástica"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Unstructured "
+msgstr "No estruturado "
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Identity"
+msgstr "Identidade"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Diagonal"
+msgstr "Diagonal"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "AR(1)"
+msgstr "AR(1)"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Heteroscedastic AR(1)"
+msgstr "AR(1) heterocedástica"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Continuous-time AR"
+msgstr "AR en tempo continuo"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Exponential"
+msgstr "Exponencial"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Gaussian"
+msgstr "Normal"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Linear"
+msgstr "Linear"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Rational quadratic"
+msgstr "Cuadrática racional"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Spherical"
+msgstr "Esférica"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Specification"
+msgstr "Especificación"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Random Slope Terms"
+msgstr "Termos das pendentes aleatorias"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Variables to include as random slope terms in the model. Available when the "
+"random effect type is 'Random slopes'."
+msgstr ""
+"Variables a incluír como termos de pendentes aleatorias no modelo. "
+"Dispoñible cando o tipo de efecto aleatorio é 'Pendentes aleatorias'."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Factor Levels"
+msgstr "Niveis dos factores"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Variable indicating the factor levels ('Inner Term') for the structured "
+"random effect. Available when the random effect type is 'Structured'."
+msgstr ""
+"Variable que indica os niveis dos factores ('Termo interno') para o efecto "
+"aleatorio estruturado. Dispoñible cando o tipo de efecto aleatorio é "
+"'Estruturado'."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Level 1"
+msgstr "Nivel 1"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Level 2"
+msgstr "Nivel 2"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Level 3"
+msgstr "Nivel 3"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Level 4"
+msgstr "Nivel 4"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Level 5"
+msgstr "Nivel 5"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Time"
+msgstr "Tempo"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Variable indicating time points for an autoregressive random effects "
+"structure. Available when the random effect type is 'Autoregressive'."
+msgstr ""
+"Variable que indica os puntos temporais para unha estrutura autorregresiva "
+"de efectos aleatorios. Dispoñible cando o tipo de efecto aleatorio é "
+"'Autorregresivo'."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Spatial Coordinates"
+msgstr "Coordenadas espaciais"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Variables representing spatial coordinates for a spatial random effects "
+"structure. Available when the random effect type is 'Spatial' and the "
+"distance metric is not 'Great-circle' or prespecified in a file."
+msgstr ""
+"Variables que representan as coordenadas espaciais para unha estrutura "
+"espacial de efectos aleatorios. Dispoñible cando o tipo de efecto aleatorio "
+"é 'Espacial' e a métrica de distancia non é 'Círculo-Grande' nin está "
+"predeterminada nun ficheiro."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Longitude"
+msgstr "Lonxitude"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Variable representing longitude (in decimal degrees, with minus signs for "
+"West) for a spatial random effects structure using the 'Great-circle' "
+"distance metric. Available when the random effect type is 'Spatial' and the "
+"distance metric is 'Great-circle'."
+msgstr ""
+"Variable que representa a lonxitude (en graos decimais, con signo menos para "
+"o Oeste) para unha estrutura espacial de efectos aleatorios que usa a "
+"métrica 'Círculo-Grande' de distancia. Dispoñible cando o tipo de efecto "
+"aleatorio é 'Espacial' e a métrica de distancia é 'Círculo-Grande'."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Latitude"
+msgstr "Latitude"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Variable representing latitude (in decimal degrees, with minus signs for "
+"South) for a spatial random effects structure using the 'Great-circle' "
+"distance metric. Available when the random effect type is 'Spatial' and the "
+"distance metric is 'Great-circle'."
+msgstr ""
+"Variable que representa a latitude (en graos decimais, con signo menos para "
+"o Sur) para unha estrutura espacial de efectos aleatorios que usa a métrica "
+"'Círculo-Grande' de distancia. Dispoñible cando o tipo de efecto aleatorio é "
+"'Espacial' e a métrica de distancia é 'Círculo-Grande'."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Location Identifier"
+msgstr "Identificador de localización"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Variable identifying locations when loading distances matrix from a file for "
+"a spatial random effects structure. The location corresponds to the row and "
+"column names of the distance matrix. The names cannot start with a number."
+msgstr ""
+"Variable que identifica as localizacións cando se carga dun ficheiro unha "
+"matriz de distancias para a estrutura espacial de efectos aleatorios. As "
+"localizacións correspóndense cos nomes de fila e de columna da matriz de "
+"distancias. Os nomes non poden comezar cun número."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Grouping Factor"
+msgstr "Factor de agrupamento"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Grouping variable specifying which observations share the same random effect "
+"('Outer Term'). Available for random effect types other than 'Nested "
+"(Multilevel)'. The 'Grouping Factor' is not required for 'Spatial' Random "
+"Effects."
+msgstr ""
+"Variable de agrupamento que especifica que observacións comparten o mesmo "
+"efecto aleatorio ('Termo externo'). Dispoñible para tipos de efectos "
+"aleatorios distintos de 'Aniñado (Multinivel)'. Non se require o 'Factor de "
+"agrupamento' para efectos aleatorios 'Espaciais'."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Distance metric"
+msgstr "Métrica de distancias"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"Distance metric used to calculate distances in a spatial random effects "
+"structure. Available when the random effect type is 'Spatial'."
+msgstr ""
+"Métrica de distancias utilizada para calcular distancias nunha estrutura "
+"espacial de efectos aleatorios. Dispoñible cando o tipo de efecto aleatorio "
+"é 'Espacial'."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Euclidean"
+msgstr "Euclídea"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Manhattan"
+msgstr "Manhattan"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Maximum"
+msgstr "Máximo"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Great-circle"
+msgstr "Círculo-Grande"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Load from file"
+msgstr "Cargar desde ficheiro"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Distance matrix file"
+msgstr "Ficheiro da matriz de distancias"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"CSV file containing the distance matrix for the spatial random effects "
+"structure. The first row and the first column of the file must contain names "
+"that map the matrix entries to the 'Location Identifier' (the names cannot "
+"start with a number). Available when the random effect type is 'Spatial' and "
+"the distance metric is loaded from a file."
+msgstr ""
+"Ficheiro CSV que contén a matriz de distancias para a estrutura espacial de "
+"efectos aleatorios. A primeira fila e a primeira columna do ficheiro deben "
+"conter os nomes que cartografan as entradas da matriz ao 'Identificador de "
+"localización' (os nomes non poden comezar cun número). Dispoñible cando o "
+"tipo de efecto aleatorio é 'Espacial' e a métrica de distancias se cargue "
+"desde un ficheiro."
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid "Correlation matrix file"
+msgstr "Ficheiro da matriz de correlacións"
+
+msgctxt "ClassicalMetaAnalysisMultilevelMultivariate|"
+msgid ""
+"CSV file containing the known correlation matrix for the random effects "
+"structure. The first row and the first column of the file must contain names "
+"that map the matrix entries to the 'Grouping Factor' (the names cannot start "
+"with a number). Available when the random effect type is 'Known correlation'."
+msgstr ""
+"Ficheiro CSV que contén a matriz de correlacións coñecidas para a estrutura "
+"de efectos aleatorios. A primeira fila e a primeira columna do ficheiro "
+"deben conter os nomes que cartografan as entradas da matriz ao 'Factor de "
+"agrupamento' (os nomes non poden comezar cun número). Dispoñible cando o "
+"tipo de efecto aleatorio é 'Correlación coñecida'."
+
+#, qt-format
+msgctxt "EffectSizeComputation|"
+msgid "Step %1"
+msgstr "Paso %1"
+
+msgctxt "EffectSizeComputation|"
+msgid "Independent groups"
+msgstr "Grupos independentes"
+
+msgctxt "EffectSizeComputation|"
+msgid "Variable association"
+msgstr "Asociación de variables"
+
+msgctxt "EffectSizeComputation|"
+msgid "Single group"
+msgstr "Grupo único"
+
+msgctxt "EffectSizeComputation|"
+msgid "Repeated measures"
+msgstr "Medidas repetidas"
+
+msgctxt "EffectSizeComputation|"
+msgid "Other"
+msgstr "Outro"
+
+msgctxt "EffectSizeComputation|"
+msgid "Reported effect sizes"
+msgstr "Magnitudes dos efectos declaradas"
+
+msgctxt "EffectSizeComputation|"
+msgid "Quantitative"
+msgstr "Cuantitativo"
+
+msgctxt "EffectSizeComputation|"
+msgid "Binary"
+msgstr "Binario"
+
+msgctxt "EffectSizeComputation|"
+msgid "Counts per time"
+msgstr "Recontos por tempo"
+
+msgctxt "EffectSizeComputation|"
+msgid "Mixed"
+msgstr "Mixto"
+
+msgctxt "EffectSizeComputation|"
+msgid "Binary (marginal)"
+msgstr "Binario (marxinal)"
+
+msgctxt "EffectSizeComputation|"
+msgid "Reliability"
+msgstr "Fiabilidade"
+
+msgctxt "EffectSizeComputation|"
+msgid "Partial correlation"
+msgstr "Correlación parcial"
+
+msgctxt "EffectSizeComputation|"
+msgid "Model fit"
+msgstr "Axuste do modelo"
+
+msgctxt "EffectSizeComputation|"
+msgid "Heterozygosity"
+msgstr "Heterocigosidade"
+
+msgctxt "EffectSizeComputation|"
+msgid "MD"
+msgstr "MD"
+
+msgctxt "EffectSizeComputation|"
+msgid "SMD"
+msgstr "SMD"
+
+msgctxt "EffectSizeComputation|"
+msgid "SMDH"
+msgstr "SMDH"
+
+msgctxt "EffectSizeComputation|"
+msgid "SMD1"
+msgstr "SMD1"
+
+msgctxt "EffectSizeComputation|"
+msgid "SMD1H"
+msgstr "SMD1H"
+
+msgctxt "EffectSizeComputation|"
+msgid "ROM"
+msgstr "ROM"
+
+msgctxt "EffectSizeComputation|"
+msgid "CVR"
+msgstr "CVR"
+
+msgctxt "EffectSizeComputation|"
+msgid "VR"
+msgstr "VR"
+
+msgctxt "EffectSizeComputation|"
+msgid "RR"
+msgstr "RR"
+
+msgctxt "EffectSizeComputation|"
+msgid "OR"
+msgstr "OR"
+
+msgctxt "EffectSizeComputation|"
+msgid "RD"
+msgstr "RD"
+
+msgctxt "EffectSizeComputation|"
+msgid "AS"
+msgstr "AS"
+
+msgctxt "EffectSizeComputation|"
+msgid "PETO"
+msgstr "PETO"
+
+msgctxt "EffectSizeComputation|"
+msgid "IRR"
+msgstr "IRR"
+
+msgctxt "EffectSizeComputation|"
+msgid "IRD"
+msgstr "IRD"
+
+msgctxt "EffectSizeComputation|"
+msgid "IRSD"
+msgstr "IRSD"
+
+msgctxt "EffectSizeComputation|"
+msgid "D2ORN"
+msgstr "D2ORN"
+
+msgctxt "EffectSizeComputation|"
+msgid "D2ORL"
+msgstr "D2ORL"
+
+msgctxt "EffectSizeComputation|"
+msgid "PBIT"
+msgstr "PBIT"
+
+msgctxt "EffectSizeComputation|"
+msgid "OR2DN"
+msgstr "OR2DN"
+
+msgctxt "EffectSizeComputation|"
+msgid "OR2DL"
+msgstr "OR2DL"
+
+msgctxt "EffectSizeComputation|"
+msgid "COR"
+msgstr "COR"
+
+msgctxt "EffectSizeComputation|"
+msgid "UCOR"
+msgstr "UCOR"
+
+msgctxt "EffectSizeComputation|"
+msgid "ZCOR"
+msgstr "ZCOR"
+
+msgctxt "EffectSizeComputation|"
+msgid "PHI"
+msgstr "PHI"
+
+msgctxt "EffectSizeComputation|"
+msgid "YUQ"
+msgstr "YUQ"
+
+msgctxt "EffectSizeComputation|"
+msgid "YUY"
+msgstr "YUY"
+
+msgctxt "EffectSizeComputation|"
+msgid "RTET"
+msgstr "RTET"
+
+msgctxt "EffectSizeComputation|"
+msgid "ZPHI"
+msgstr "ZPHI"
+
+msgctxt "EffectSizeComputation|"
+msgid "ZTET"
+msgstr "ZTET"
+
+msgctxt "EffectSizeComputation|"
+msgid "RPB"
+msgstr "RPB"
+
+msgctxt "EffectSizeComputation|"
+msgid "RBIS"
+msgstr "RBIS"
+
+msgctxt "EffectSizeComputation|"
+msgid "ZPB"
+msgstr "ZPB"
+
+msgctxt "EffectSizeComputation|"
+msgid "ZBIS"
+msgstr "ZBIS"
+
+msgctxt "EffectSizeComputation|"
+msgid "MN"
+msgstr "MN"
+
+msgctxt "EffectSizeComputation|"
+msgid "SMN"
+msgstr "SMN"
+
+msgctxt "EffectSizeComputation|"
+msgid "MNLN"
+msgstr "MNLN"
+
+msgctxt "EffectSizeComputation|"
+msgid "CVLN"
+msgstr "CVLN"
+
+msgctxt "EffectSizeComputation|"
+msgid "SDLN"
+msgstr "SDLN"
+
+msgctxt "EffectSizeComputation|"
+msgid "PR"
+msgstr "PR"
+
+msgctxt "EffectSizeComputation|"
+msgid "PLN"
+msgstr "PLN"
+
+msgctxt "EffectSizeComputation|"
+msgid "PLO"
+msgstr "PLO"
+
+msgctxt "EffectSizeComputation|"
+msgid "PAS"
+msgstr "PAS"
+
+msgctxt "EffectSizeComputation|"
+msgid "PFT"
+msgstr "PFT"
+
+msgctxt "EffectSizeComputation|"
+msgid "IR"
+msgstr "IR"
+
+msgctxt "EffectSizeComputation|"
+msgid "IRLN"
+msgstr "IRLN"
+
+msgctxt "EffectSizeComputation|"
+msgid "IRS"
+msgstr "IRS"
+
+msgctxt "EffectSizeComputation|"
+msgid "IRFT"
+msgstr "IRFT"
+
+msgctxt "EffectSizeComputation|"
+msgid "MC"
+msgstr "MC"
+
+msgctxt "EffectSizeComputation|"
+msgid "SMCC"
+msgstr "SMCC"
+
+msgctxt "EffectSizeComputation|"
+msgid "SMCR"
+msgstr "SMCR"
+
+msgctxt "EffectSizeComputation|"
+msgid "SMCRH"
+msgstr "SMCRH"
+
+msgctxt "EffectSizeComputation|"
+msgid "SMCRP"
+msgstr "SMCRP"
+
+msgctxt "EffectSizeComputation|"
+msgid "SMCRPH"
+msgstr "SMCRPH"
+
+msgctxt "EffectSizeComputation|"
+msgid "ROMC"
+msgstr "ROMC"
+
+msgctxt "EffectSizeComputation|"
+msgid "CVRC"
+msgstr "CVRC"
+
+msgctxt "EffectSizeComputation|"
+msgid "VRC"
+msgstr "VRC"
+
+msgctxt "EffectSizeComputation|"
+msgid "MPRR"
+msgstr "MPRR"
+
+msgctxt "EffectSizeComputation|"
+msgid "MPOR"
+msgstr "MPOR"
+
+msgctxt "EffectSizeComputation|"
+msgid "MPRD"
+msgstr "MPRD"
+
+msgctxt "EffectSizeComputation|"
+msgid "MPORC"
+msgstr "MPORC"
+
+msgctxt "EffectSizeComputation|"
+msgid "MPPETO"
+msgstr "MPPETO"
+
+msgctxt "EffectSizeComputation|"
+msgid "MPORM"
+msgstr "MPORM"
+
+msgctxt "EffectSizeComputation|"
+msgid "ARAW"
+msgstr "ARAW"
+
+msgctxt "EffectSizeComputation|"
+msgid "AHW"
+msgstr "AHW"
+
+msgctxt "EffectSizeComputation|"
+msgid "ABT"
+msgstr "ABT"
+
+msgctxt "EffectSizeComputation|"
+msgid "PCOR"
+msgstr "PCOR"
+
+msgctxt "EffectSizeComputation|"
+msgid "ZPCOR"
+msgstr "ZPCOR"
+
+msgctxt "EffectSizeComputation|"
+msgid "SPCOR"
+msgstr "SPCOR"
+
+msgctxt "EffectSizeComputation|"
+msgid "ZSPCOR"
+msgstr "ZSPCOR"
+
+msgctxt "EffectSizeComputation|"
+msgid "R2"
+msgstr "R2"
+
+msgctxt "EffectSizeComputation|"
+msgid "ZR2"
+msgstr "ZR2"
+
+msgctxt "EffectSizeComputation|"
+msgid "REH"
+msgstr "REH"
+
+msgctxt "EffectSizeComputation|"
+msgid "Group 1/Outcome +"
+msgstr "Grupo 1/Resultado +"
+
+msgctxt "EffectSizeComputation|"
+msgid "Time 1/Outcome +"
+msgstr "Tempo 1/Resultado +"
+
+msgctxt "EffectSizeComputation|"
+msgid "Outcome +/+"
+msgstr "Resultado +/+"
+
+msgctxt "EffectSizeComputation|"
+msgid "Coefficient α"
+msgstr "Coeficiente α"
+
+msgctxt "EffectSizeComputation|"
+msgid "Homozygous Dominant Alleles"
+msgstr "Alelos dominantes de homocigoto"
+
+msgctxt "EffectSizeComputation|"
+msgid "Group 1/Outcome -"
+msgstr "Grupo 1/Resultado -"
+
+msgctxt "EffectSizeComputation|"
+msgid "Time 1/Outcome -"
+msgstr "Tempo 1/Resultado -"
+
+msgctxt "EffectSizeComputation|"
+msgid "Outcome +/-"
+msgstr "Resultado +/-"
+
+msgctxt "EffectSizeComputation|"
+msgid "Heterozygous Alleles"
+msgstr "Alelos de heterocigoto"
+
+msgctxt "EffectSizeComputation|"
+msgid "Group 2/Outcome +"
+msgstr "Grupo 2/Resultado +"
+
+msgctxt "EffectSizeComputation|"
+msgid "Time 2/Outcome +"
+msgstr "Tempo 2/Resultado +"
+
+msgctxt "EffectSizeComputation|"
+msgid "Outcome -/+"
+msgstr "Resultado -/+"
+
+msgctxt "EffectSizeComputation|"
+msgid "Homozygous Recessive Alleles"
+msgstr "Alelos recesivos de homocigoto"
+
+msgctxt "EffectSizeComputation|"
+msgid "Group 2/Outcome Minus"
+msgstr "Grupo 2/Resultado menos"
+
+msgctxt "EffectSizeComputation|"
+msgid "Time 2/Outcome -"
+msgstr "Tempo 2/Resultado -"
+
+msgctxt "EffectSizeComputation|"
+msgid "Outcome -/-"
+msgstr "Resultado -/-"
+
+msgctxt "EffectSizeComputation|"
+msgid "Outcome +/+ and +/-"
+msgstr "Resultado +/+ e +/-"
+
+msgctxt "EffectSizeComputation|"
+msgid "Outcome -/+ and -/-"
+msgstr "Resultado -/+ e -/-"
+
+msgctxt "EffectSizeComputation|"
+msgid "Events Group 1"
+msgstr "Eventos Grupo 1"
+
+msgctxt "EffectSizeComputation|"
+msgid "Events"
+msgstr "Eventos"
+
+msgctxt "EffectSizeComputation|"
+msgid "Non-Events"
+msgstr "Sen eventos"
+
+msgctxt "EffectSizeComputation|"
+msgid "Items"
+msgstr "Elementos"
+
+msgctxt "EffectSizeComputation|"
+msgid "Predictors"
+msgstr "Preditores"
+
+msgctxt "EffectSizeComputation|"
+msgid "Events Group 2"
+msgstr "Eventos Grupo 2"
+
+msgctxt "EffectSizeComputation|"
+msgid "Person-Time Group 1"
+msgstr "Persona-Tempo Grupo 1"
+
+msgctxt "EffectSizeComputation|"
+msgid "Person-Time"
+msgstr "Persona-Tempo"
+
+msgctxt "EffectSizeComputation|"
+msgid "Person-Time Group 2"
+msgstr "Persona-Tempo Grupo 2"
+
+msgctxt "EffectSizeComputation|"
+msgid "Mean Group 1"
+msgstr "Media Grupo 1"
+
+msgctxt "EffectSizeComputation|"
+msgid "Mean Time 1 (or Group 1)"
+msgstr "Media Tempo 1 (ou Grupo 1)"
+
+msgctxt "EffectSizeComputation|"
+msgid "Mean Group 2"
+msgstr "Media Grupo 2"
+
+msgctxt "EffectSizeComputation|"
+msgid "Mean Time 2 (or Group 2)"
+msgstr "Media Tempo 2 (ou Grupo 2)"
+
+msgctxt "EffectSizeComputation|"
+msgid "Mean"
+msgstr "Media"
+
+msgctxt "EffectSizeComputation|"
+msgid "SD Group 1"
+msgstr "DP Grupo 1"
+
+msgctxt "EffectSizeComputation|"
+msgid "SD Time 1 (or Group 1)"
+msgstr "DP Tempo 1 (ou Grupo 1)"
+
+msgctxt "EffectSizeComputation|"
+msgid "SD Group 2"
+msgstr "DP Grupo 2"
+
+msgctxt "EffectSizeComputation|"
+msgid "SD Time 2 (or Group 2)"
+msgstr "DP Tempo 2 (ou Grupo 2)"
+
+msgctxt "EffectSizeComputation|"
+msgid "SD"
+msgstr "DP"
+
+msgctxt "EffectSizeComputation|"
+msgid "Sample Size Group 1"
+msgstr "Tamaño da mostra Grupo 1"
+
+msgctxt "EffectSizeComputation|"
+msgid "Sample Size Group 2"
+msgstr "Tamaño da mostra Grupo 2"
+
+msgctxt "EffectSizeComputation|"
+msgid "Correlation"
+msgstr "Correlación"
+
+msgctxt "EffectSizeComputation|"
+msgid "Proportion +/+"
+msgstr "Proporción +/+"
+
+msgctxt "EffectSizeComputation|"
+msgid "Sample Size"
+msgstr "Tamaño da mostra"
+
+msgctxt "EffectSizeComputation|"
+msgid "Cohen's d"
+msgstr "D de Cohen"
+
+msgctxt "EffectSizeComputation|"
+msgid "R-Squared"
+msgstr "R-cadrado"
+
+msgctxt "EffectSizeComputation|"
+msgid "T-Statistic"
+msgstr "Estatístico T"
+
+msgctxt "EffectSizeComputation|"
+msgid "F-Statistic"
+msgstr "Estatístico F"
+
+msgctxt "EffectSizeComputation|"
+msgid "(Semi)Partial Correlation"
+msgstr "Correlación (Semi)Parcial"
+
+msgctxt "EffectSizeComputation|"
+msgid "P-Value"
+msgstr "Valor p"
+
+msgctxt "EffectSizeComputation|"
+msgid "Effect Size"
+msgstr "Magnitude do efecto"
+
+msgctxt "EffectSizeComputation|"
+msgid "Standard Error"
+msgstr "Erro Padrón"
+
+msgctxt "EffectSizeComputation|"
+msgid "Sampling Variance"
+msgstr "Varianza da mostraxe"
+
+msgctxt "EffectSizeComputation|"
+msgid "95% Confidence Interval"
+msgstr "Intervalo co 95% de confianza"
+
+msgctxt "EffectSizeComputation|"
+msgid "Sampling Variance Type Mixed"
+msgstr "Varianza da mostraxe tipo mixto"
+
+msgctxt "EffectSizeComputation|"
+msgid "Subset"
+msgstr "Subconxunto"
+
+msgctxt "EffectSizeComputation|"
+msgid "Subset Level"
+msgstr "Nivel de subconxunto"
+
+msgctxt "EffectSizeComputation|"
+msgid "Frequency/event cell adjustment"
+msgstr "Axuste da cela frecuencia/evento"
+
+msgctxt "EffectSizeComputation|"
+msgid "Add"
+msgstr "Engadir"
+
+msgctxt "EffectSizeComputation|"
+msgid "To"
+msgstr "A"
+
+msgctxt "EffectSizeComputation|"
+msgid "All"
+msgstr "Todo"
+
+msgctxt "EffectSizeComputation|"
+msgid "Only zero"
+msgstr "Só cero"
+
+msgctxt "EffectSizeComputation|"
+msgid "If any zero"
+msgstr "Se algún cero"
+
+msgctxt "EffectSizeComputation|"
+msgid "None"
+msgstr "Ningún"
+
+msgctxt "EffectSizeComputation|"
+msgid "Drop studies with no cases/events"
+msgstr "Quitar estudos sen ningún caso/evento"
+
+msgctxt "EffectSizeComputation|"
+msgid "Yes"
+msgstr "Si"
+
+msgctxt "EffectSizeComputation|"
+msgid "No"
+msgstr "Non"
+
+msgctxt "EffectSizeComputation|"
+msgid "Sampling variance type"
+msgstr "Tipo de varianza da mostraxe"
+
+msgctxt "EffectSizeComputation|"
+msgid "LS"
+msgstr "LS"
+
+msgctxt "EffectSizeComputation|"
+msgid "HO"
+msgstr "HO"
+
+msgctxt "EffectSizeComputation|"
+msgid "LS2"
+msgstr "LS2"
+
+msgctxt "EffectSizeComputation|"
+msgid "UB"
+msgstr "UB"
+
+msgctxt "EffectSizeComputation|"
+msgid "AV"
+msgstr "AV"
+
+msgctxt "EffectSizeComputation|"
+msgid "AVHO"
+msgstr "AVHO"
+
+msgctxt "EffectSizeComputation|"
+msgid "ST"
+msgstr "ST"
+
+msgctxt "EffectSizeComputation|"
+msgid "CS"
+msgstr "CS"
+
+msgctxt "EffectSizeComputation|"
+msgid "mixed"
+msgstr "Mixto"
+
+msgctxt "EffectSizeComputation|"
+msgid "AV2"
+msgstr "AV2"
+
+msgctxt "EffectSizeComputation|"
+msgid "Options"
+msgstr "Opcións"
+
+msgctxt "EffectSizeComputation|"
+msgid "Compute sampling variance"
+msgstr "Calcular a varianza da mostraxe"
+
+msgctxt "EffectSizeComputation|"
+msgid "Computed Columns Names"
+msgstr "Nomes de columnas calculadas"
+
+msgctxt "EffectSizeComputation|"
+msgid "Effect size"
+msgstr "Magnitude do efecto"
+
+msgctxt "EffectSizeComputation|"
+msgid "Standard error"
+msgstr "Erro padrón"
+
+msgctxt "EffectSizeComputation|"
+msgid "Sampling variance"
+msgstr "Varianza da mostraxe"
+
+msgctxt "EffectSizeComputation|"
+msgid "Effect size type"
+msgstr "Tipo de magnitude do efecto"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Kossmeier, M., Tran, U. S., & Voracek, M. (2020). Power-enhanced funnel "
+"plots for meta-analysis. Zeitschrift für Psychologie, 228(1)."
+msgstr ""
+"Kossmeier, M., Tran, U. S., & Voracek, M. (2020). Power-enhanced funnel "
+"plots for meta-analysis. Zeitschrift für Psychologie, 228(1)."
+
+msgctxt "FunnelPlot|"
+msgid "Effect Size"
+msgstr "Magnitude do efecto"
+
+msgctxt "FunnelPlot|"
+msgid "Variable containing the observed effect sizes."
+msgstr "Variable que contén as magnitudes dos efectos observados."
+
+msgctxt "FunnelPlot|"
+msgid "Effect Size Standard Error"
+msgstr "Erro padrón da Magnitude do efecto"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Variable containing the standard errors corresponding to the effect sizes."
+msgstr ""
+"Variable que contén os erros padrón que corresponden ás magnitudes dos "
+"efectos."
+
+msgctxt "FunnelPlot|"
+msgid "Study Label"
+msgstr "Etiqueta do estudo"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Variable containing labels for the studies. Used for labeling outputs and "
+"plots."
+msgstr ""
+"Variables que conteñen as etiquetas para os estudos. Utilízase para "
+"etiquetar saídas de resultados e gráficas."
+
+msgctxt "FunnelPlot|"
+msgid "Split"
+msgstr "Separar"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Variable used to split the funnel plot into separate groups or categories."
+msgstr ""
+"Variable utilizada para dividir a gráfica en funil, en grupos ou categorías "
+"separadas."
+
+msgctxt "FunnelPlot|"
+msgid "Funnel under H₀"
+msgstr "Funil baixo H₀"
+
+msgctxt "FunnelPlot|"
+msgid "Specify the funnel plot under the null hypothesis."
+msgstr "Especificar a gráfica en funil baixo a hipótese nula."
+
+msgctxt "FunnelPlot|"
+msgid "Parameters"
+msgstr "Parámetros"
+
+msgctxt "FunnelPlot|"
+msgid "μ"
+msgstr "μ"
+
+msgctxt "FunnelPlot|"
+msgid "Fixed value for the mean effect size under the null hypothesis."
+msgstr "Valor fixo para a magnitude media do efecto baixo a hipótese nula."
+
+msgctxt "FunnelPlot|"
+msgid "𝜏"
+msgstr "𝜏"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Fixed value for 𝜏, representing the heterogeneity under the null hypothesis."
+msgstr ""
+"Valor fixo para 𝜏, que representa a heteroxeneidade baixo a hipótese nula."
+
+msgctxt "FunnelPlot|"
+msgid "Fill colors"
+msgstr "Encher cores"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Fill the funnel plot's prediction intervals under the null hypothesis with "
+"different colors."
+msgstr ""
+"Encher os intervalos de predición da gráfica en funil baixo a hipótese nula, "
+"con distintas cores."
+
+msgctxt "FunnelPlot|"
+msgid "Line type"
+msgstr "Tipo de liña"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Set the type of line of the funnel plot's prediction intervals under the "
+"null hypothesis."
+msgstr ""
+"Establecer o tipo de liña dos intervalos de predición da gráfica en funil "
+"baixo a hipótese nula."
+
+msgctxt "FunnelPlot|"
+msgid "None"
+msgstr "Ningunha"
+
+msgctxt "FunnelPlot|"
+msgid "Solid"
+msgstr "Sólida"
+
+msgctxt "FunnelPlot|"
+msgid "Dashed"
+msgstr "Descontinua"
+
+msgctxt "FunnelPlot|"
+msgid "Dotted"
+msgstr "Punteada"
+
+msgctxt "FunnelPlot|"
+msgid "Funnel under H₁"
+msgstr "Funil baixo H₁"
+
+msgctxt "FunnelPlot|"
+msgid "Estimate or specify the funnel plot under the alternative hypothesis."
+msgstr ""
+"Estimar ou especificar a gráfica en funil baixo a hipótese alternativa."
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Choose whether to estimate or manually fix the parameters for the funnel "
+"plot under the alternative hypothesis."
+msgstr ""
+"Escoller se estimar ou se fixar manualmente os parámetros para a gráfica en "
+"funil baixo a hipótese alternativa."
+
+msgctxt "FunnelPlot|"
+msgid "Estimated"
+msgstr "Estimado"
+
+msgctxt "FunnelPlot|"
+msgid "Fixed"
+msgstr "Fixo"
+
+msgctxt "FunnelPlot|"
+msgid "Method"
+msgstr "Método"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Select the heterogeneity estimation method for the funnel plot under the "
+"alternative hypothesis."
+msgstr ""
+"Seleccionar o método de estimación da heteroxeneidade para a gráfica en "
+"funil baixo a hipótese alternativa."
+
+msgctxt "FunnelPlot|"
+msgid "Equal Effects"
+msgstr "Efectos Iguais"
+
+msgctxt "FunnelPlot|"
+msgid "Fixed Effects"
+msgstr "Efectos Fixos"
+
+msgctxt "FunnelPlot|"
+msgid "Maximum Likelihood"
+msgstr "Máxima-Verosimilitude"
+
+msgctxt "FunnelPlot|"
+msgid "Restricted ML"
+msgstr "MV restrinxida"
+
+msgctxt "FunnelPlot|"
+msgid "DerSimonian-Laird"
+msgstr "DerSimonian-Laird"
+
+msgctxt "FunnelPlot|"
+msgid "Hedges"
+msgstr "Hedges"
+
+msgctxt "FunnelPlot|"
+msgid "Hunter-Schmidt"
+msgstr "Hunter-Schmidt"
+
+msgctxt "FunnelPlot|"
+msgid "Hunter-Schmidt (SSC)"
+msgstr "Hunter-Schmidt (SSC)"
+
+msgctxt "FunnelPlot|"
+msgid "Sidik-Jonkman"
+msgstr "Sidik-Jonkman"
+
+msgctxt "FunnelPlot|"
+msgid "Empirical Bayes"
+msgstr "Bayes Empírico"
+
+msgctxt "FunnelPlot|"
+msgid "Paule-Mandel"
+msgstr "Paule-Mandel"
+
+msgctxt "FunnelPlot|"
+msgid "Paule-Mandel (MU)"
+msgstr "Paule-Mandel (MU)"
+
+msgctxt "FunnelPlot|"
+msgid "Include heterogeneity"
+msgstr "Incluír heteroxeneidade"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Include heterogeneity (𝜏) in the funnel plot under the alternative "
+"hypothesis. If unselected, the heterogeneity estimate is not used to adjust "
+"the prediction intervals."
+msgstr ""
+"Incluír a heteroxeneidade (𝜏) na gráfica en funil baixo a hipótese "
+"alternativa. Se non se selecciona, a estimación da heteroxeneidade non se "
+"utiliza para axustar os intervalos de predición."
+
+msgctxt "FunnelPlot|"
+msgid "Estimates table"
+msgstr "Táboa de estimacións"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Summarize the effect size and heterogeneity estimates used for the funnel "
+"plot under the alternative hypothesis in a table."
+msgstr ""
+"Resumir as estimacións da magnitude do efecto e da heteroxeneidade "
+"utilizadas para a gráfica en funil baixo a hipótese alternativa nunha táboa."
+
+msgctxt "FunnelPlot|"
+msgid "Fixed value for the mean effect size under the alternative hypothesis."
+msgstr ""
+"Valor fixo para a magnitude media do efecto baixo a hipótese alternativa."
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Fixed value for 𝜏, representing the heterogeneity under the alternative "
+"hypothesis."
+msgstr ""
+"Valor fixo para 𝜏, que representa a heteroxeneidade baixo a hipótese "
+"alternativa."
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Fill the funnel plot's prediction intervals under the alternative hypothesis "
+"with different colors."
+msgstr ""
+"Encher os intervalos de predición da gráfica en funil baixo a hipótese "
+"alternativa, con diferentes cores."
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Set the type of line of the funnel plot's prediction intervals under the "
+"alternative hypothesis."
+msgstr ""
+"Establecer o tipo de liña para os intervalos de predición da gráfica en "
+"funil baixo a hipótese alternativa."
+
+msgctxt "FunnelPlot|"
+msgid "Power enhancement"
+msgstr "Mellora de potencia"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Visualize power levels to detect the effect size under the alternative "
+"hypothesis with alpha = 0.05."
+msgstr ""
+"Visualizar os niveis de potencia para detectar a magnitude do efecto baixo a "
+"hipótese alternativa con alfa = 0.05."
+
+msgctxt "FunnelPlot|"
+msgid "Breaks"
+msgstr "Roturas"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Specify the breakpoints for power enhancement. All levels must be within the "
+"0.05 - 1 range."
+msgstr ""
+"Especificar os puntos de rotura para a mellora de potencia. Tódolos niveis "
+"deben estar no rango 0.05 - 1."
+
+msgctxt "FunnelPlot|"
+msgid "Estimates Mapping"
+msgstr "Cartografar as estimacións"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Set mapping for labels, colors, and shapes of the effect size estimates."
+msgstr ""
+"Establecer o cartografado para etiquetas, cores e formas das estimacións da "
+"magnitude do efecto."
+
+msgctxt "FunnelPlot|"
+msgid "Label"
+msgstr "Etiqueta"
+
+msgctxt "FunnelPlot|"
+msgid "Show all or only a subset of the effect size estimate labels."
+msgstr ""
+"Amosar todas ou só un subconxunto das etiquetas das estimacións da magnitude "
+"do efecto."
+
+msgctxt "FunnelPlot|"
+msgid "All"
+msgstr "Todo"
+
+msgctxt "FunnelPlot|"
+msgid "Outside H₀"
+msgstr "Fóra de H₀"
+
+msgctxt "FunnelPlot|"
+msgid "Outside H₁"
+msgstr "Fóra de H₁"
+
+msgctxt "FunnelPlot|"
+msgid "Color"
+msgstr "Cor"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Map colors of the effect size estimates in the funnel plot based on the "
+"selected variable."
+msgstr ""
+"Cartografar as cores das estimacións da magnitude do efecto na gráfica en "
+"funil, en base á variable escollida."
+
+msgctxt "FunnelPlot|"
+msgid "Shape"
+msgstr "Forma"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Map shapes of the effect size estimates in the funnel plot based on the "
+"selected variable."
+msgstr ""
+"Cartografar as formas das estimacións da magnitude do efecto na gráfica en "
+"funil, en base á variable escollida."
+
+msgctxt "FunnelPlot|"
+msgid "Legend position"
+msgstr "Posición da lenda"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Set the legend position of the funnel plot. Available when color or shape "
+"mapping is enabled."
+msgstr ""
+"Establecer a posición da lenda da gráfica en funil. Dispoñible cando se "
+"permite o cartografado da cor ou da forma."
+
+msgctxt "FunnelPlot|"
+msgid "Bottom"
+msgstr "Inferior"
+
+msgctxt "FunnelPlot|"
+msgid "Right"
+msgstr "Dereita"
+
+msgctxt "FunnelPlot|"
+msgid "Top"
+msgstr "Arriba"
+
+msgctxt "FunnelPlot|"
+msgid "Left"
+msgstr "Esquerda"
+
+msgctxt "FunnelPlot|"
+msgid "Label offset"
+msgstr "Compensación de etiquetas"
+
+msgctxt "FunnelPlot|"
+msgid "Adjust the offset of labels in the funnel plot."
+msgstr "Axusta a compensación de etiquetas na gráfica en funil."
+
+msgctxt "FunnelPlot|"
+msgid "Funnel prediction interval"
+msgstr "Intervalo de predición en funil"
+
+msgctxt "FunnelPlot|"
+msgid "Specify the confidence levels for the funnel plot prediction intervals."
+msgstr ""
+"Especificar os niveis de confianza para os intervalos de predición da "
+"gráfica en funil."
+
+msgctxt "FunnelPlot|"
+msgid "Invert colors"
+msgstr "Inverter cores"
+
+msgctxt "FunnelPlot|"
+msgid "Invert the colors used in the funnel plot."
+msgstr "Inverter as cores utilizadas na gráfica en funil."
+
+msgctxt "FunnelPlot|"
+msgid "Funnel plot asymmetry tests"
+msgstr "Probas de asimetría de gráficas en funil"
+
+msgctxt "FunnelPlot|"
+msgid ""
+"Perform tests to detect asymmetry in the funnel plot indicating potential "
+"publication bias. The tests are performed with the 'Method' specified in the "
+"'Funnel under H₁' option."
+msgstr ""
+"Realizar probas para detectar asimetría na gráfica en funil, indicando o "
+"nesgo potencial de publicación. As probas realízanse co 'Método' "
+"especificado na opción 'Funil baixo H₁'."
+
+msgctxt "FunnelPlot|"
+msgid "Meta-regression"
+msgstr "Meta-Regresión"
+
+msgctxt "FunnelPlot|"
+msgid "Include meta-regression tests for funnel plot asymmetry."
+msgstr "Incluír probas de Meta-Regresión para asimetría de gráficas en funil."
+
+msgctxt "FunnelPlot|"
+msgid "Weighted regression"
+msgstr "Regresión ponderada"
+
+msgctxt "FunnelPlot|"
+msgid "Include weighted regression tests for funnel plot asymmetry."
+msgstr ""
+"Incluír probas de regresión ponderada para asimetría de gráficas en funil."
+
+msgctxt "FunnelPlot|"
+msgid "Rank correlation"
+msgstr "Correlación de rangos"
+
+msgctxt "FunnelPlot|"
+msgid "Include rank correlation tests for funnel plot asymmetry."
+msgstr ""
+"Incluír probas de correlación de rangos para asimetría de gráficas en funil."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Advanced options for the meta-analysis, including optimization settings, "
+"clustering, and permutation tests."
+msgstr ""
+"Opcións avanzadas para Meta-Análise, incluíndo probas de configuración de "
+"optimización, de conglomeración e de permutación."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Show metafor R code"
+msgstr "Amosar o código de R de metafor"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Display the underlying R code used by the metafor package to fit the model."
+msgstr ""
+"Presentar o código subxacente de R utilizado polo paquete metafor para "
+"axustar o modelo."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Weighted estimation"
+msgstr "Estimación ponderada"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Perform weighted estimation using inverse-variance weights. Uncheck for "
+"unweighted estimation."
+msgstr ""
+"Realizar a estimación ponderada utilizando ponderacións das inversas das "
+"varianzas. Desactivar para a estimación non poderada."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Clustering"
+msgstr "Conglomeración"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Use clubSandwich"
+msgstr "Usar clubSandwich"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Use the clubSandwich package for robust variance estimation in clustered "
+"data. Enabled when a clustering variable is specified."
+msgstr ""
+"Usar o paquete clubSandwich para a estimación robusta da varianza con datos "
+"conglomerados. Habilitado cando se especifica unha variable de "
+"conglomeración."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Small sample correction"
+msgstr "Corrección para mostras pequenas"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Apply a small-sample correction to the clustered standard errors."
+msgstr ""
+"Aplicar unha corrección para mostras pequenas aos erros padrón conglomerados."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Random Effects / Modele Structure"
+msgstr "Efectos aleatorios / Estrutura do modelo"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Use sparse matricies"
+msgstr "Usar matrices dispersas"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Use sparse matrix representations to speed up computations in models with "
+"large datasets or complex random effects structures. Available in multilevel/"
+"multivariate meta-analysis."
+msgstr ""
+"Usar representacións de matrices dispersas para acelerar os cálculos en "
+"modelos con grandes conxuntos de datos ou con estruturas complexas de "
+"efectos aleatorios. Dispoñible na Meta-Análise multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Compute covariance matrix"
+msgstr "Calcular a matriz de covarianzas"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Compute the covariance matrix of the parameter estimates. Available in "
+"multilevel/multivariate meta-analysis."
+msgstr ""
+"Calcular a matriz de covarianzas das estimacións dos parámetros. Dispoñible "
+"na Meta-Análise multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Fix Parameters"
+msgstr "Fixar parámetros"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "𝜏²"
+msgstr "𝜏²"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Fix the value of 𝜏² in the model instead of estimating it. Unavailable in "
+"multilevel/multivariate meta-analysis or with meta-regression model for "
+"heterogeneity. A more complex heterogeneity terms in the multilevel/"
+"multivariate meta-analysis can be fixed via the 'Extend metafor call' option."
+msgstr ""
+"Fixar o valor de 𝜏² no modelo, en troques de estimalo. Non dispoñible en "
+"Meta-Análise multinivel/multivariante ou co modelo de Meta-Regresión para "
+"heteroxeneidade. Poden fixarse termos de heteroxeneidade máis complexos na "
+"Meta-análise multinivel/multivariante mediante a opción 'Extender a "
+"invocación a metafor'."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Weights"
+msgstr "Ponderacións"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Use custom weights for the effect sizes instead of inverse-variance weights."
+msgstr ""
+"Usar ponderacións personalizadas para as magnitudes dos efectos en troques "
+"de ponderacións das inversas das varianzas."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Add Omibus Moderator Test"
+msgstr "Engadir a proba ómnibus de moderador"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Effect size coefficients"
+msgstr "Coeficientes da magnitude do efecto"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Include an omnibus test for the specified effect size regression "
+"coefficients. Available when effect size model terms are included. The "
+"coefficients should be selected via their comma-separated indicies which "
+"correspond to the order presented in the 'Effect Size Meta-Regression "
+"Coefficients' Table."
+msgstr ""
+"Incluír unha proba ómnibus para os coeficientes da regresión da magnitude do "
+"efecto especificados. Dispoñible cando se inclúen os termos do modelo da "
+"magnitude do efecto. Os coeficientes deben seleccionarse mediante os seus "
+"índices separados por comas, que correspondan coa orde presentada na táboa "
+"de 'Coeficientes da Meta-Regresión da magnitude do efecto'."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Specify the indices of the effect size meta-regression coefficients to "
+"include in the omnibus test, e.g. '(1, 2)' for the first and the second "
+"coefficient."
+msgstr ""
+"Especificar os índices dos coeficientes da Meta-Regresión da magnitude do "
+"efecto a incluír na proba ómnibus, p.e. '(1, 2)' para o primeiro e o segundo "
+"coeficientes."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Heterogeneity coefficients"
+msgstr "Coeficientes de heteroxeneidade"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Include an omnibus test for the specified heterogeneity regression "
+"coefficients. Available when heterogeneity model terms are included. The "
+"coefficients should be selected via their comma-separated indicies which "
+"correspond to the order presented in the 'Heterogeneity Meta-Regression "
+"Coefficients' Table."
+msgstr ""
+"Incluír unha proba ómnibus para os coeficientes da regresión de "
+"heteroxeneidade especificados. Dispoñible cando se inclúen os termos do "
+"modelo de heteroxeneidade. Os coeficientes deben seleccionarse mediante os "
+"seus índices separados por comas, que correspondan coa orde presentada na "
+"táboa de 'Coeficientes da Meta-Regresión de heteroxeneidade'."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Specify the indices of the heterogeneity meta-regression coefficients to "
+"include in the omnibus test, e.g. '(1, 2)' for the first and the second "
+"coefficient."
+msgstr ""
+"Especificar os índices dos coeficientes da Meta-Regresión de heteroxeneidade "
+"a incluír na proba ómnibus, p.e. '(1, 2)' para o primeiro e o segundo "
+"coeficientes."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Optimizer"
+msgstr "Optimizador"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Optimizer settings for estimating the meta-analytic models. A more complex/"
+"unavailbe settings can be specified via the 'Extend metafor call' option."
+msgstr ""
+"Configuración do optimizador para estimar os modelos Meta-Analíticos. Pódese "
+"especificar unha configuración máis complexa/non dispoñible mediante a "
+"opción 'Extender a invocación a metafor'."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Method"
+msgstr "Método"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Select the optimization method to use for fitting the model. Available in "
+"multilevel/multivariate meta-analysis or when heterogeneity model terms are "
+"included."
+msgstr ""
+"Elixir o método de optimización a usar para axustar o modelo. Dispoñible en "
+"Mata-Análises multinivel/multivariante ou cando se inclúen termos de modelos "
+"de heteroxeneidade."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Initial 𝜏²"
+msgstr "𝜏² inicial"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Specify the initial value of 𝜏² for the optimization algorithm. Available "
+"only for specific optimization methods and unavailable in multilevel/"
+"multivariate meta-analysis or when heterogeneity model terms are included."
+msgstr ""
+"Especificar o valor inicial de 𝜏² para o algoritmo de optimización. "
+"Dispoñible só para métodos específicos de optimización; e non dispoñible en "
+"Meta-Análise multinivel/multivariante nin cando se inclúen termos do modelo "
+"de heteroxeneidade."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Minimum 𝜏²"
+msgstr "Mínimo 𝜏²"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Specify the minimum allowable value of 𝜏² during optimization. Available "
+"only for specific optimization methods and unavailable in multilevel/"
+"multivariate meta-analysis or when heterogeneity model terms are included."
+msgstr ""
+"Especificar o valor mínimo admisible de 𝜏² durante a optimización. "
+"Dispoñible só para métodos específicos de optimización; e non dispoñible en "
+"Meta-Análise multinivel/multivariante nin cando se inclúen termos do modelo "
+"de heteroxeneidade."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Maximum 𝜏²"
+msgstr "Máximo 𝜏²"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Specify the maximim allowable value of 𝜏² during optimization. Available "
+"only for specific optimization methods and unavailable in multilevel/"
+"multivariate meta-analysis or when heterogeneity model terms are included."
+msgstr ""
+"Especificar o valor máximo admisible de 𝜏² durante a optimización. "
+"Dispoñible só para métodos específicos de optimización; e non dispoñible en "
+"Meta-Análise multinivel/multivariante nin cando se inclúen termos do modelo "
+"de heteroxeneidade."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Maximum evaluations"
+msgstr "Máximo de avaliacións"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Set the maximum number of function evaluations for the optimizer. Available "
+"when using specific optimization methods in multilevel/multivariate meta-"
+"analysis."
+msgstr ""
+"Establecer o número máximo de avaliacións da función para o optimizador. "
+"Dispoñible cando se usan métodos específicos de optimización en Meta-Análise "
+"multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Maximum iterations"
+msgstr "Máximo de iteracións"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Set the maximum number of iterations for the optimizer. Available when using "
+"certain estimation or optimization methods."
+msgstr ""
+"Establecer o número máximo de iteracións para o optimizador. Dispoñible "
+"cando se usan determinados métodos de optimización ou estimación."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Convergence tolerance"
+msgstr "Tolerancia da converxencia"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Set the convergence tolerance for the optimizer. Available when using "
+"certain methods without heterogeneity model terms or specific optimizers in "
+"multilevel/multivariate meta-analysis."
+msgstr ""
+"Establecer a tolerancia da converxencia para o optimizador. Dispoñible cando "
+"se usan determinados métodos sen termos do modelo de heteroxeneidade, ou "
+"determinados optimizadores en Meta-Análise multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Convergence relative tolerance"
+msgstr "Tolerancia relativa da converxencia"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Set the relative convergence tolerance for the optimizer. Available when "
+"heterogeneity model terms are included or using specific optimizers in "
+"multilevel/multivariate meta-analysis."
+msgstr ""
+"Establecer a tolerancia relativa da converxencia para o optimizador. "
+"Dispoñible cando se inclúen termos do modelo de heteroxeneidade ou se usan "
+"optimizadores específicos en Meta-Análise multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Step adjustment"
+msgstr "Axuste do paso"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Set the step adjustment factor for the optimizer. Available when using "
+"certain methods without heterogeneity model terms and unavailable in "
+"multilevel/multivariate meta-analysis."
+msgstr ""
+"Establecer o factor de axuste do paso para o optimizador. Dispoñible cando "
+"se usan determinados métodos sen termos do modelo de heteroxeneidade, e non "
+"dispoñible en Meta-Análise multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Initial trust region radius"
+msgstr "Radio da rexión de confianza inicial"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Set the initial trust region radius for the optimizer. Available when using "
+"specific optimization methods in multilevel/multivariate meta-analysis."
+msgstr ""
+"Establecer o radio da rexión de confianza inicial para o optimizador. "
+"Dispoñible cando se usan métodos específicos de optimización en Meta-Análise "
+"multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Final trust region radius"
+msgstr "Radio da rexión de confianza final"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Set the final trust region radius for the optimizer. Available when using "
+"specific optimization methods in multilevel/multivariate meta-analysis."
+msgstr ""
+"Establecer o radio da rexión de confianza final para o optimizador. "
+"Dispoñible cando se usan métodos específicos de optimización en Meta-Análise "
+"multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Maximum restarts"
+msgstr "Número máximo de reinicios"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Set the maximum number of restarts for the optimizer. Available when using "
+"the Nelder-Mead method ('nmk') in multilevel/multivariate meta-analysis."
+msgstr ""
+"Establecer o número máximo de reinicios para o optimizador. Dispoñible cando "
+"se usa o método de Nelder-Mead ('nmk') en Meta-Análise multinivel/"
+"multivariante."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Permutation test"
+msgstr "Proba de permutación"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Perform a permutation test for the model coefficients. Available in the meta-"
+"analysis module when clustering is not specified. The resulting permuation p-"
+"values are displayed in the 'p (permutation)' column. Note that permutation "
+"can be computationally intesive."
+msgstr ""
+"Realizar unha proba de permutación para os coeficientes do modelo. "
+"Dispoñible no módulo de Meta-Análise cando non se especifica a "
+"conglomeración. Os valores p resultantes da permutación amósanse na columna "
+"'p (permutación)'. Cae na conta de que a permutación pode ser intensiva en "
+"computación."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Type"
+msgstr "Tipo"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Select the type of permutation test."
+msgstr "Seleccionar o tipo de proba de permutación."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Approximate"
+msgstr "Aproximado"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Exact"
+msgstr "Exacto"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Iteration"
+msgstr "Iteración"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Specify the number of permutations to use in the approximate permutation "
+"test."
+msgstr ""
+"Especificar o número de permutacións a usar na proba de permutación "
+"aproximada."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid "Extend metafor call"
+msgstr "Extender a invocación de metafor"
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"Allow adding custom arguments to the metafor function call. Consult the "
+"metafor R package documentation for the available commands (https://wviechtb."
+"github.io/metafor/reference/rma.uni.html and https://wviechtb.github.io/"
+"metafor/reference/rma.mv.html)."
+msgstr ""
+"Permitir engadir argumentos personalizados á invocación da función metafor. "
+"Consulta a documentación do paquete metafor de R para ver as instrucións "
+"dispoñibles (https://wviechtb.github.io/metafor/reference/rma.uni.html e "
+"https://wviechtb.github.io/metafor/reference/rma.mv.html)."
+
+msgctxt "ClassicalMetaAnalysisAdvanced|"
+msgid ""
+"The additional arguments to the metafor function call must be specified as a "
+"named list (the 'list()' call can be ommited). E.g., 'list(tau2 = 1)' (or "
+"'tau2 = 1') can be used to fix the between-study heterogeneity to a given "
+"value. Multiple arguments must be comma-seprated, e.g. 'list(tau2 = 1, "
+"gamma2 = 0.5)' (or 'tau2 = 1, gamma2 = 0.5'). New lines are ignored."
+msgstr ""
+"Os argumentos adicionais á invocación da función metafor deben especificarse "
+"como unha lista designada (a invocación 'list()' pode omitirse). P.e., "
+"'list(tau2 = 1)' (ou 'tau2 = 1') pode usarse para fixar a heteroxeneidade "
+"entre-estudos nun valor dado. Os argumentos múltiples deben estar separados "
+"con comas, p.e. 'list(tau2 = 1, gamma2 = 0.5)' (ou 'tau2 = 1, gamma2 = "
+"0.5'). As liñas novas se ignoran."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Bubble Plot"
+msgstr "Gráfica de burbullas"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid ""
+"Options for visualizing the estimated effect sizes at different levels of "
+"the predictors with the observed estimates visualized as bubbles. Continuous "
+"predictors can be split into three bins with cutoffs at ±x standard "
+"deviations from the mean. Predictors that are not specified for either the x-"
+"axis, lines, or plots are averaged over."
+msgstr ""
+"Opcións para visualizar as magnitudes estimadas dos efectos a distintos "
+"niveis dos preditores, coas estimacións observadas visualizadas como "
+"burbullas. Os preditores continuos poden separarse en tres barras con puntos "
+"de corte en ±x desvíos padrón desde a media. Para os preditores que non "
+"están especificados para o eixe x, nin liñas, nin gráficas, se calcula a "
+"media."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Model Variables"
+msgstr "Variables do modelo"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Selected Variable"
+msgstr "Variable escollida"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Variable to be visualized on the x-axis."
+msgstr "Variable a visualizar no eixe x."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Separate Lines"
+msgstr "Liñas separadas"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid ""
+"Variable(s) according to which predictions are split across different lines."
+msgstr ""
+"Variable(s) coas que se separan as predicións a través de distintas liñas."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Separate Plots"
+msgstr "Gráficas separadas"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid ""
+"Variable(s) according to which predictions are split across different plots."
+msgstr ""
+"Variable(s) coas que se separan as predicións a través de distintas gráficas."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "SD factor covariates"
+msgstr "DP das covariantes dos factores"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Standard deviation cutoff used for binning continuous covariates."
+msgstr ""
+"Punto de corte do desvío padrón utilizado para representar con barras as "
+"covariantes continuas."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Bubbles"
+msgstr "Burbullas"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Size"
+msgstr "Tamaño"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Options for determining the size of the observed estimates."
+msgstr "Opcións para determinar o tamaño das estimacións observadas."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Weight"
+msgstr "Ponderación"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Inverse variance"
+msgstr "Varianza inversa"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Equal"
+msgstr "Igual"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Relative size"
+msgstr "Tamaño relativo"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Set the relative size of the observed estimates."
+msgstr "Establecer o tamaño relativo das estimacións observadas."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Transparency"
+msgstr "Transparencia"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Set the transparency of the observed estimates."
+msgstr "Establecer a transparencia das estimacións observadas."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Jitter"
+msgstr "Oscilación"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid ""
+"Set the degree of x-coordinate jitter of the observed estimates. Available "
+"when the x-axis variable is nominal."
+msgstr ""
+"Establecer o grao de oscilación da coordenada x das estimacións observadas. "
+"Dispoñible cando o eixe x é nominal."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Confidence intervals"
+msgstr "Intervalos de confianza"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Include confidence intervals of the estimated effect sizes."
+msgstr "Incluír intervalos de confianza das magnitudes estimadas do efecto."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Prediction intervals"
+msgstr "Intervalos de predición"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Include prediction intervals of the estimated effect sizes."
+msgstr "Incluír intervalos de predición das magnitudes estimadas do efecto."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Theme"
+msgstr "Esquema de cores"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Set the theme of the bubble plot."
+msgstr "Establecer o esquema de cores da gráfica de burbullas."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "White background"
+msgstr "Fondo branco"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Light"
+msgstr "Claro"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Minimal"
+msgstr "Mínimo"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Relative text size"
+msgstr "Tamaño relativo de texto"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Adjust the text size of the bubble plot."
+msgstr "Axustar o tamaño de texto na gráfica de burbullas."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Legend position"
+msgstr "Posición da lenda"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Set the legend position of the bubble plot."
+msgstr "Establecer a posición da lenda na gráfica de burbullas."
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "None"
+msgstr "Ningunha"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Bottom"
+msgstr "Inferior"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Right"
+msgstr "Dereita"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Top"
+msgstr "Arriba"
+
+msgctxt "ClassicalMetaAnalysisBubblePlot|"
+msgid "Left"
+msgstr "Esquerda"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid ""
+"Options for evaluating the influence of individual studies and assessing "
+"model diagnostics, including variance inflation factors, casewise "
+"diagnostics, and diagnostic plots."
+msgstr ""
+"Opcións para avaliar a influencia de estudos individuais e verificar "
+"diagnósticos do modelo, incluíndo factores de inflación da varianza, "
+"diagnósticos caso a caso e gráficas de diagnósticos."
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Variance inflation factor"
+msgstr "Factor de Inflación da Varianza"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid ""
+"Include variance inflation factors to assess multicollinearity among "
+"predictors. Available when predictors are included in the model."
+msgstr ""
+"Incluír factores de inflación da varianza para verificar a "
+"multicolinearidade entre preditores. Dispoñible cando se inclúen preditores "
+"no modelo."
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Aggregate by terms"
+msgstr "Agregar por termos"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid ""
+"Aggregate variance inflation factors by terms instead of individual "
+"coefficients."
+msgstr ""
+"Agregar os factores de inflación da varianza por termos, en troques de "
+"coeficientes individuais."
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid ""
+"Include casewise diagnostics to assess the influence of individual studies "
+"on the meta-analysis results."
+msgstr ""
+"Incluír diagnósticos caso a caso para verificar a influencia de estudos "
+"individuais nos resultados da Meta-Análise."
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Show influential only"
+msgstr "Amosar só influentes"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid ""
+"Show only the influential studies in the casewise diagnostics. Unvailable "
+"when performing multilevel/multivariate meta-analysis."
+msgstr ""
+"Amosar só estudos influentes nos diagnósticos caso a caso. Non dispoñible "
+"cando se realiza a Meta-Análise multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Include predictors"
+msgstr "Incluír preditores"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Include predictor variables in the casewise diagnostics output."
+msgstr ""
+"Incluír variables preditoras na saída de resultados dos diagnósticos caso a "
+"caso."
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Difference in coefficients"
+msgstr "Diferenza en coeficientes"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid ""
+"Include the differences in model coefficients when each study is excluded "
+"(DFBETAS)."
+msgstr ""
+"Incluír as diferenzas nos coeficientes do modelo cando se exclúe cada estudo "
+"(DFBETAS)."
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Export to dataset"
+msgstr "Exportar a conxunto de datos"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Export the casewise diagnostics results to the dataset."
+msgstr ""
+"Exportar os resultados dos diagnósticos caso a caso, ao conxunto de datos."
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Influential indicator only"
+msgstr "Só indicador de influentes"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Export only the indicator of influential cases to the dataset."
+msgstr "Exportar só o indicador de casos influentes, ao conxunto de datos."
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Profile likelihood"
+msgstr "Verosimilitude do perfil"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Include a profile likelihood plot for the heterogeneity parameter (τ²)."
+msgstr ""
+"Incluír unha gráfica da verosimilitude do perfil para o parámetro (τ²) de "
+"heteroxeneidade."
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Baujat"
+msgstr "Baujat"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid ""
+"Include a Baujat plot to detect studies contributing to heterogeneity and "
+"overall effect size. Unvailable when performing multilevel/multivariate meta-"
+"analysis."
+msgstr ""
+"Incluír unha gráfica de Baujat para detectar estudos que contribúen á "
+"heteroxeneidade e á magnitude global do efecto. Non dispoñible cando se "
+"realiza Meta-Análise multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Residual funnel"
+msgstr "Funil dos erros"
+
+msgctxt "ClassicalMetaAnalysisDiagnostics|"
+msgid "Include a residual funnel plot."
+msgstr "Incluír unha gráfica en funil dos erros."
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "Estimated Marginal Means"
+msgstr "Medias marxinais estimadas"
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid ""
+"Options to compute estimated marginal means (EMMs) for the effect size and "
+"heterogeneity models, allowing examination of predicted values at specific "
+"levels of moderators."
+msgstr ""
+"Opcións para calcular as medias marxinais estimadas (EMMs) para modelos da "
+"magnitude do efecto e de heteroxeneidade, permitindo o exame dos valores "
+"preditos a niveis determinados dos moderadores."
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "Effect size"
+msgstr "Magnitude do efecto"
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "Model variables"
+msgstr "Variables do modelo"
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "Selected variables"
+msgstr "Variables escollidas"
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid ""
+"Variables selected for computing estimated marginal means in the effect size "
+"model."
+msgstr ""
+"Variables escollidas para calcular as medias marxinais estimadas no modelo "
+"da magnitude do efecto."
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "SD factor covariates"
+msgstr "DP das covariantes dos factores"
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid ""
+"Standard deviation factor for covariates when computing estimated marginal "
+"means; applies to scale variables."
+msgstr ""
+"Factor de desvío padrón para covariantes cando se calculan as medias "
+"marxinais estimadas; se aplica a variables de escala."
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "Add adjusted estimate"
+msgstr "Engadir estimación axustada"
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid ""
+"Include the adjusted effect estimate, which accounts for the moderators in "
+"the meta-regression model. This provides the effect size adjusted for the "
+"influence of moderators, as opposed to the pooled effect which combines the "
+"estimates across all studies."
+msgstr ""
+"Incluír a estimación do efecto axustado, que ten en conta os moderadores no "
+"modelo de Meta-Regresión. Isto proporciona a magnitude do efecto axustada "
+"pola influencia dos moderadores, en contraposición ao efecto combinado que "
+"mestura as estimacións a través de tódolos estudos."
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "Test against"
+msgstr "Probar fronte a"
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "Option to test the estimated marginal means against a specific value."
+msgstr ""
+"Opción para probar as medias marxinais estimadas fronte a un valor "
+"determinado."
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "Heterogeneity"
+msgstr "Heteroxeneidade"
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid ""
+"Variables selected for computing estimated marginal means in the "
+"heterogeneity model. Unvailable when performing multilevel/multivariate meta-"
+"analysis."
+msgstr ""
+"Variables escollidas para calcular as medias marxinais estimadas no modelo "
+"de heteroxeneidade. Non dispoñible cando se realiza a Meta-Análise "
+"multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid ""
+"Include the adjusted heterogeneity estimate, which accounts for the "
+"moderators in the heterogeneity meta-regression model. This provides the "
+"heterogeneity estimate adjusted for the influence of moderators, as opposed "
+"to the pooled heterogeneity estimate which combines the heterogeneity "
+"estimates across all studies."
+msgstr ""
+"Incluír a estimación de heteroxeneidade axustada, que ten en conta os "
+"moderadores no modelo de Meta_Regresión de heteroxeneidade. Isto proporciona "
+"a estimación da heteroxeneidade axustada pola influencia dos moderadores, en "
+"contraposición á estimación da heteroxeneidade combinada que mestura as "
+"estimacións da heteroxeneidade a través de tódolos estudos."
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "Heterogeneity transformation"
+msgstr "Transformación de heteroxeneidade"
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid ""
+"Transformation to apply to the heterogeneity estimate: tau (𝜏) or tau-"
+"squared (𝜏²)."
+msgstr ""
+"Transformación a aplicar á estimación da heteroxeneidade: tau (𝜏) ou tau-"
+"cadrada (𝜏²)."
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "𝜏"
+msgstr "𝜏"
+
+msgctxt "ClassicalMetaAnalysisEstimatedMarginalMeans|"
+msgid "𝜏²"
+msgstr "𝜏²"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Forest Plot"
+msgstr "Gráfica forestal"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Options for visualizing study-level information, estimated marginal means, "
+"and the model information in an all encompassing forest plot. Different "
+"sections of the forest plot can be individually enabled/disabled."
+msgstr ""
+"Opcións para visualizar información de nivel-estudo, medias marxinais "
+"estimadas e a información dos modelos nunha gráfica forestal que abarque "
+"todo. Pódense habilitar/inhabilitar por separado distintas seccións da "
+"gráfica forestal."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Study information"
+msgstr "Información do estudo"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Add study-level information panel to the forest plot. There are three "
+"sections of the study-level information panel: a) the left section with "
+"study labels, names, and etc designed via the 'Selected Variables' option, "
+"b) the middle section visualizing the estimates and confidence intervals "
+"based on the meta-analytic input, c) the right section textually summarizing "
+"the estimates and confidence intervals based on the meta-analytic input."
+msgstr ""
+"Engadir panel de información de nivel-estudo á gráfica forestal. Hai tres "
+"seccións no panel de información de nivel-estudo: a) a sección esquerda con "
+"etiquetas, nomes, etc... do modelo requiridos coa opción 'Variables "
+"escollidas', b) a sección media que visualiza as estimacións e intervalos de "
+"confianza baseados na entrada Meta-Analítica, c) a sección dereita que "
+"resume textualmente as estimacións e intervalos de confianza baseados na "
+"entrada Meta-Analítica."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Selected Variables"
+msgstr "Variables escollidas"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Select variables containing study-level information to be printed in the "
+"left section of the panel. Each variable creates a new column in the panel."
+msgstr ""
+"Escoller variables que conteñen información de nivel-estudo a presentar na "
+"sección esquerda do panel. Cada variable xera unha nova columna no panel."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Title"
+msgstr "Título"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Width"
+msgstr "Ancho"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Alignment"
+msgstr "Aliñación"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Adjust the Title, Width, and Alignment of each column in the left section of "
+"the study-level information panel."
+msgstr ""
+"Axustar o Título, Ancho e Aliñación de cada columna na sección esquerda do "
+"panel de información de nivel-estudo."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Left"
+msgstr "Esquerda"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Middle"
+msgstr "Media"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Right"
+msgstr "Dereita"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Predicted effects"
+msgstr "Efectos preditos"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include predicted effect sizes in the middle section of the study-level "
+"information panel."
+msgstr ""
+"Incluír magnitudes estimadas do efecto na sección media do panel de "
+"información de nivel-estudo."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Study weights"
+msgstr "Ponderacións dos estudos"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include the study weights in the right section of the study-level "
+"information panel."
+msgstr ""
+"Incluír as ponderacións dos estudos na sección dereita do panel de "
+"información de nivel-estudo."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Secondary confidence interval"
+msgstr "Intervalo secundario de confianza"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include secondary confidence interval for effect sizes in the middle section "
+"of the study-level information panel."
+msgstr ""
+"Incluír os intervalos secundarios de confianza para as magnitudes do efecto "
+"na sección media do panel de información de nivel-estudo."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Order"
+msgstr "Orde"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Order the study-level information panel by a variable."
+msgstr "Ordenar o panel de información de nivel-estudo segundo unha variable."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "By"
+msgstr "Por"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Estimated marginal means"
+msgstr "Medias marxinais estimadas"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Add estimated marginal means information to the forest plot. Available when "
+"effect size meta-regression is specified."
+msgstr ""
+"Engadir información das medias marxinais estimadas á gráfica forestal. "
+"Dispoñible cando se especifica a Meta-Regresión da magnitude do efecto."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Model Variables"
+msgstr "Variables do modelo"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Select variables for which the estimated marginal means are visualized."
+msgstr ""
+"Escoller as variables para as que se visualizan as medias marxinais "
+"estimadas."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Term tests"
+msgstr "Probas de termos"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include the omnibus term test of variables included in the estimated "
+"marginal means. The null hypothesis states that the effect size at all "
+"levels of the categorical variable are equal or that there is no linear "
+"association between the effect size and the continuous variable."
+msgstr ""
+"Incluír a proba ómnibus de termos das variables incluídas nas medias "
+"marxinais estimadas. A hipótese nula establece que a magnitude do efecto en "
+"tódolos niveis da variable con categorías é a mesma, ou que non hai "
+"asociación linear entre a magnitude do efecto e a variable continua."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Coefficient tests"
+msgstr "Probas de coeficientes"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include coefficient tests of variables included in the estimated marginal "
+"means. The null hypothesis states that the estimated marginal mean for a "
+"given level equals the tested value."
+msgstr ""
+"Incluír probas dos coeficientes das variables incluídas nas medias marxinais "
+"estimadas. A hipótese nula establece que a media marxinal estimada para un "
+"nivel dado é igual ao valor que se proba."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Against"
+msgstr "Fronte a"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Specify the test value for the coefficient tests."
+msgstr "Especificar o valor que se proba para as probas de coeficientes."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Adjusted effect size estimate"
+msgstr "Estimación da magnitude do efecto axustada"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include the adjusted effect size estimate in the estimated marginal means "
+"section."
+msgstr ""
+"Incluír a estimación da magnitude do efecto axustada, na sección das medias "
+"marxinais estimadas."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Model information"
+msgstr "Información do modelo"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Add meta-analytic model information to the forest plot."
+msgstr "Engadir información do modelo Meta-Analítico á gráfica forestal."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Pooled effect size estimate"
+msgstr "Estimación da magnitude do efecto combinada"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include the overall meta-analytic effect size estimate in the model "
+"information section."
+msgstr ""
+"Incluír a estimación da magnitude do efecto Meta-Analítica global na sección "
+"de información do modelo."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Pooled effect size test"
+msgstr "Proba da magnitude do efecto combinada"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include the test of the overall meta-analytic effect size estimate in the "
+"model information section."
+msgstr ""
+"Incluír a proba da estimación da magnitude do efecto Meta-Analítica global "
+"na sección de información do modelo."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Residual heterogeneity test"
+msgstr "Proba de Heteroxeneidade dos erros"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include the test of the residual heterogeneity in the model information "
+"section."
+msgstr ""
+"Incluír a proba de heteroxeneidade dos erros na sección de información do "
+"modelo."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Residual heterogeneity estimate"
+msgstr "Estimación da heteroxeneidade dos erros"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include the meta-analytic residual heterogeneity estimate in the model "
+"information section. Not available for multilevel/multivariate meta-analysis."
+msgstr ""
+"Incluír a estimación de heteroxeneidade dos erros Meta-Analítica na sección "
+"de información do modelo. Non dispoñible para Meta-Análise multinivel/"
+"multivariante."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Effect size moderation test"
+msgstr "Proba de moderación da magnitude do efecto"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include the omnibus effect size moderation test in the model information "
+"section. Available when effect size meta-regression is specified."
+msgstr ""
+"Incluír a proba ómnibus de moderación da magnitude do efecto na sección de "
+"información do modelo. Dispoñible cando se especifica a Meta-Regresión da "
+"magnitude do efecto."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Heterogeneity moderation test"
+msgstr "Proba de moderación de heteroxeneidade"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include the omnibus heterogeneity moderation test in the model information "
+"section. Available when moderation meta-regression is specified."
+msgstr ""
+"Incluír a proba ómnibus de moderación de heteroxeneidade na sección de "
+"información do modelo. Dispoñible cando se especifica a Meta-Regresión de "
+"moderación."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Settings"
+msgstr "Configuración"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Prediction intervals"
+msgstr "Intervalos de predición"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include prediction intervals of the estimated marginal means and the model "
+"information output."
+msgstr ""
+"Incluír intervalos de predición das medias marxinais estimadas e saída de "
+"resultados da información do modelo."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Estimates and confidence intervals"
+msgstr "Estimacións e intervalos de confianza"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Include effect size estimates and confidence intervals summary text in the "
+"right panel of the forest plot."
+msgstr ""
+"Incluír texto de resumo sobre as estimacións da magnitude do efecto e os "
+"intervalos de confianza, no panel dereito da gráfica forestal."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Tests in right panel"
+msgstr "Probas no panel dereito"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Move test results text to the right panel."
+msgstr "Mover o texto cos resultados das probas, ao panel dereito."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Mapping"
+msgstr "Cartografar"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Select a variable for encoding the color or shape of the study information "
+"and the estimated marginal means output."
+msgstr ""
+"Escoller unha variable para codificar a cor ou forma da saída de resultados "
+"da información do estudo e das medias marxinais estimadas."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Color"
+msgstr "Cor"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Shape"
+msgstr "Forma"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Relative Size"
+msgstr "Tamaño relativo"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Adjust the relative size of the forest plot components."
+msgstr "Axustar o tamaño relativo das compoñentes da gráfica forestal."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Estimates"
+msgstr "Estimacións"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Text"
+msgstr "Texto"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Axis labels"
+msgstr "Etiquetas dos eixes"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Row"
+msgstr "Fila"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Left panel"
+msgstr "Panel esquerdo"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Middle panel"
+msgstr "Panel medio"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Right panel"
+msgstr "Panel dereito"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Adjust width based on text"
+msgstr "Axustar o largo en base ao texto"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Turn off the automatic width adjustment of the individual components."
+msgstr "Desactivar o axuste automático do largo das compoñentes individuais."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Auxiliary"
+msgstr "Auxiliar"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Digits"
+msgstr "Díxitos"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Number of digits printed for the effect size and confidence intervals "
+"summary text."
+msgstr ""
+"Número de díxitos presentados no texto do resumo da magnitude do efecto e "
+"intervalos de confianza."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Tests information"
+msgstr "Información das probas"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Statistic and p-value"
+msgstr "Estatístico e valor p"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "P-value"
+msgstr "Valor p"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Change color of the plotted objects. Only available if no color mapping is "
+"selected."
+msgstr ""
+"Trocar a cor dos obxectos debuxados. Só dispoñible se non se escolle ningún "
+"mapa de cores."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Black"
+msgstr "Negro"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Blue"
+msgstr "Azul"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Red"
+msgstr "Vermello"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Add vertical line"
+msgstr "Engadir liña vertical"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Add a solid vertical line in the forest plot."
+msgstr "Engadir unha liña vertical sólida na gráfica forestal."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Add vertical line (2)"
+msgstr "Engadir liña vertical (2)"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Add a dotted vertical line in the forest plot."
+msgstr "Engadir unha liña vertical punteada na gráfica forestal."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "X-axis label"
+msgstr "Etiqueta do eixe x"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid ""
+"Change the x-axis label of the forest plot (the default 'Effect Size' "
+"changes in accordance with the selected effect size transformation)."
+msgstr ""
+"Trocar a etiqueta do eixe x na gráfica forestal (a 'Magnitude do efecto' "
+"predeterminada cambia de acordo coa transformación escollida da magnitude do "
+"efecto)."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "X-axis limits"
+msgstr "Límites do eixe x"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Change the default x-axis limits."
+msgstr "Trocar os límites predeterminados do eixe x."
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Lower"
+msgstr "Inferior"
+
+msgctxt "ClassicalMetaAnalysisForestPlot|"
+msgid "Upper"
+msgstr "Superior"
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Model"
+msgstr "Modelo"
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid ""
+"Options for specifing the effect size and heterogeneity models based on the "
+"included predictors, including model terms, intercepts, and link functions."
+msgstr ""
+"Opcións para especificar os modelos de magnitude do efecto e de "
+"heteroxeneidade baseados nos preditores incluídos, abranguendo termos do "
+"modelo, constantes e funcións de enlace."
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Effect size model"
+msgstr "Modelo da magnitude do efecto"
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Specify the effect size model."
+msgstr "Especificar o modelo da magnitude do efecto."
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Available Components"
+msgstr "Compoñentes dispoñibles"
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Model Terms"
+msgstr "Elementos do Modelo"
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Variables assigned as model terms in the effect size model."
+msgstr "Variables asignadas como termos no modelo da magnitude do efecto."
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Include intercept"
+msgstr "Incluír a constante"
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Include an intercept in the effect size model."
+msgstr "Incluír unha constante no modelo da magnitude do efecto."
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Heterogeneity model"
+msgstr "Modelo de heteroxeneidade"
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid ""
+"Specify the heterogeneity model. Unvailable when performing multilevel/"
+"multivariate meta-analysis."
+msgstr ""
+"Especificar o modelo de heteroxeneidade. Non dispoñible cando se realiza "
+"Meta-Análise multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid ""
+"Variables assigned as model terms in the heterogeneity model. Specifying a "
+"heterogeneity model results in a 'location-scale' meta-analytic model."
+msgstr ""
+"Variables asignadas como termos no modelo de heteroxeneidade. Especificar un "
+"modelo de heteroxeneidade dá lugar a un modelo Meta-Analítico de 'posición-"
+"escala'."
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Include an intercept in the heterogeneity model."
+msgstr "Incluír unha constante no modelo de heteroxeneidade."
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Link"
+msgstr "Enlace"
+
+msgctxt "ClassicalMetaAnalysisModel|"
+msgid "Link function used in the heterogeneity model: 'log' or 'identity'."
+msgstr ""
+"Función de enlace utilizada no modelo de heteroxeneidade: 'log' ou "
+"'identidade'."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Options for summarizing the meta-analytic results."
+msgstr "Opcións para resumir os resultados Meta-Analíticos."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Heterogeneity"
+msgstr "Heteroxeneidade"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid ""
+"Summarize the meta-analytic between-study heterogeneity. Unvailable when "
+"performing multilevel/multivariate meta-analysis."
+msgstr ""
+"Resumir a heteroxeneidade entre-estudos Meta-Analítica. Non dispoñible cando "
+"se realiza Meta-Análise multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "𝜏"
+msgstr "𝜏"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Include 𝜏, the square root of the estimated between-study variance."
+msgstr "Incluír 𝜏, a raíz cadrada da varianza estimada entre-estudos."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "𝜏²"
+msgstr "𝜏²"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Include 𝜏², the estimated between-study variance."
+msgstr "Incluír 𝜏², a varianza estimada entre-estudos."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "I²"
+msgstr "I²"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid ""
+"Include I², the percentage of total variation across studies due to "
+"heterogeneity."
+msgstr ""
+"Incluír I², a porcentaxe da variación total a través dos estudos debida á "
+"heteroxeneidade."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "H²"
+msgstr "H²"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid ""
+"Include H², an index indicating the ratio of total variability to sampling "
+"variability."
+msgstr ""
+"Incluír H², un índice que indica o cociente entre a variabilidade total e a "
+"variabilidade da mostraxe."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Random Effects / Model Structure"
+msgstr "Efectos aleatorios / Estrutura do modelo"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Available when performing multilevel/multivariate meta-analysis."
+msgstr "Dispoñible cando se realiza Meta-Análise multinivel/multivariante."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Test inclusion"
+msgstr "Probar a inclusión"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid ""
+"Test the inclusion of the individual Random Effects / Model Structure "
+"components. The test compares the complete model (i.e., including all "
+"components) with a model without one of the specified Random Effects / Model "
+"Structure components at a time."
+msgstr ""
+"Probar a inclusión das compoñentes individuais de Efectos aleatorios / "
+"Estrutura do modelo. A proba compara de cada vez, o modelo completo (i.e., "
+"incluíndo tódalas compoñentes) con un modelo sen algunha das compoñentes "
+"especificadas de Efectos aleatorios / Estrutura do modelo."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Meta-Regression"
+msgstr "Meta-Regresión"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid ""
+"Create summaries of the meta-regression. Available when predictors are "
+"included."
+msgstr ""
+"Crear resumos da Meta-Regresión. Dispoñible cando se inclúen preditores."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Term tests"
+msgstr "Probas de termos"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid ""
+"Include tests for each term in the meta-regression model. The null "
+"hypothesis states that the effect size at all levels of the categorical "
+"variable are equal or that there is no linear association between the effect "
+"size and the continuous variable)."
+msgstr ""
+"Incluír probas para cada termo do modelo de Meta-Regresión. A hipótese nula "
+"establece que a magnitude do efecto en tódolos niveis da variable con "
+"categorías é a mesma, ou que non hai asociación linear entre a magnitude do "
+"efecto e a variable continua."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Coefficient estimates"
+msgstr "Estimacións de coeficientes"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid ""
+"Include estimates of the regression coefficients in the meta-regression "
+"model."
+msgstr ""
+"Incluír estimacións dos coeficientes da regresión do modelo de Meta-"
+"Regresión."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Coefficient correlation matrix"
+msgstr "Matriz de correlacións dos coeficientes"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Include the correlation matrix of the regression coefficients."
+msgstr "Incluír a matriz de correlacións dos coeficientes da regresión."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Include confidence intervals in the tabular output."
+msgstr "Incluír intervalos de confianza na saída tabular de resultados."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Prediction intervals"
+msgstr "Intervalos de predición"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Include prediction intervals in the tabular output."
+msgstr "Incluír intervalos de predición na saída tabular de resultados."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Transform effect size"
+msgstr "Transformar a magnitude do efecto"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid ""
+"Select a transformation to apply to the effect size estimates in the output. "
+"This transformation applies to the 'Meta-Analytic Estimates Table', "
+"'Estimated Marginal Means Table', 'Forest Plot', and  the 'Bubble Plot'. The "
+"'Meta-Regression Coeffient Estimates' are not transformed."
+msgstr ""
+"Escoller unha transformación a aplicar ás estimacións da magnitude do efecto "
+"na saída de resultados. Esta transformación se aplica a 'Táboa de "
+"estimacións Meta-Analíticas', 'Táboa de medias marxinais estimadas', "
+"'Gráfica forestal' e 'Gráfica de burbullas'. As 'Estimacións dos "
+"coeficientes da Meta-Regresión' non se transforman."
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "None"
+msgstr "Ningunha"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Fisher's z to r"
+msgstr "z de Fisher a"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Exponential"
+msgstr "Exponencial"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Log odds to proportions"
+msgstr "Log de probabilidades a proporcións"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Log odds to SMD (normal)"
+msgstr "Log de probabilidades a SMD (Normal)"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Log odds to SMD (logistic)"
+msgstr "Log de probabilidades a SMD (Loxística)"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "SMD to log odds (normal)"
+msgstr "SMD a Log de probabilidades (Normal)"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "SMD to log odds (logistic)"
+msgstr "SMD a Log de probabilidades (Loxística)"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Hakstian & Whalen inverse α"
+msgstr "α inversa de Hakstian & Whalen"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Bonett inverse α"
+msgstr "α inversa de Bonett"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Z to R²"
+msgstr "Z a R²"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "SMD to Cohen's U₁"
+msgstr "SMD a U₁ de Cohen"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "SMD to Cohen's U₂"
+msgstr "SMD a U₂ de Cohen"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "SMD to Cohen's U₃"
+msgstr "SMD a U₃ de Cohen"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "SMD to CLES, Pr(supperiority)"
+msgstr "SMD a CLES, Pr(superioridade)"
+
+msgctxt "ClassicalMetaAnalysisStatistics|"
+msgid "Include fit statistics for the model, such as AIC and BIC."
+msgstr "Incluír estatísticos de axuste para o modelo, tales como AIC e BIC."
+
+msgctxt "Upgrades|"
+msgid ""
+"Results of this analysis cannot be updated. The analysis was created with an "
+"older version of JASP and the analysis options are not longer compatible. "
+"Please, redo the analysis with the updated module or download the 0.19.1 "
+"version of JASP to rerun or edit the analysis."
+msgstr ""
+"Os resultados desta análise non poden actualizarse. A análise xerouse cunha "
+"versión antiga de JASP e as opcións da análise xa non son compatibles. Por "
+"favor, volve facer a análise co módulo actualizado, ou descarga a versión "
+"0.19.1 de JASP para volver executar ou editar a análise."
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Method"
+msgstr "Método"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Fixed Effects"
+msgstr "Efectos Fixos"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Maximum Likelihood"
+msgstr "Máxima-Verosimilitude"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Restricted ML"
+msgstr "MV restrinxida"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "DerSimonian-Laird"
+msgstr "DerSimonian-Laird"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Hedges"
+msgstr "Hedges"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Hunter-Schmidt"
+msgstr "Hunter-Schmidt"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Sidik-Jonkman"
+msgstr "Sidik-Jonkman"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Empirical Bayes"
+msgstr "Bayes Empírico"
+
+msgctxt "PredictionPerformanceInference|"
+msgid "Paule-Mandel"
+msgstr "Paule-Mandel"

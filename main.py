@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from module import descriptive, ttest_module, correlation_module, linear_regression_module
+from module import descriptive, ttest_module, correlation_module, linear_regression_module, meta_analysis
 
 class StatisticalApp:
     def __init__(self):
@@ -12,7 +12,7 @@ class StatisticalApp:
         st.sidebar.title("Menu Phân tích")
         self.analysis_type = st.sidebar.selectbox(
             "Chọn phương pháp phân tích",
-            ["Thống kê mô tả", "Kiểm định T", "ANOVA", "Hồi quy", "Tần suất", "Phân tích nhân tố"]
+            ["Thống kê mô tả", "Kiểm định T", "ANOVA", "Hồi quy", "Tần suất", "Phân tích nhân tố", "Meta Analysis"]
         )
         
         # Add Regression Method Options to Sidebar
@@ -161,6 +161,11 @@ class StatisticalApp:
             self.frequency_analysis()
         elif self.analysis_type == "Phân tích nhân tố":
             self.factor_analysis()
+        elif self.analysis_type == "Meta Analysis":
+            if self.df is not None:
+                meta_analysis.menu.meta_analysis(self.df)
+            else:
+                st.warning("Vui lòng tải lên file dữ liệu để thực hiện phân tích.")
 
 if __name__ == "__main__":
     app = StatisticalApp()
