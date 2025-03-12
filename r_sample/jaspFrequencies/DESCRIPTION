@@ -1,0 +1,29 @@
+Package: jaspFrequencies
+Type: Package
+Title: Frequencies Module for JASP
+Version: 0.19.2
+Date: 2022-10-05
+Author: JASP Team
+Website: jasp-stats.org
+Maintainer: JASP Team <info@jasp-stats.org>
+Description: Analyses for count data
+License: GPL (>= 2)
+Encoding: UTF-8
+Imports:
+  abtest (>= 0.2.1),
+  BayesFactor,
+  bridgesampling,
+  conting,
+  multibridge,
+  ggplot2,
+  interp,
+  jaspBase,
+  jaspGraphs,
+  plyr,
+  stringr,
+  vcd,
+  vcdExtra
+Remotes:
+  jasp-stats/jaspBase,
+  jasp-stats/jaspGraphs,
+  vandenman/conting

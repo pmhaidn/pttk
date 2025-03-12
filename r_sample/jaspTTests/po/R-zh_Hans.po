@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jaspTTests 0.15.0\n"
+"POT-Creation-Date: 2024-10-26 02:47\n"
+"PO-Revision-Date: 2024-05-06 03:07+0000\n"
+"Last-Translator: Cochrane <cunyikang@qq.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"jasp/jaspttests-r/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.3\n"
+"X-Language: zh_Hans\n"
+
+msgid "Assumption Checks"
+msgstr "假设检验"
+
+msgid "Descriptives"
+msgstr "描述统计"
+
+msgid ""
+"Vovk-Sellke Maximum <em>p</em>-Ratio: Based on a two-sided <em>p</em>-value,"
+"the maximum possible odds in favor of H%1$s over H%2$s equals 1/(-e <em>p</"
+"em> log(<em>p</em>)) for <em>p</em> %3$s .37 (Sellke, Bayarri, & Berger, "
+"2001)."
+msgstr ""
+"ovk-Sellke Maximum <em>p</em>-Ratio: Based on a two-sided <em>p</em>-value,"
+"the maximum possible odds in favor of H%1$s over H%2$s equals 1/(-e <em>p</"
+"em> log(<em>p</em>)) for <em>p</em> %3$s .37 (Sellke, Bayarri, & Berger, "
+"2001)."
+
+msgid "Q-Q Plots"
+msgstr "Q-Q 图"
+
+msgid "Please provide another variable."
+msgstr "请提供其他变量。"
+
+msgid "Variables %1$s and %2$s are the same!"
+msgstr "变量 %1$s 和 %2$s 是相同的！"
+
+msgid "Descriptives Plots"
+msgstr "描述性绘图"
+
+msgid "Bar Plots"
+msgstr "条形图"
+
+msgid "Group"
+msgstr "分组"
+
+msgid "N"
+msgstr "N"
+
+msgid "Mean"
+msgstr "均值"
+
+msgid "SD"
+msgstr "标准差"
+
+msgid "SE"
+msgstr "标准误"
+
+msgid "Coefficient of variation"
+msgstr "变异系数"
+
+msgid "%.0f%% Credible Interval"
+msgstr "%.0f%% 贝叶斯置信区间"
+
+msgid "Lower"
+msgstr "下界"
+
+msgid "Upper"
+msgstr "上界"
+
+msgid "Inferential Plots"
+msgstr "推断图"
+
+msgid "Prior and Posterior"
+msgstr "先验和后验"
+
+msgid "Bayes Factor Robustness Check"
+msgstr "贝叶斯因子稳健性检验"
+
+msgid "Sequential Analysis"
+msgstr "序贯分析"
+
+msgid ""
+"Bayes factor robustness check plot currently not supported for informed "
+"prior."
+msgstr "暂不支持有信息的先验的贝叶斯因子稳健性检查图。"
+
+msgid ""
+"Sequential analysis robustness check plot currently not supported for "
+"informed prior."
+msgstr "暂不支持有信息的先验之序贯分析检验图。"
+
+msgid "Expected numeric or character rscale but got %s."
+msgstr "应为数字或字母值，但得到了 %s 。"
+
+msgid "Running robustness check %1$d / %2$d"
+msgstr "正在进行稳健性检查 %1$d / %2$d"
+
+msgid "max BF%s"
+msgstr "最大 BF%s"
+
+msgid "user prior"
+msgstr "用户先验"
+
+msgid "wide prior"
+msgstr "宽先验"
+
+msgid "ultrawide prior"
+msgstr "超宽先验"
+
+msgid "BF%s"
+msgstr "BF%s"
+
+msgid "%1$s at r==%2$s"
+msgstr "%1$s at r==%2$s"
+
+msgid "Some Bayes factors were infinite"
+msgstr "有一些贝叶斯因子是无限的"
+
+msgid "Cauchy prior width"
+msgstr "柯西先验宽度"
+
+msgid "Running sequential analysis %1$d / %2$d"
+msgstr "正在进行序贯分析 %1$d / %2$d"
+
+msgid "n"
+msgstr "n"
+
+msgid "Posterior"
+msgstr "后验"
+
+msgid "Prior"
+msgstr "先验"
+
+msgid "%s%% CI:"
+msgstr "%s%% 置信:"
+
+msgid "Effect size"
+msgstr "效应量"
+
+msgid "Raincloud Plots"
+msgstr "雨云图"
+
+msgid "Raincloud Difference Plots"
+msgstr "雨云差异图"
+
+msgid "Bayes factor could not be calculated"
+msgstr "无法计算贝叶斯因子"
+
+msgid "Bayes factor is infinite"
+msgstr "贝叶斯因子是无限的"
+
+msgid "The Bayes factor is too small"
+msgstr "贝叶斯因子太小"
+
+msgid ""
+"t-value is large. A Savage-Dickey approximation was used to compute the "
+"Bayes factor but no error estimate can be given."
+msgstr ""
+"t 值很大。使用 Savage-Dickey 近似来计算贝叶斯因子，但无法给出误差估计。"
+
+msgid "No error estimate is available for normal priors."
+msgstr "对于正态先验，没有可用的误差估计。"
+
+msgid "Bayesian Mann-Whitney U Test"
+msgstr "贝叶斯 曼惠特尼 U 检验"
+
+msgid "Bayesian Independent Samples T-Test"
+msgstr "贝叶斯独立样本T检验"
+
+msgid ""
+"Result based on data augmentation algorithm with 5 chains of %.0f iterations."
+msgstr "结果基于具有 5 个 %.0f 迭代链的数据增强算法。"
+
+msgid "error %%"
+msgstr "误差 %%"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the location of "
+"group <em>%1$s</em> is greater than the location of group <em>%2$s</em>."
+msgstr ""
+"对于所有检验，备择假设指定组 <em>%1$s</em> 的位置大于组 <em>%2$s</em> 的位"
+"置。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the location of "
+"group <em>%1$s</em> is smaller than the location of group <em>%2$s</em>."
+msgstr ""
+"对于所有检验，备择假设指定组 <em>%1$s</em> 的位置小于组 <em>%2$s</em> 的位"
+"置。"
+
+msgid "Bayesian Wilcoxon Signed-Rank Test"
+msgstr "Bayesian Wilcoxon 符号秩检验"
+
+msgid "Bayesian One Sample T-Test"
+msgstr "贝叶斯单样本T检验"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"is greater than %s."
+msgstr "对于所有检验，备择假设指定总体均值大于 %s。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"is less than %s."
+msgstr "对于所有检验，备择假设指定总体均值小于 %s。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"differs from %s."
+msgstr "对于所有检验，备择假设指定总体均值与 %s 不同。"
+
+msgid "Bayesian Paired Samples T-Test"
+msgstr "贝叶斯配对样本T检验"
+
+msgid "Measure 1"
+msgstr "测量 1"
+
+msgid "Measure 2"
+msgstr "测量 2"
+
+msgid "Independent Samples T-Test"
+msgstr "独立样本T检验"
+
+msgid "Mann-Whitney U test."
+msgstr "曼-惠特尼U检验。"
+
+msgid "U"
+msgstr "U"
+
+msgid "Welch's t-test."
+msgstr "Welch t检验"
+
+msgid "t"
+msgstr "t"
+
+msgid "Student's t-test."
+msgstr "Student's t-test."
+
+msgid "Statistic"
+msgstr "统计量"
+
+msgid "Test"
+msgstr "检验"
+
+msgid "df"
+msgstr "df"
+
+msgid "p"
+msgstr "p"
+
+msgid "Cohen's d"
+msgstr "Cohen's d"
+
+msgid "Glass' delta"
+msgstr "Glass' delta"
+
+msgid "Hedges' g"
+msgstr "Hedges' g"
+
+msgid "Mean Difference"
+msgstr "平均差"
+
+msgid "Hodges-Lehmann Estimate"
+msgstr "霍奇斯-莱曼估计"
+
+msgid "Rank-Biserial Correlation"
+msgstr "秩-双序列相关"
+
+msgid "Location Parameter"
+msgstr "位置参数"
+
+msgid "Effect Size"
+msgstr "效应量"
+
+msgid "Student t-test and Welch t-test"
+msgstr "Student t 检验和 Welch t检验"
+
+msgid "Student t-test"
+msgstr "Student t检验"
+
+msgid "Welch t-test"
+msgstr "韦尔奇t检验"
+
+msgid "SE Difference"
+msgstr "SE 差异"
+
+msgid ""
+"For the %s, location parameter is given by mean difference. For the Mann-"
+"Whitney test, location parameter is given by the Hodges-Lehmann estimate."
+msgstr ""
+"对于%s，位置参数是由平均差值给出的。对于Mann-Whitney检验，位置参数由Hodges-"
+"Lehmann估计给出。"
+
+msgid "%1$s%% CI for %2$s"
+msgstr "%2$s 的 %1$s%% 置信区间"
+
+msgid "SE %1$s"
+msgstr "SE %1$s"
+
+msgid ""
+"For the Mann-Whitney test, effect size is given by the rank biserial "
+"correlation."
+msgstr "对于Mann-Whitney检验，效应量由等级双列相关度给出。"
+
+msgid "For the %1$s, effect size is given by %2$s."
+msgstr "对于 %1$s，效应量大小由 %2$s 给出。"
+
+msgid "Test of Normality (Shapiro-Wilk)"
+msgstr "正态性检验 (Shapiro-Wilk)"
+
+msgid "Residuals"
+msgstr ""
+
+msgid "W"
+msgstr "W"
+
+msgid "Significant results suggest a deviation from normality."
+msgstr "显著性结果表明偏离正态性。"
+
+msgid "Brown-Forsythe"
+msgstr "Brown-Forsythe"
+
+msgid "Levene's"
+msgstr "Levene's"
+
+msgid "Test of Equality of Variances (%1$s)"
+msgstr "等方差(齐)性检验 (%1$s)"
+
+msgid "F"
+msgstr "F"
+
+msgid "%s<sub>1</sub>"
+msgstr "%s<sub>1</sub>"
+
+msgid "%s<sub>2</sub>"
+msgstr "%s<sub>2</sub>"
+
+msgid "greater"
+msgstr "大"
+
+msgid "less"
+msgstr "小"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that group %1$s is %2$s "
+"than group %3$s."
+msgstr "对于所有检验，备择假设被定义为：组%1$s %2$s于 组%3$s."
+
+msgid ""
+"Brown-Forsythe test is significant (p < .05), suggesting a violation of the "
+"equal variance assumption"
+msgstr "Brown-Forsythe 检验显着 (p < .05)，表明违反了等方差假设"
+
+msgid ""
+"Levene's test is significant (p < .05), suggesting a violation of the equal "
+"variance assumption"
+msgstr "Levene 检验显着 (p < .05)，表明违反了等方差假设"
+
+msgid ""
+"Glass' delta uses the standard deviation of group %1$s of variable %2$s."
+msgstr "Glass' delta 使用变量 %2$s 的组 %1$s 的标准差。"
+
+msgid "F-statistic could not be calculated"
+msgstr "F统计量无法计算"
+
+msgid "Group Descriptives"
+msgstr "分组描述统计"
+
+msgid "Mean Rank"
+msgstr "平均秩"
+
+msgid "Sum Rank"
+msgstr "求和秩"
+
+msgid "One Sample T-Test"
+msgstr "单样本T检验"
+
+msgid "Wilcoxon signed-rank test."
+msgstr "Wilcoxon 符号秩检验。"
+
+msgid "V"
+msgstr "V"
+
+msgid "Z test."
+msgstr "Z检验。"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Location Difference"
+msgstr "位置差异"
+
+msgid "Student t-test and Z-test"
+msgstr "t检验和Z检验"
+
+msgid "Z-test"
+msgstr "Z检验"
+
+#, fuzzy
+msgid ""
+"For the %s, location difference estimate is given by the sample mean "
+"difference <em>d</em>. For the Wilcoxon test, location difference estimate "
+"is given by the Hodges-Lehmann estimate."
+msgstr ""
+"对于学生 t 检验，位置参数由平均差 <em>d</em> 给出。对于 Wilcoxon 检验，效应量"
+"由 Hodges-Lehmann 估计值给出。"
+
+msgid "For the Student t-test, effect size is given by Cohen's <em>d</em>."
+msgstr "对于学生 t 检验，效应量由 Cohen's <em>d</em> 给出。"
+
+msgid ""
+"For the Wilcoxon test, effect size is given by the matched rank biserial "
+"correlation."
+msgstr "对于 Wilcoxon 检验，效应量由匹配的秩双列相关给出。"
+
+msgid ""
+"For the Z test, effect size is given by Cohen's <em>d</em> (based on the "
+"provided population standard deviation)."
+msgstr ""
+"对于 Z 检验，效果大小由 Cohen's <em>d</em> 给出（基于提供的总体标准差）。"
+
+msgid "greater than"
+msgstr "大于"
+
+msgid "less than"
+msgstr "小于"
+
+msgid "different from"
+msgstr "异于"
+
+msgid ""
+"For the %1$s, the alternative hypothesis specifies that the mean is %2$s "
+"%3$s."
+msgstr "对于 %1$s，备择假设指定平均值为 %2$s %3$s。"
+
+msgid ""
+"For the Wilcoxon test, the alternative hypothesis specifies that the median "
+"is %1$s %2$s."
+msgstr "对于 Wilcoxon 检验，备择假设指定中位数为 %1$s %2$s。"
+
+msgid ""
+"CI could not be computed for effect size, due to low sample size and/or "
+"extreme effect size."
+msgstr ""
+
+msgid ""
+"Sample size too small for desired confidence level. Using %.1f%% instead"
+msgstr ""
+
+msgid "Paired Samples T-Test"
+msgstr "配对样本T检验"
+
+msgid "z"
+msgstr "z"
+
+msgid ""
+"For the Student t-test, location parameter is given by mean difference "
+"<em>d</em>. For the Wilcoxon test, location parameter is given by the Hodges-"
+"Lehmann estimate."
+msgstr ""
+"对于学生 t 检验，位置参数由平均差 <em>d</em> 给出。对于 Wilcoxon 检验，效应量"
+"由 Hodges-Lehmann 估计值给出。"
+
+msgid ""
+"For the Student t-test, effect size is given by Cohen's <em>d</em>. For the "
+"Wilcoxon test, effect size is given by the matched rank biserial correlation."
+msgstr ""
+"对于学生 t 检验，效应量由 Cohen's <em>d</em> 给出。对于 Wilcoxon 检验，效应量"
+"由匹配的秩双列相关给出。"
+
+msgid "Cohen's d corrected for correlation between observations."
+msgstr ""
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is less "
+"than Measure 2."
+msgstr "对于所有检验，备择假设指定度量 1 小于度量 2。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is "
+"greater than Measure 2."
+msgstr "对于所有检验，备择假设指定度量 1 大于度量 2。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that %1$s is less than "
+"%2$s."
+msgstr "对于所有检验，备择假设指定为 %1$s 小于 %2$s。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that %1$s is greater "
+"than %2$s."
+msgstr "对于所有检验，备择假设指定 %1$s 大于 %2$s。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is less "
+"than Measure 2. For example, %1$s is less than %2$s."
+msgstr "对于所有检验，备择假设指定度量 1 小于度量 2。例如，%1$s 小于 %2$s。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is "
+"greater than Measure 2. For example, %1$s is greater than %2$s."
+msgstr "对于所有检验，备择假设指定度量 1 大于度量 2。例如，%1$s 大于 %2$s。"
+
+msgid "The following pair is duplicated: %s"
+msgid_plural "The following pairs are duplicated: %s"
+msgstr[0] "以下配对是重复的: %s"
+
+#~ msgid ""
+#~ "For the %s, location difference estimate is given by the sample mean "
+#~ "difference <em>d</em>."
+#~ msgstr "对于 %s，位置差异估计由样本平均差异 <em>d</em> 给出。"
+
+#~ msgid ""
+#~ "For the Wilcoxon test, location difference estimate is given by the "
+#~ "Hodges-Lehmann estimate."
+#~ msgstr "对于 Wilcoxon 检验，位置差异估计由 Hodges-Lehmann 估计给出。"
+
+#~ msgid "Paired and two-sample z.test not yet implemented"
+#~ msgstr "配对和双样本z检验尚未实现"
+
+#~ msgid "not enough x observations"
+#~ msgstr "没有足够的 x 观测"
+
+#~ msgid "Not yet implemented"
+#~ msgstr "尚未实现"
+
+#~ msgid "not enough y observations"
+#~ msgstr "没有足够的 y 观测"
+
+#~ msgid "nDistinctObservations got an object of type"
+#~ msgstr "nDistinctObservations 得到了一个类型的对象"
+
+#~ msgid ","
+#~ msgstr ","
+
+#~ msgid "Cannot plot the posterior - possibly too concentrated near 0."
+#~ msgstr "无法绘制后验图--可能是在0附近过于集中了。"
+
+#~ msgid "data are essentially constant"
+#~ msgstr "数据基本上是恒定的"

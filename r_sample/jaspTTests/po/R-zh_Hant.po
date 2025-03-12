@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jaspTTests 0.15.0\n"
+"POT-Creation-Date: 2024-10-26 02:47\n"
+"PO-Revision-Date: 2025-02-23 11:09+0000\n"
+"Last-Translator: 陳寬裕 <pf.kuan.yu.chen@gmail.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
+"projects/jasp/jaspttests-r/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.1-dev\n"
+
+msgid "Assumption Checks"
+msgstr "前提假設的檢驗"
+
+msgid "Descriptives"
+msgstr "描述性統計"
+
+msgid ""
+"Vovk-Sellke Maximum <em>p</em>-Ratio: Based on a two-sided <em>p</em>-value,"
+"the maximum possible odds in favor of H%1$s over H%2$s equals 1/(-e <em>p</"
+"em> log(<em>p</em>)) for <em>p</em> %3$s .37 (Sellke, Bayarri, & Berger, "
+"2001)."
+msgstr ""
+"根據 Sellke、Bayarri 和 Berger（2001）的研究，Vovk-Sellke "
+"最大<em>p</em>-比率是基於雙尾<em>p</em>-值而計算的，在<em>p</em> %3$s "
+".37的情況下，假設 H%1$s 相對於 H%2$s 的最大勝算比為：1/(-e <em>p</em> "
+"log(<em>p</em>))。"
+
+msgid "Q-Q Plots"
+msgstr "常態Q-Q 圖"
+
+msgid "Please provide another variable."
+msgstr "請提供其他變數。"
+
+msgid "Variables %1$s and %2$s are the same!"
+msgstr "變數 %1$s 和 %2$s 相同!"
+
+msgid "Descriptives Plots"
+msgstr "描述性統計圖"
+
+msgid "Bar Plots"
+msgstr "長條圖"
+
+msgid "Group"
+msgstr "組別"
+
+msgid "N"
+msgstr "N"
+
+msgid "Mean"
+msgstr "平均數"
+
+msgid "SD"
+msgstr "標準差"
+
+msgid "SE"
+msgstr "標準誤"
+
+msgid "Coefficient of variation"
+msgstr "變異係數"
+
+msgid "%.0f%% Credible Interval"
+msgstr "%.0f%% 貝氏可信區間"
+
+msgid "Lower"
+msgstr "下界"
+
+msgid "Upper"
+msgstr "上界"
+
+msgid "Inferential Plots"
+msgstr "推論圖"
+
+msgid "Prior and Posterior"
+msgstr "先驗分布與後驗分布"
+
+msgid "Bayes Factor Robustness Check"
+msgstr "貝氏因子穩健性檢查"
+
+msgid "Sequential Analysis"
+msgstr "序列分析"
+
+msgid ""
+"Bayes factor robustness check plot currently not supported for informed "
+"prior."
+msgstr "貝氏因子穩健性檢查圖目前不支援使用知情先驗分布。"
+
+msgid ""
+"Sequential analysis robustness check plot currently not supported for "
+"informed prior."
+msgstr "序列分析穩健性檢查圖目前不支援使用知情先驗分布。"
+
+msgid "Expected numeric or character rscale but got %s."
+msgstr "預期為數值或字元型態，但接收到 %s。"
+
+msgid "Running robustness check %1$d / %2$d"
+msgstr "正在進行穩健性檢查 %1$d / %2$d"
+
+msgid "max BF%s"
+msgstr "最大 BF%s"
+
+msgid "user prior"
+msgstr "使用者先驗"
+
+msgid "wide prior"
+msgstr ""
+
+msgid "ultrawide prior"
+msgstr ""
+
+msgid "BF%s"
+msgstr "BF%s"
+
+msgid "%1$s at r==%2$s"
+msgstr ""
+
+msgid "Some Bayes factors were infinite"
+msgstr ""
+
+msgid "Cauchy prior width"
+msgstr ""
+
+msgid "Running sequential analysis %1$d / %2$d"
+msgstr ""
+
+msgid "n"
+msgstr "n"
+
+msgid "Posterior"
+msgstr "後驗機率"
+
+msgid "Prior"
+msgstr "先驗機率"
+
+msgid "%s%% CI:"
+msgstr "%s%% 信賴區間："
+
+msgid "Effect size"
+msgstr "效果量"
+
+msgid "Raincloud Plots"
+msgstr "雨雲圖"
+
+msgid "Raincloud Difference Plots"
+msgstr "雨雲差異圖"
+
+msgid "Bayes factor could not be calculated"
+msgstr ""
+
+msgid "Bayes factor is infinite"
+msgstr ""
+
+msgid "The Bayes factor is too small"
+msgstr ""
+
+msgid ""
+"t-value is large. A Savage-Dickey approximation was used to compute the "
+"Bayes factor but no error estimate can be given."
+msgstr ""
+
+msgid "No error estimate is available for normal priors."
+msgstr ""
+
+msgid "Bayesian Mann-Whitney U Test"
+msgstr ""
+
+msgid "Bayesian Independent Samples T-Test"
+msgstr "貝氏獨立樣本T檢定"
+
+msgid ""
+"Result based on data augmentation algorithm with 5 chains of %.0f iterations."
+msgstr ""
+
+msgid "error %%"
+msgstr "誤差 %%"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the location of "
+"group <em>%1$s</em> is greater than the location of group <em>%2$s</em>."
+msgstr ""
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the location of "
+"group <em>%1$s</em> is smaller than the location of group <em>%2$s</em>."
+msgstr ""
+
+msgid "Bayesian Wilcoxon Signed-Rank Test"
+msgstr ""
+
+msgid "Bayesian One Sample T-Test"
+msgstr ""
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"is greater than %s."
+msgstr "對於所有檢定而言，對立假設皆假設母體平均數大於 %s 。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"is less than %s."
+msgstr "對於所有檢定而言，對立假設皆假設母體平均數小於 %s 。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"differs from %s."
+msgstr "對於所有檢定而言，對立假設皆假設母體平均數與 %s 不相等。"
+
+msgid "Bayesian Paired Samples T-Test"
+msgstr ""
+
+msgid "Measure 1"
+msgstr "測量 1"
+
+msgid "Measure 2"
+msgstr "測量 2"
+
+msgid "Independent Samples T-Test"
+msgstr "獨立樣本 t 檢定"
+
+msgid "Mann-Whitney U test."
+msgstr "Mann-Whitney U檢定"
+
+msgid "U"
+msgstr "U"
+
+msgid "Welch's t-test."
+msgstr "Welch t 檢定"
+
+msgid "t"
+msgstr "t"
+
+msgid "Student's t-test."
+msgstr "Student t 檢定"
+
+msgid "Statistic"
+msgstr "統計量"
+
+msgid "Test"
+msgstr "檢定方法"
+
+msgid "df"
+msgstr "自由度"
+
+msgid "p"
+msgstr "p"
+
+msgid "Cohen's d"
+msgstr "Cohen's d"
+
+msgid "Glass' delta"
+msgstr "Glass' delta 效果量"
+
+msgid "Hedges' g"
+msgstr "Hedges' g 效果量"
+
+msgid "Mean Difference"
+msgstr "平均數差異"
+
+msgid "Hodges-Lehmann Estimate"
+msgstr "Hodges-Lehmann 估計"
+
+msgid "Rank-Biserial Correlation"
+msgstr "等級雙序列相關"
+
+msgid "Location Parameter"
+msgstr "位置參數"
+
+msgid "Effect Size"
+msgstr "效果量"
+
+msgid "Student t-test and Welch t-test"
+msgstr "Student t 檢定與Welch t 檢定"
+
+msgid "Student t-test"
+msgstr "Student t 檢定"
+
+msgid "Welch t-test"
+msgstr "Welch t 檢定"
+
+msgid "SE Difference"
+msgstr "差異標準誤"
+
+msgid ""
+"For the %s, location parameter is given by mean difference. For the Mann-"
+"Whitney test, location parameter is given by the Hodges-Lehmann estimate."
+msgstr "對於%s，位置參數由分組平均差異所定義。而對於Mann-Whitney檢定"
+"，位置參數則由Hodges-Lehmann估計值所定義。"
+
+msgid "%1$s%% CI for %2$s"
+msgstr "%2$s 的 %1$s%% 信賴區間"
+
+msgid "SE %1$s"
+msgstr "%1$s 標準誤"
+
+msgid ""
+"For the Mann-Whitney test, effect size is given by the rank biserial "
+"correlation."
+msgstr "對於Mann-Whitney檢定，效果量由等級雙序列相關所定義。"
+
+msgid "For the %1$s, effect size is given by %2$s."
+msgstr "對於 %1$s，效果量大小由 %2$s 所決定。"
+
+msgid "Test of Normality (Shapiro-Wilk)"
+msgstr "常態性檢定 (Shapiro-Wilk)"
+
+msgid "Residuals"
+msgstr "殘差"
+
+msgid "W"
+msgstr "W"
+
+msgid "Significant results suggest a deviation from normality."
+msgstr "若顯著，則代表偏離常態性。"
+
+msgid "Brown-Forsythe"
+msgstr "Brown-Forsythe檢定"
+
+msgid "Levene's"
+msgstr "Levene 檢定"
+
+msgid "Test of Equality of Variances (%1$s)"
+msgstr "變異數同質性檢定 (%1$s)"
+
+msgid "F"
+msgstr "F"
+
+msgid "%s<sub>1</sub>"
+msgstr "%s<sub>1</sub>"
+
+msgid "%s<sub>2</sub>"
+msgstr "%s<sub>2</sub>"
+
+msgid "greater"
+msgstr "大"
+
+msgid "less"
+msgstr "小"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that group %1$s is %2$s "
+"than group %3$s."
+msgstr "對於所有的檢定，對立假設將假設：組 %1$s %2$s 於 組 %3$s。"
+
+msgid ""
+"Brown-Forsythe test is significant (p < .05), suggesting a violation of the "
+"equal variance assumption"
+msgstr "Brown-Forsythe檢定達顯著 (p < .05)，代表變異數相等的假設不成立"
+
+msgid ""
+"Levene's test is significant (p < .05), suggesting a violation of the equal "
+"variance assumption"
+msgstr "Levene檢定達顯著 (p < .05)，代表變異數相等的假設不成立"
+
+msgid ""
+"Glass' delta uses the standard deviation of group %1$s of variable %2$s."
+msgstr ""
+
+msgid "F-statistic could not be calculated"
+msgstr "無法計算F值"
+
+msgid "Group Descriptives"
+msgstr "分組描述性統計"
+
+msgid "Mean Rank"
+msgstr "排序平均"
+
+msgid "Sum Rank"
+msgstr "排序總和"
+
+msgid "One Sample T-Test"
+msgstr "單一樣本 t 檢定"
+
+msgid "Wilcoxon signed-rank test."
+msgstr "Wilcoxon 符號等級檢定"
+
+msgid "V"
+msgstr "V"
+
+msgid "Z test."
+msgstr "Z 檢定"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Location Difference"
+msgstr "位置差異"
+
+msgid "Student t-test and Z-test"
+msgstr "Student t 檢定與 Z 檢定"
+
+msgid "Z-test"
+msgstr "Z 檢定"
+
+msgid ""
+"For the %s, location difference estimate is given by the sample mean "
+"difference <em>d</em>. For the Wilcoxon test, location difference estimate "
+"is given by the Hodges-Lehmann estimate."
+msgstr ""
+"對於 %s，位置參數由組別平均差異 <em>d</em> 所定義。而對於 Wilcoxon 檢定，"
+"位置參數則由 Hodges-Lehmann 估计值所定義。"
+
+msgid "For the Student t-test, effect size is given by Cohen's <em>d</em>."
+msgstr "對於Student t 檢定，效果量欄位由Cohen's <em>d</em>所定義。"
+
+msgid ""
+"For the Wilcoxon test, effect size is given by the matched rank biserial "
+"correlation."
+msgstr "對於 Wilcoxon 檢定，效果量由匹配的等級雙序列相關所定義。"
+
+msgid ""
+"For the Z test, effect size is given by Cohen's <em>d</em> (based on the "
+"provided population standard deviation)."
+msgstr "對於 Z 檢定，效果量由Cohen's <em>d</em>所定義(基於母體標準差)"
+
+msgid "greater than"
+msgstr "大於"
+
+msgid "less than"
+msgstr "小於"
+
+msgid "different from"
+msgstr "不等於"
+
+msgid ""
+"For the %1$s, the alternative hypothesis specifies that the mean is %2$s "
+"%3$s."
+msgstr "對於 %1$s，對立假設中將設定各組平均數是 %2$s %3$s的。"
+
+msgid ""
+"For the Wilcoxon test, the alternative hypothesis specifies that the median "
+"is %1$s %2$s."
+msgstr "對於Wilcoxon 檢定，其對立假設將設定為各組中位數是 %1$s %2$s的。"
+
+msgid ""
+"CI could not be computed for effect size, due to low sample size and/or "
+"extreme effect size."
+msgstr "由於樣本量過小和/或效果量過於極端，無法計算效果量的信賴區間。"
+
+msgid ""
+"Sample size too small for desired confidence level. Using %.1f%% instead"
+msgstr "樣本量過小，無法達到期望的信賴水準。請使用 %.1f%% 替換"
+
+msgid "Paired Samples T-Test"
+msgstr "成對樣本 t 檢定"
+
+msgid "z"
+msgstr "z"
+
+msgid ""
+"For the Student t-test, location parameter is given by mean difference "
+"<em>d</em>. For the Wilcoxon test, location parameter is given by the Hodges-"
+"Lehmann estimate."
+msgstr ""
+"對於 Student t 檢定，位置參數由平均差異 <em>d</em> 所定義。而對於 Wilcoxon "
+"檢定，位置參數則由 Hodges-Lehmann 估计值所定義。"
+
+msgid ""
+"For the Student t-test, effect size is given by Cohen's <em>d</em>. For the "
+"Wilcoxon test, effect size is given by the matched rank biserial correlation."
+msgstr ""
+"對於Student t 檢定，效果量由Cohen's <em>d</em>所定義。而對於Wilcoxon "
+"檢定，效果量則由匹配的等級雙序列相關所定義。"
+
+msgid "Cohen's d corrected for correlation between observations."
+msgstr "校正觀測值間之相關性的 Cohen's d。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is less "
+"than Measure 2."
+msgstr "對所有檢定而言，對立假設皆假設測量 1 小於測量 2。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is "
+"greater than Measure 2."
+msgstr "對所有檢定而言，對立假設皆假設測量 1大於測量 2。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that %1$s is less than "
+"%2$s."
+msgstr "對所有檢定而言，對立假設皆假設 %1$s 小於 %2$s。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that %1$s is greater "
+"than %2$s."
+msgstr "對所有檢定而言，對立假設皆假設 %1$s 大於 %2$s。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is less "
+"than Measure 2. For example, %1$s is less than %2$s."
+msgstr "對於所有的檢定而言，對立假設接假設測量 1 小於測量 2。例如，%1$s 小於 %2$s 。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is "
+"greater than Measure 2. For example, %1$s is greater than %2$s."
+msgstr "對於所有的檢定而言，對立假設接假設測量 1 大於測量 2。例如，%1$s 大於 %2$s 。"
+
+msgid "The following pair is duplicated: %s"
+msgid_plural "The following pairs are duplicated: %s"
+msgstr[0] "以下的配對是重複的：%s"
+
+#~ msgid "not enough x observations"
+#~ msgstr "X 觀察值不足"
+
+#~ msgid "not enough y observations"
+#~ msgstr "Y 觀察值不足"
+
+#~ msgid ","
+#~ msgstr ","

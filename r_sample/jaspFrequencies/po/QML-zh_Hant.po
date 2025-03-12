@@ -1,0 +1,1295 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: zh_Hant\n"
+"X-Qt-Contexts: true\n"
+
+msgctxt "Description|"
+msgid "Frequencies"
+msgstr "頻次分析"
+
+msgctxt "Description|"
+msgid "Analyses for count data"
+msgstr "計次資料分析"
+
+msgctxt "Description|"
+msgid "Classical"
+msgstr "古典"
+
+msgctxt "Description|"
+msgid "Binomial Test"
+msgstr "二項式檢定"
+
+msgctxt "Description|"
+msgid "Multinomial Test"
+msgstr "多項式檢定"
+
+msgctxt "Description|"
+msgid "Contingency Tables"
+msgstr "列聯表"
+
+msgctxt "Description|"
+msgid "Log-Linear Regression"
+msgstr "對數線性迴歸"
+
+msgctxt "Description|"
+msgid "Bayesian"
+msgstr "貝氏"
+
+msgctxt "Description|"
+msgid "Bayesian Binomial Test"
+msgstr "貝氏二項式檢定"
+
+msgctxt "Description|"
+msgid "A/B Test"
+msgstr "A/B 檢定"
+
+msgctxt "Description|"
+msgid "Bayesian A/B Test"
+msgstr "貝氏A/B檢定"
+
+msgctxt "Description|"
+msgid "Bayesian Multinomial Test"
+msgstr "貝氏多項式檢定"
+
+msgctxt "Description|"
+msgid "Bayesian Contingency Tables"
+msgstr "貝氏列聯表"
+
+msgctxt "Description|"
+msgid "Bayesian Log-Linear Regression"
+msgstr "貝氏對數線性迴歸"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Successes Group 1"
+msgstr "成功組1"
+
+msgctxt "ABTestBayesian|"
+msgid "Sample Size Group 1"
+msgstr "組1樣本數"
+
+msgctxt "ABTestBayesian|"
+msgid "Successes Group 2"
+msgstr "成功組2"
+
+msgctxt "ABTestBayesian|"
+msgid "Sample Size Group 2"
+msgstr "組2樣本數"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Normal Prior on Log Odds Ratio"
+msgstr "對數勝算比之常態先驗機率"
+
+msgctxt "ABTestBayesian|"
+msgid "μ:"
+msgstr "μ:"
+
+msgctxt "ABTestBayesian|"
+msgid "σ:"
+msgstr "σ:"
+
+msgctxt "ABTestBayesian|"
+msgid "Descriptives"
+msgstr "描述性統計"
+
+msgctxt "ABTestBayesian|"
+msgid "Plots"
+msgstr "圖"
+
+msgctxt "ABTestBayesian|"
+msgid "Prior and posterior"
+msgstr "先驗與驗後"
+
+msgctxt "ABTestBayesian|"
+msgid "Sequential analysis"
+msgstr "序列分析"
+
+msgctxt "ABTestBayesian|"
+msgid "Prior"
+msgstr "先驗"
+
+msgctxt "ABTestBayesian|"
+msgid "Bayes factor robustness check"
+msgstr "貝氏因子穩健性檢查"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Order"
+msgstr "順序"
+
+msgctxt "ABTestBayesian|"
+msgid "Compare to best model"
+msgstr "與最佳模式比較"
+
+msgctxt "ABTestBayesian|"
+msgid "Compare to null model"
+msgstr "相較於虛無模型"
+
+msgctxt "ABTestBayesian|"
+msgid "Advanced Options"
+msgstr "進階設定選項"
+
+msgctxt "ABTestBayesian|"
+msgid "Prior Model Probability"
+msgstr "先驗模型機率"
+
+msgctxt "ABTestBayesian|"
+msgid "Log odds ratio = 0"
+msgstr "對數勝算比為0"
+
+msgctxt "ABTestBayesian|"
+msgid "Log odds ratio > 0"
+msgstr "對數勝算比大於0"
+
+msgctxt "ABTestBayesian|"
+msgid "Log odds ratio < 0"
+msgstr "對數勝算比小於0"
+
+msgctxt "ABTestBayesian|"
+msgid "Log odds ratio ≠ 0"
+msgstr "對數勝算比不為0"
+
+msgctxt "ABTestBayesian|"
+msgid "Sampling"
+msgstr "抽樣"
+
+msgctxt "ABTestBayesian|"
+msgid "No. samples"
+msgstr "樣本數"
+
+msgctxt "ABTestBayesian|"
+msgid "Robustness Plot"
+msgstr "穩健性圖"
+
+msgctxt "ABTestBayesian|"
+msgid "No. Steps"
+msgstr "步驟數"
+
+msgctxt "ABTestBayesian|"
+msgid "Step Range"
+msgstr "步驟範圍"
+
+msgctxt "ABTestBayesian|"
+msgid "lower:"
+msgstr "下限:"
+
+msgctxt "ABTestBayesian|"
+msgid "upper:"
+msgstr "上限:"
+
+msgctxt "BinomialTest|"
+msgid "Variables"
+msgstr "變項"
+
+msgctxt "BinomialTest|"
+msgid "Test value: "
+msgstr "檢定值: "
+
+msgctxt "BinomialTest|"
+msgid "Alt. Hypothesis"
+msgstr "對立假設"
+
+msgctxt "BinomialTest|"
+msgid "≠ Test value"
+msgstr "≠ 檢定值"
+
+msgctxt "BinomialTest|"
+msgid "> Test value"
+msgstr "> 檢定值"
+
+msgctxt "BinomialTest|"
+msgid "< Test value"
+msgstr "< 檢定值"
+
+msgctxt "BinomialTest|"
+msgid "Additional Statisics"
+msgstr "其他統計量"
+
+msgctxt "BinomialTest|"
+msgid "Confidence interval"
+msgstr "信賴區間"
+
+msgctxt "BinomialTest|"
+msgid "Interval"
+msgstr "區間"
+
+msgctxt "BinomialTest|"
+msgid "Vovk-Sellke maximum p-ratio"
+msgstr "Vovk-Sellke 最大p-比率"
+
+msgctxt "BinomialTest|"
+msgid "Plots"
+msgstr "圖"
+
+msgctxt "BinomialTest|"
+msgid "Descriptive plots"
+msgstr "描述性統計圖"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Test value: "
+msgstr "檢定值: "
+
+msgctxt "BinomialTestBayesian|"
+msgid "Alt. Hypothesis"
+msgstr "對立假設"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Direction"
+msgstr "方向"
+
+msgctxt "BinomialTestBayesian|"
+msgid "≠ Test value"
+msgstr "≠ 檢定值"
+
+msgctxt "BinomialTestBayesian|"
+msgid "> Test value"
+msgstr "> 檢定值"
+
+msgctxt "BinomialTestBayesian|"
+msgid "< Test value"
+msgstr "< 檢定值"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Prior"
+msgstr "先驗"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "Beta prior: parameter a"
+msgstr "Beta先驗: 參數a"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Beta prior: parameter b"
+msgstr "Beta先驗: 參數b"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Plots"
+msgstr "圖"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Prior and posterior"
+msgstr "先驗與驗後"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Additional info"
+msgstr "其他資訊"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Sequential analysis"
+msgstr "順序分析"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Descriptive plots"
+msgstr "描述性統計圖"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Credible interval"
+msgstr "可信區間"
+
+msgctxt "ContingencyTables|"
+msgid "Rows"
+msgstr "橫列"
+
+msgctxt "ContingencyTables|"
+msgid "Columns"
+msgstr "欄"
+
+msgctxt "ContingencyTables|"
+msgid "Counts"
+msgstr "計數"
+
+msgctxt "ContingencyTables|"
+msgid "Layers"
+msgstr "層"
+
+msgctxt "ContingencyTables|"
+msgid "Statistics"
+msgstr "統計量"
+
+msgctxt "ContingencyTables|"
+msgid "χ²"
+msgstr "卡方"
+
+msgctxt "ContingencyTables|"
+msgid "χ² continuity correction"
+msgstr "卡方連續校正"
+
+msgctxt "ContingencyTables|"
+msgid "Likelihood ratio"
+msgstr "概似比"
+
+msgctxt "ContingencyTables|"
+msgid "Vovk-Sellke maximum p-ratio"
+msgstr "Vovk-Sellke 最大p-比率"
+
+msgctxt "ContingencyTables|"
+msgid "Odds ratio (2x2 only)"
+msgstr "勝率比 (僅提供2x2)"
+
+msgctxt "ContingencyTables|"
+msgid "Log Odds Ratio"
+msgstr "對數勝率比"
+
+msgctxt "ContingencyTables|"
+msgid "Confidence interval"
+msgstr "信賴區間"
+
+msgctxt "ContingencyTables|"
+msgid "Alt. Hypothesis (Fisher's exact test)"
+msgstr "對立假設(Fisher's exact檢定)"
+
+msgctxt "ContingencyTables|"
+msgid "Group one ≠ Group two"
+msgstr "組1 ≠ 組2"
+
+msgctxt "ContingencyTables|"
+msgid "Group one > Group two"
+msgstr "組1 > 組2"
+
+msgctxt "ContingencyTables|"
+msgid "Group one < Group two"
+msgstr "組1 < 組2"
+
+msgctxt "ContingencyTables|"
+msgid "Nominal"
+msgstr "名義"
+
+msgctxt "ContingencyTables|"
+msgid "Contingency coefficient"
+msgstr "列聯(相關)係數"
+
+msgctxt "ContingencyTables|"
+msgid "Phi and Cramer's V"
+msgstr "Phi與Cramer's V"
+
+msgctxt "ContingencyTables|"
+msgid "Lambda"
+msgstr "Lambda"
+
+msgctxt "ContingencyTables|"
+msgid "Uncertainty coefficient"
+msgstr "不確定性係數"
+
+msgctxt "ContingencyTables|"
+msgid "Ordinal"
+msgstr "順序"
+
+msgctxt "ContingencyTables|"
+msgid "Gamma"
+msgstr "Gamma"
+
+msgctxt "ContingencyTables|"
+msgid "Somers' d"
+msgstr "Somers' d"
+
+msgctxt "ContingencyTables|"
+msgid "Kendall's tau-b"
+msgstr "Kendall's tau-b"
+
+msgctxt "ContingencyTables|"
+msgid "Kendall's tau-c"
+msgstr "Kendall's tau-c"
+
+msgctxt "ContingencyTables|"
+msgid "Nominal By Interval"
+msgstr ""
+
+msgctxt "ContingencyTables|"
+msgid "Eta"
+msgstr "Eta"
+
+msgctxt "ContingencyTables|"
+msgid "Cochran's and Mantel-Haenszel statistics"
+msgstr "Cochran's and Mantel-Haenszel 統計量"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Test common odds ratio equals"
+msgstr "檢定共同勝率是否為"
+
+msgctxt "ContingencyTables|"
+msgid "Cells"
+msgstr "細格"
+
+msgctxt "ContingencyTables|"
+msgid "Expected"
+msgstr "期望值"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Hide small counts"
+msgstr "隱藏個數少的細格"
+
+msgctxt "ContingencyTables|"
+msgid "Less than"
+msgstr "小於"
+
+msgctxt "ContingencyTables|"
+msgid "Z-Test"
+msgstr "Z檢定"
+
+msgctxt "ContingencyTables|"
+msgid "Compare column proportions"
+msgstr "比較直行比例"
+
+msgctxt "ContingencyTables|"
+msgid "Adjust p-values"
+msgstr "調整p值"
+
+msgctxt "ContingencyTables|"
+msgid "Residuals"
+msgstr "殘差"
+
+msgctxt "ContingencyTables|"
+msgid "Unstandardized"
+msgstr "未標準化"
+
+msgctxt "ContingencyTables|"
+msgid "Pearson"
+msgstr "皮爾森"
+
+msgctxt "ContingencyTables|"
+msgid "Percentages"
+msgstr "百分比"
+
+msgctxt "ContingencyTables|"
+msgid "Row"
+msgstr "橫列"
+
+msgctxt "ContingencyTables|"
+msgid "Column"
+msgstr "直行"
+
+msgctxt "ContingencyTables|"
+msgid "Total"
+msgstr "總和"
+
+msgctxt "ContingencyTables|"
+msgid "Options"
+msgstr "設定選項"
+
+msgctxt "ContingencyTables|"
+msgid "Row Order"
+msgstr "橫列順序"
+
+msgctxt "ContingencyTables|"
+msgid "Ascending"
+msgstr "升冪"
+
+msgctxt "ContingencyTables|"
+msgid "Descending"
+msgstr "降冪"
+
+msgctxt "ContingencyTables|"
+msgid "Column Order"
+msgstr "直行順序"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Rows"
+msgstr "橫列"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Columns"
+msgstr "欄"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Counts"
+msgstr "計數"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Layers"
+msgstr "層"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Statistics"
+msgstr "統計量"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Sample"
+msgstr "樣本"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Poisson"
+msgstr "卜瓦松"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Joint multinomial"
+msgstr "聯合多項分配的"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Indep. multinomial, rows fixed"
+msgstr "獨立多項次分配，固定橫列"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Indep. multinomial, columns fixed"
+msgstr "獨立多項次分配，固定直行"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Hypergeometric (2x2 only)"
+msgstr "超幾何分佈的 (限2x2)"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Additional Statistics"
+msgstr "其他統計量"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Log odds ratio (2x2 only)"
+msgstr "對數勝率比(僅提供2x2)"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Credible interval"
+msgstr "可信區間"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Cramer's V"
+msgstr "Cramer's V 相關係數"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Alt. Hypothesis"
+msgstr "對立假設"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Group one ≠ Group two"
+msgstr "組1 ≠ 組2"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Group one > Group two"
+msgstr "組1 > 組2"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Group one < Group two"
+msgstr "組1 < 組2"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Plots"
+msgstr "圖"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Additional info"
+msgstr "其他資訊"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Prior"
+msgstr "先驗"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Prior concentration"
+msgstr ""
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Cells"
+msgstr "細格"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Percentages"
+msgstr "百分比"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Row"
+msgstr "橫列"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Column"
+msgstr "直行"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Total"
+msgstr "總數"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Options"
+msgstr "設定選項"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Row Order"
+msgstr "橫列順序"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Ascending"
+msgstr "升冪"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Descending"
+msgstr "降冪"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Column Order"
+msgstr "直行順序"
+
+msgctxt "MultinomialTest|"
+msgid "Factor"
+msgstr "因子"
+
+msgctxt "MultinomialTest|"
+msgid "Counts"
+msgstr "計數"
+
+msgctxt "MultinomialTest|"
+msgid "Expected Counts"
+msgstr "期望次數"
+
+msgctxt "MultinomialTest|"
+msgid "Test Values"
+msgstr "檢定值"
+
+#, fuzzy
+msgctxt "MultinomialTest|"
+msgid "Equal proportions (multinomial test)"
+msgstr "相同比率(多項檢驗)"
+
+msgctxt "MultinomialTest|"
+msgid "Additional Statistics"
+msgstr "其他統計量"
+
+msgctxt "MultinomialTest|"
+msgid "Descriptives"
+msgstr "描述性統計"
+
+msgctxt "MultinomialTest|"
+msgid "Confidence interval"
+msgstr "信賴區間"
+
+msgctxt "MultinomialTest|"
+msgid "Vovk-Sellke maximum p-ratio"
+msgstr "Vovk-Sellke 最大p-比率"
+
+msgctxt "MultinomialTest|"
+msgid "Display"
+msgstr "顯示"
+
+msgctxt "MultinomialTest|"
+msgid "Proportions"
+msgstr "比例"
+
+msgctxt "MultinomialTest|"
+msgid "Plots"
+msgstr "圖"
+
+msgctxt "MultinomialTest|"
+msgid "Descriptives plot"
+msgstr "描述性統計圖"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Factor"
+msgstr "因子"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Counts"
+msgstr "計數"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Expected Counts"
+msgstr "期望次數"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Test Values"
+msgstr "檢定值"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Equal proportions"
+msgstr "相同比率"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Additional Statistics"
+msgstr "其他統計量"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Descriptives"
+msgstr "描述性統計"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Credible interval"
+msgstr "可信區間"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Display"
+msgstr "顯示"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Proportions"
+msgstr "比例"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Plots"
+msgstr "圖"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Descriptives plot"
+msgstr "描述性統計圖"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Prior"
+msgstr "先驗"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "No factor specified"
+msgstr "無可設定之因子"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Level #"
+msgstr "水準數"
+
+msgctxt "RegressionLogLinear|"
+msgid "Counts (optional)"
+msgstr "計數(可選)"
+
+msgctxt "RegressionLogLinear|"
+msgid "Factors"
+msgstr "因子"
+
+msgctxt "RegressionLogLinear|"
+msgid "Model"
+msgstr "模型"
+
+msgctxt "RegressionLogLinear|"
+msgid "Components"
+msgstr "成分"
+
+msgctxt "RegressionLogLinear|"
+msgid "Model Terms"
+msgstr "模型設定"
+
+msgctxt "RegressionLogLinear|"
+msgid "Statistics"
+msgstr "統計量"
+
+msgctxt "RegressionLogLinear|"
+msgid "Regression Coefficient"
+msgstr "迴歸係數"
+
+msgctxt "RegressionLogLinear|"
+msgid "Estimates"
+msgstr "估計數"
+
+msgctxt "RegressionLogLinear|"
+msgid "Confidence intervals"
+msgstr "信賴區間"
+
+msgctxt "RegressionLogLinear|"
+msgid "Interval"
+msgstr "區間"
+
+msgctxt "RegressionLogLinear|"
+msgid "Vovk-Sellke maximum p-ratio"
+msgstr "Vovk-Sellke 最大p-比率"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Counts (optional)"
+msgstr "計數(可選)"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Factors"
+msgstr "因子"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Prior"
+msgstr "先驗"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Shape"
+msgstr "形狀"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Scale"
+msgstr "尺規"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Model Cut-offs"
+msgstr "模型停止參數"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Display best"
+msgstr "顯示最佳的"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "models"
+msgstr "模式"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Posterior prob."
+msgstr "驗後機率"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Model"
+msgstr "模式"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Components"
+msgstr "成分"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Model Terms"
+msgstr "模型設定"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Statistics"
+msgstr "統計量"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Regression Coefficients"
+msgstr "迴歸係數"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Estimates"
+msgstr "估計值"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Credible intervals"
+msgstr "可靠(Credible)區間"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Interval"
+msgstr "區間"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Submodel"
+msgstr "子模式"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Advanced"
+msgstr "進階設定"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Samples"
+msgstr "樣本"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Auto"
+msgstr "自動"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Manual"
+msgstr "手動"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "No. samples"
+msgstr "樣本數"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Log Odds Ratio"
+msgstr "對數勝率比"
+
+msgctxt "ABTestBayesian|"
+msgid "Odds Ratio"
+msgstr ""
+
+msgctxt "ABTestBayesian|"
+msgid "Relative Risk"
+msgstr ""
+
+msgctxt "ABTestBayesian|"
+msgid "Absolute Risk"
+msgstr ""
+
+msgctxt "ABTestBayesian|"
+msgid "p1 & p2"
+msgstr ""
+
+msgctxt "ABTestBayesian|"
+msgid "p1"
+msgstr ""
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Expected"
+msgstr "期望值"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Residuals"
+msgstr "殘差"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Unstandardized"
+msgstr "未標準化"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Pearson"
+msgstr "皮爾森"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Standardized"
+msgstr "標準化"
+
+msgctxt "MultinomialTest|"
+msgid "Custom expected proportions (χ² test)"
+msgstr "自定期望比例(χ²檢定)"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Custom expected proportions"
+msgstr "自定期望比例(χ²檢定)"
+
+msgctxt "Description|"
+msgid "Informed Multinomial Test"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Informed Bayesian Multinomial Test"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Informed Multi-Binomial Test"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Informed Bayesian Multi-Binomial Test"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Factor"
+msgstr "因子"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Successes"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Sample Size"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Bayes Factor Comparison"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Encompassing"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Null"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "vs."
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Table"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Plot"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Display"
+msgstr "顯示"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Counts"
+msgstr "計數"
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Proportions"
+msgstr "比例"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Posterior plot"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Credible interval"
+msgstr "可信區間"
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "No factor specified"
+msgstr "無可設定之因子"
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Level #"
+msgstr "水準數"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Order Restricted Hypotheses"
+msgstr "順序限制假設"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid ""
+"Enter each restriction of one hypothesis on a new line,\n"
+"e.g., Low <= Mid <= High\n"
+"where 'Low'/'Mid'/'High' are the factor level names.\n"
+"Click on the 'plus' icon to add more hypotheses. \n"
+"Click the information icon for more examples."
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Click to learn more about the syntax for order restrictions."
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Model 1"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid ""
+"Ctrl + Enter to apply. Click on the blue button above for help on the "
+"restriction syntax"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Advanced"
+msgstr "進階的"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Estimation settings"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Burnin (MCMC)"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Iterations (MCMC)"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Maximum samples (bridgesampling)"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Factor"
+msgstr "因子"
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Counts"
+msgstr "計次"
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Bayes Factor Comparison"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Encompassing"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Null"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "vs."
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Table"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Plot"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Display"
+msgstr "顯示"
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Proportions"
+msgstr "比例"
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Posterior plot"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Credible interval"
+msgstr "可信區間"
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "No factor specified"
+msgstr "無可設定之因子"
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Level #"
+msgstr "水準數"
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Order Restricted Hypotheses"
+msgstr "順序限制假設"
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid ""
+"Enter each restriction of one hypothesis on a new line,\n"
+"e.g., Low <= Mid <= High\n"
+"where 'Low'/'Mid'/'High' are the factor level names.\n"
+"Click on the 'plus' icon to add more hypotheses. \n"
+"Click the information icon for more examples."
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Click to learn more about the syntax for order restrictions."
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Model 1"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid ""
+"Ctrl + Enter to apply. Click on the blue button above for help on the "
+"restriction syntax"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Advanced"
+msgstr "進階的"
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Estimation settings"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Burnin (MCMC)"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Iterations (MCMC)"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Maximum samples (bridgesampling)"
+msgstr ""
+
+msgctxt "ContingencyTables|"
+msgid "Standardized (adjusted Pearson)"
+msgstr "標準化(調整後的Pearson相關係數)"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Sequential analysis plot"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Bayes factors"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Posterior probability"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Prior Distribution"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Prior Model Probability"
+msgstr "先驗模型機率"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Model"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Sequential analysis"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Number of steps"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Include"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Null model"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Encompassing model"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Sequential analysis plot"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Bayes factors"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Posterior probability"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Prior Distribution"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Prior Model Probability"
+msgstr "先驗模型機率"
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Model"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Sequential analysis"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Number of steps"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Include"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Null model"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Encompassing model"
+msgstr ""
+
+msgctxt "ContingencyTables|"
+msgid "Observed"
+msgstr "觀察值"
+
+msgctxt "ContingencyTables|"
+msgid "Margin"
+msgstr "列/行邊際分配"
+
+msgctxt "ContingencyTables|"
+msgid "Show totals"
+msgstr "顯示列/行總和"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Observed"
+msgstr "觀察值"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Margin"
+msgstr "列/行邊際分配"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Show totals"
+msgstr "顯示列/行總和"

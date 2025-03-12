@@ -1,0 +1,937 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jaspSem 0.15.0\n"
+"POT-Creation-Date: 2025-03-01 02:57\n"
+"PO-Revision-Date: 2025-02-13 21:01+0000\n"
+"Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
+"projects/jasp/jaspsem-r/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10-rc\n"
+
+msgid "Fit indices"
+msgstr "配適指標"
+
+msgid "Index"
+msgstr "指標"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Comparative Fit Index (CFI)"
+msgstr "比較配適指標 (CFI)"
+
+msgid "Tucker-Lewis Index (TLI)"
+msgstr "Tucker-Lewis 配適指標 (TLI)"
+
+msgid "Bentler-Bonett Non-normed Fit Index (NNFI)"
+msgstr "非規範配適指標 (NNFI)"
+
+msgid "Bentler-Bonett Normed Fit Index (NFI)"
+msgstr "規範配適指標 (NFI)"
+
+msgid "Parsimony Normed Fit Index (PNFI)"
+msgstr "精簡規範配適指標 (PNFI)"
+
+msgid "Bollen's Relative Fit Index (RFI)"
+msgstr "相對配適指標 (RFI)"
+
+msgid "Bollen's Incremental Fit Index (IFI)"
+msgstr "增量配適指標 (IFI)"
+
+msgid "Relative Noncentrality Index (RNI)"
+msgstr "相對非中心性配適指標 (RNI)"
+
+msgid "Root mean square error of approximation (RMSEA)"
+msgstr "近似均方根誤差 (RMSEA)"
+
+msgid "RMSEA 90%% CI lower bound"
+msgstr "RMSEA 90%% 信賴區間下界"
+
+msgid "RMSEA 90%% CI upper bound"
+msgstr "RMSEA 90%% 信賴區間上界"
+
+msgid "RMSEA p-value"
+msgstr "RMSEA p值"
+
+msgid "Standardized root mean square residual (SRMR)"
+msgstr "標準化殘差均方根 (SRMR)"
+
+msgid "Hoelter's critical N (%s = .05)"
+msgstr "Hoelter 臨界樣本數(CN) (%s = .05)"
+
+msgid "Hoelter's critical N (%s = .01)"
+msgstr "Hoelter 臨界樣本數(CN) (%s = .01)"
+
+msgid "Goodness of fit index (GFI)"
+msgstr "配適度指標 (GFI)"
+
+msgid "McDonald fit index (MFI)"
+msgstr "McDonald 配適指標 (MFI)"
+
+msgid "Expected cross validation index (ECVI)"
+msgstr "期望交叉驗證指標 (EVCI)"
+
+msgid "Log-likelihood"
+msgstr "對數概似值"
+
+msgid "Number of free parameters"
+msgstr "自由估計參數個數"
+
+msgid "Akaike (AIC)"
+msgstr "赤池資訊量準則 (AIC)"
+
+msgid "Bayesian (BIC)"
+msgstr "貝氏資訊量準則 (BIC)"
+
+msgid "Sample-size adjusted Bayesian (SSABIC)"
+msgstr "依照樣本大小校正之貝氏資訊量準則 (SSABIC)"
+
+msgid "The model could not be estimated due to nonconvergence."
+msgstr "此模型無法估計: 迭代結果無法收斂。"
+
+msgid "The model could not be estimated: No degrees of freedom left."
+msgstr "此模型無法估計: 自由度不足。"
+
+msgid "Chi-square test"
+msgstr "卡方檢定"
+
+msgid "Baseline model"
+msgstr "基準模型"
+
+msgid "Growth curve model"
+msgstr "成長曲線模型"
+
+msgid "The model is not admissible: %s"
+msgstr "此模型無法執行： %s"
+
+msgid "Warning."
+msgstr "警告."
+
+msgid "Parameter estimates"
+msgstr "參數估計值"
+
+msgid "Std. estimate"
+msgstr "標準化估計"
+
+msgid "Estimate"
+msgstr "估計"
+
+msgid "Component"
+msgstr "成分"
+
+msgid "Parameter"
+msgstr "參數"
+
+msgid "Std. error"
+msgstr "標準誤"
+
+msgid "z-value"
+msgstr "z 值"
+
+msgid "p"
+msgstr "p"
+
+msgid "Lower"
+msgstr "下界"
+
+msgid "%s%% Confidence Interval"
+msgstr "%s%% 信賴區間"
+
+msgid "Latent covariances"
+msgstr "潛在共變數"
+
+msgid "Predictor"
+msgstr "預測變項"
+
+msgid "Variable"
+msgstr "變項"
+
+msgid "Intercept"
+msgstr "截距"
+
+msgid "Linear slope"
+msgstr "線性斜率"
+
+msgid "Quadratic slope"
+msgstr "二次斜率"
+
+msgid "Cubic slope"
+msgstr "三次斜率"
+
+msgid "Mean"
+msgstr "平均數"
+
+msgid "Variance"
+msgstr "變異數"
+
+msgid ""
+"Residual variance is negative. This may indicate model misspecification."
+msgstr "殘差變異數為負值,此模型可能設定有誤."
+
+msgid "R-Squared"
+msgstr "R平方"
+
+msgid "Implied covariance matrix"
+msgstr "模式隱含之共變數矩陣"
+
+msgid "Residual covariance matrix"
+msgstr "殘差共變數矩陣"
+
+msgid "Curve plot"
+msgstr "曲線圖"
+
+msgid "Model plot"
+msgstr "模型圖"
+
+msgid "Misfit plot"
+msgstr "不適配 (misfit) 圖"
+
+msgid "Curve + variance + uncertainty"
+msgstr "曲線 + 變異數 + 不確定性"
+
+msgid "Curve + variance"
+msgstr "曲線 + 變異數"
+
+msgid "Curve + parameter uncertainty"
+msgstr "曲線 + 參數不確定性"
+
+msgid ""
+"Not all exogenous variables are admissible. Inadmissible exogenous "
+"variables: %s. Only binary or continuous exogenous variables allowed."
+msgstr "並非所有外生變數都有合理解，如：%s。只能使用二元或連續外生變數。"
+
+msgid ""
+"Not all endogenous variables are admissible. Inadmissible endogenous "
+"variables: %s. Only scale or ordinal endogenous variables allowed."
+msgstr "並非所有內生變數都有合理解，如：%s。只能使用連續或次序內生變數。"
+
+msgid ""
+"FIML missing value handling only available when all endogenous variables are "
+"of scale type. Ordinal endogenous variables in the model: %s"
+msgstr ""
+"只能在所有內生變數皆為連續變數時，才能使用完全訊息最大概似法遺漏值處理設定。"
+"模型中有以下次序內生變數：%s"
+
+msgid ""
+"Estimation failed\n"
+"Message:\n"
+"%s"
+msgstr ""
+"無法估計\n"
+"訊息:\n"
+"%s"
+
+msgid "Direct effects"
+msgstr "直接效果"
+
+msgid "Upper"
+msgstr "上界"
+
+msgid "Indirect effects"
+msgstr "間接效果"
+
+msgid "Total indirect effects"
+msgstr "所有間接效果"
+
+msgid "Residual covariances"
+msgstr "殘差共變數"
+
+msgid "Path coefficients"
+msgstr "路徑係數"
+
+msgid "Estimator is %s."
+msgstr "估計法為 %s。"
+
+msgid ""
+"%1$s Not all bootstrap samples were successful: CI based on %2$.0f samples."
+msgstr ""
+"%1$s 並非所有拔靴法樣本皆分析成功: 信賴區間是基於 %2$.0f 的樣本分析結果。"
+
+msgid "Path plot"
+msgstr "路徑圖"
+
+msgid ""
+"Currently it is not possible to plot mediation models with ordinal "
+"variables. The plot could not be generated."
+msgstr "因包含次序變數而無法繪製中介模型圖，無法產生圖形。"
+
+msgid ""
+"The plot could not be generated. The underlying code resulted in the "
+"following error message: %s"
+msgstr "無法產生圖形。錯誤訊息後所列之語法有誤: %s"
+
+msgid "Model syntax"
+msgstr "模型語法"
+
+msgid "FIML only available with ML-type estimators."
+msgstr "只有使用最大概似法 (ML)類估計法時才提供完全訊息最大概似法(FIML)功能。"
+
+msgid ""
+"Estimation failed! Message: The model did not converge. Try using a "
+"different estimator or specify an other MIMIC model."
+msgstr "估計失敗！訊息：模型無法收斂。試使用其他估計法，或改用MIMIC模型。"
+
+msgid "df"
+msgstr "自由度"
+
+msgid "&#967;&sup2;"
+msgstr "&#967;&sup2；"
+
+msgid "Factor model"
+msgstr "因素模型"
+
+msgid "Predictor coefficients"
+msgstr "預測變數係數"
+
+msgid "Indicator coefficients"
+msgstr "指標係數"
+
+msgid "Indicator"
+msgstr "指標"
+
+msgid "Model plot not available with ordinal variables"
+msgstr "使用次序變數分析時，無法提供模型圖"
+
+msgid "Grouping variable has fewer than 3 observations in group %s"
+msgstr "分組變數在%s組中的觀察值小於3"
+
+msgid "Estimation failed Message: %s"
+msgstr "估計失敗。訊息:%s"
+
+msgid "Estimation failed! Message: Model %s did not converge!"
+msgstr "估計失敗。訊息:模型%s無法收斂!"
+
+msgid "Model fit"
+msgstr "模型配適"
+
+msgid "Group"
+msgstr "群"
+
+msgid "AIC"
+msgstr "AIC"
+
+msgid "BIC"
+msgstr "BIC"
+
+msgid "n"
+msgstr "n"
+
+msgid "Baseline test"
+msgstr "模型檢定"
+
+msgid "Difference test"
+msgstr "差異檢定"
+
+msgid "WARNING! %1$s: %2$s"
+msgstr "警告! %1$s: %2$s"
+
+msgid "WARNING! %1$s, group %2$s: %3$s"
+msgstr "警告! %1$s, 組 %2$s: %3$s"
+
+msgid "Weights"
+msgstr "加權"
+
+msgid "Construct"
+msgstr "構念"
+
+msgid "Std. Error"
+msgstr "標準誤"
+
+msgid "Loadings"
+msgstr "因素負荷量"
+
+msgid "Regression Coefficients"
+msgstr "迴歸係數"
+
+msgid "Outcome"
+msgstr "結果"
+
+msgid "Total effects"
+msgstr "總效果"
+
+msgid "VIF"
+msgstr "VIF"
+
+msgid "Endogenous Indicator Prediction"
+msgstr "內衍指標預測"
+
+msgid ""
+"The target model uses the same weighting approach as the benchmark model, "
+"please choose another benchmark."
+msgstr ""
+
+msgid ""
+"For the predicted indicator scores table(s), please select a single "
+"benchmark or 'none'."
+msgstr ""
+
+msgid "Prediction Metrics"
+msgstr "預測指標"
+
+msgid "Target MAE"
+msgstr ""
+
+msgid "Linear model MAE"
+msgstr "線性模型的均絕對誤差(MAE)"
+
+msgid "PLS-PM MAE"
+msgstr ""
+
+msgid "GSCA MAE"
+msgstr ""
+
+msgid "PCA MAE"
+msgstr ""
+
+msgid "MAXVAR MAE"
+msgstr ""
+
+msgid "Target RMSE"
+msgstr ""
+
+msgid "Linear model RMSE"
+msgstr "線性模型的均方根誤差(RMSE)"
+
+msgid "PLS-PM RMSE"
+msgstr ""
+
+msgid "GSCA RMSE"
+msgstr ""
+
+msgid "PCA RMSE"
+msgstr ""
+
+msgid "MAXVAR RMSE"
+msgstr ""
+
+msgid "Target Q2 prediction"
+msgstr ""
+
+msgid ""
+"There are not enough observations for each k-fold, try setting 'cross-"
+"validation k-folds' to a lower number"
+msgstr ""
+
+msgid "Are all indicator variables set to 'scale'?"
+msgstr "所有指標變數是否皆設定為連續變數？"
+
+msgid "Prediction failed Message: %1$s"
+msgstr "估計失敗。訊息:%s"
+
+msgid "Indicator Scores"
+msgstr "指標得分"
+
+msgid "Actual scores"
+msgstr "實際分數"
+
+msgid "Predicted scores"
+msgstr "預測分數"
+
+msgid "Target residuals"
+msgstr "目標殘差"
+
+msgid "benchmark"
+msgstr "基準模型"
+
+msgid "lm"
+msgstr ""
+
+msgid "Linear model"
+msgstr "線性模型"
+
+msgid "residuals"
+msgstr "殘差"
+
+msgid "Additional Fit Measures"
+msgstr "其他配適指標"
+
+msgid "Hoelter's critical N (CN)"
+msgstr "Hoelter 臨界樣本數 (CN)"
+
+msgid "Root mean square residual covariance (RMS theta)"
+msgstr "均方根殘差共變數 (RMS theta)"
+
+msgid "Goodness of Fit (GoF)"
+msgstr "配適度指標 (GFI)"
+
+msgid "Geodesic distance"
+msgstr "測地距離"
+
+msgid "Squared Euclidean distance"
+msgstr "平方歐式距離"
+
+msgid "Maximum likelihood-based dinstance"
+msgstr "基於最大概似估計法距離"
+
+msgid "Reliability Measures"
+msgstr "信度指標(Cronbach's α 與 CR值)"
+
+msgid "Cronbach's %s"
+msgstr "Cronbach %s"
+
+msgid "J%1$sreskog's %2$s"
+msgstr ""
+
+msgid "Dijkstra-Henseler's %s"
+msgstr ""
+
+msgid "Correlation tables"
+msgstr "相關係數表"
+
+msgid "Observed indicator correlation matrix"
+msgstr "觀察指標相關矩陣"
+
+msgid "Implied indicator correlation matrix"
+msgstr "隱含指標的相關矩陣"
+
+msgid "Observed construct correlation matrix"
+msgstr "觀察構念相關矩陣"
+
+msgid "Implied construct correlation matrix"
+msgstr "隱含構面的相關矩陣"
+
+msgid "Column '%s' name already exists in the dataset"
+msgstr "資料中已有命名為'%s'之變數"
+
+msgid ""
+"Mean structure can not be included when data is variance-covariance matrix"
+msgstr "當以變異數-共變數矩陣為資料進行分析時，無法提供平均數結構"
+
+msgid "Please set the sample size!"
+msgstr "請設定樣本數!"
+
+msgid ""
+"Multiple group analysis not supported when data is variance-covariance matrix"
+msgstr "當以變異數-共變數矩陣為資料進行分析時，無法進行多群分析"
+
+msgid ""
+"Not more cases than number of variables. Is your data a variance-covariance "
+"matrix?"
+msgstr "資料個數少於變數個數，你是以變異數-共變數矩陣為資料進行分析嗎？"
+
+msgid ""
+"When mean structure is included, at least one of the checkboxes to fix the "
+"intercepts to zero has to be checked"
+msgstr "若要估計平均數模式，至少需勾選一個截距為零之選項"
+
+msgid ""
+"When conditioning estimation on exogenous covariates, the 'Exogenous "
+"covariate(s) fixed' box must be checked."
+msgstr "當條件估計是基於外衍共變數時，必須勾選「固定外衍共變數」。"
+
+msgid ""
+"Bootstrapped standard errors are not yet available when 'Condition on "
+"exogenous covariate(s)' box is checked."
+msgstr "勾選「考量外衍共變數」時，無法提供拔靴法標準誤。"
+
+msgid "Invalid model specification. Did you pass a variable name as a string?"
+msgstr "模型設定無效。是否將某變數名稱誤設為字串資料？"
+
+msgid "One or more variables are constants or contain only missing values."
+msgstr "一或多個變數為常數或只有遺漏值。"
+
+msgid "Estimation failed. Message: %s"
+msgstr "估計失敗。訊息:%s"
+
+msgid "Estimation failed! Message: %s did not converge!"
+msgstr "估計失敗。訊息:模型%s無法收斂！"
+
+msgid "Estimation failed! Message: %s has negative degrees of freedom."
+msgstr "估計失敗!訊息:模型%s的自由度為負值。"
+
+msgid "n(Observations)"
+msgstr "樣本數"
+
+msgid "Total"
+msgstr "總計"
+
+msgid "n(Parameters)"
+msgstr "參數個數"
+
+msgid "Free"
+msgstr "自由參數"
+
+msgid "%1$sdf"
+msgstr "%1$s自由度"
+
+msgid ""
+"%sFitting the model resulted in warnings. Check the 'Show warnings' box in "
+"the Output Options to see the warnings."
+msgstr "%s擬合模型時出現警告。勾選「報表設定」中的「顯示警告」以察看警告訊息。"
+
+msgid "A total of %g cases were removed due to missing values."
+msgstr "有 %g 筆資料因有遺漏值而未納入分析。"
+
+msgid "Model test is %s."
+msgstr "模型考驗為 %s。"
+
+msgid "Information matrix is %s."
+msgstr "資訊矩陣為 %s。"
+
+msgid "Standard errors are %s."
+msgstr "標準誤為 %s。"
+
+msgid ""
+"%s The AIC, BIC and additional information criteria are only available with "
+"ML-type estimators."
+msgstr ""
+"%s 只有在使用最大概似法 (ML)類之估計法時，才提供AIC, BIC與其他訊息準則指標。"
+
+msgid "all"
+msgstr "所有參數"
+
+msgid "<b>Warnings:</b> %s"
+msgstr "<b>警告:</b> %s"
+
+msgid "Parameter Estimates"
+msgstr "參數估計值"
+
+msgid "Factor Loadings"
+msgstr "因素負荷量"
+
+msgid "Latent"
+msgstr "潛在"
+
+msgid "%s%% Confidence interval"
+msgstr "%s%% 信賴區間"
+
+msgid "Regression coefficients"
+msgstr "迴歸係數"
+
+msgid "Factor variances"
+msgstr "因素變異數"
+
+msgid "Factor covariances"
+msgstr "因素共變數"
+
+msgid "Variables"
+msgstr "變項"
+
+msgid "Residual variances"
+msgstr "殘差變異數"
+
+msgid "Intercepts"
+msgstr "截距"
+
+msgid "Missing data method 'FIML' forces meanstructure."
+msgstr "缺失資料方法 'FIML' 強制要求均值結構"
+
+msgid "Thresholds"
+msgstr "閾限"
+
+msgid "Threshold"
+msgstr "閾限"
+
+msgid "Defined parameters"
+msgstr "變數定義"
+
+msgid "Name"
+msgstr "命名"
+
+msgid "%s Fit indices are based on the scaled test statistic."
+msgstr "%s 配適指標，將基於量尺化檢定統計數。"
+
+msgid "T-size fit indices"
+msgstr "T-size 配適指標"
+
+msgid "Poor-fair limit"
+msgstr ""
+
+msgid "Fair-close limit"
+msgstr ""
+
+msgid "CFI"
+msgstr "CFI"
+
+msgid "RMSEA"
+msgstr "RMSEA"
+
+msgid "T-size statistics are computed for <i>%s = 0.05</i>."
+msgstr ""
+
+msgid "Average variance extracted"
+msgstr "平均變異抽取量 (AVE)"
+
+msgid "AVE"
+msgstr "平均變異抽取量 (AVE)"
+
+msgid "Reliability"
+msgstr "信度"
+
+msgid "Coefficient α"
+msgstr "Coefficient α (Cronbach's α)"
+
+msgid "Coefficient ω"
+msgstr "Coefficient ω(CR值)"
+
+msgid "Heterotrait-Monotrait Ratio"
+msgstr "異質-單質比"
+
+msgid "Heterotrait-monotrait ratio"
+msgstr "異質-單質比"
+
+msgid "Mardia's coefficients"
+msgstr "Mardia係數"
+
+msgid "Coefficient"
+msgstr "係數"
+
+msgid "z"
+msgstr "z"
+
+msgid ""
+"Multivariate skewness and kurtosis calculated for observed variables from "
+"all models."
+msgstr "根據所有模型的觀察變數來計算多變數偏態與峰度。"
+
+msgid ""
+"Not all used variables are continuous: Mardia's coefficients not available."
+msgstr "因有非數值的變數而無法計算Mardia係數。"
+
+msgid ""
+"The data covariance matrix could not be inverted: Mardia's coefficients not "
+"available."
+msgstr "因有非數值的變數而無法計算Mardia係數。"
+
+msgid "Skewness"
+msgstr "偏態"
+
+msgid "Kurtosis"
+msgstr "峰度"
+
+msgid "Covariance tables"
+msgstr "共變數表"
+
+msgid ""
+"The standardized residual covariance table is currently unavailable when the "
+"error calculation method is 'Bootstrap'"
+msgstr "以拔靴法計算誤差時，無法提供標準化殘差共變數表"
+
+msgid "The standardized residual covariance matrix could not be computed"
+msgstr "無法計算標準化殘差共變數矩陣"
+
+msgid ""
+"The standardized residual covariance tables are currently unavailable when "
+"the error calculation method is 'Bootstrap'"
+msgstr "以拔靴法計算誤差時，無法提供標準化殘差共變數表"
+
+msgid "The standardized residual covariance matrices could not be computed"
+msgstr "無法計算標準化殘差共變數矩陣"
+
+msgid "Modification indices"
+msgstr "修正指標"
+
+msgid "Modification Indices"
+msgstr "修正指標"
+
+msgid "group"
+msgstr "組"
+
+msgid "mi"
+msgstr "修正指標"
+
+msgid "epc"
+msgstr "期望參數變動 (EPC)"
+
+msgid "sepc (lv)"
+msgstr "sepc (潛在變項)"
+
+msgid "sepc (all)"
+msgstr "sepc(所有變項）"
+
+msgid "sepc (nox)"
+msgstr "sepc (非內生變數)"
+
+msgid "Sensitivity analysis"
+msgstr "敏感度分析"
+
+msgid "Summary of sensitivity analysis"
+msgstr "敏感度分析摘要"
+
+msgid "Path"
+msgstr "路徑圖"
+
+msgid "Standardized estimate"
+msgstr "標準化估計值"
+
+msgid "Original model"
+msgstr "原始模型"
+
+msgid "p*"
+msgstr "p*"
+
+msgid "Sensitivity model"
+msgstr "敏感度模型"
+
+msgid "Min"
+msgstr "最小值"
+
+msgid "Max"
+msgstr "最大值"
+
+msgid ""
+"Please include at least one regression path in the model to perform a "
+"sensitivity analysis."
+msgstr "請在模型中包含至少一條迴歸路徑，以進行敏感度分析。"
+
+msgid "Performing sensitivity analysis (model: %1$s, group: %2$s)"
+msgstr "進行敏感度分析 (模型: %1$s, 組: %2$s)"
+
+msgid "Performing sensitivity analysis (model: %1$s)"
+msgstr "進行敏感度分析 (模型: %1$s)"
+
+msgid "Sensitivity parameters that led to a change in significance"
+msgstr "導致顯著性變化的敏感度參數"
+
+msgid "Sensitivity parameters"
+msgstr "敏感性參數"
+
+msgid "Summary of sensitivity parameters"
+msgstr "敏感性參數的摘要"
+
+msgid "Sensitivity parameter"
+msgstr "敏感性參數"
+
+msgid "Path diagram"
+msgstr "路徑圖"
+
+msgid "Satorra-Bentler"
+msgstr ""
+
+msgid "Yuan-Bentler"
+msgstr ""
+
+msgid "Yuan-Bentler Mplus"
+msgstr "Yuan-Bentler (Mplus) 量尺化檢定統計數"
+
+msgid "mean and variance-adjusted"
+msgstr "平均數與變異數調整檢定統計數"
+
+msgid "scaled and shifted"
+msgstr "量尺與轉變(shifted)檢定統計數"
+
+msgid "bootstrap (Bollen-Stine)"
+msgstr "拔靴法(Bollen-Stine) 機率值"
+
+msgid "Browne residual based (ADF)"
+msgstr ""
+
+msgid "Browne residual based (NT)"
+msgstr ""
+
+msgid "robust"
+msgstr "穩健"
+
+msgid "robust Huber-White"
+msgstr "穩健 Huber-White"
+
+msgid "first-order"
+msgstr "一階"
+
+#~ msgid "95%% Confidence Interval"
+#~ msgstr "95%% 信賴區間"
+
+#~ msgid "LV"
+#~ msgstr "潛在變數"
+
+#~ msgid "Std. Est."
+#~ msgstr "標準化估計值"
+
+#~ msgid "All"
+#~ msgstr "所有"
+
+#~ msgid "No X"
+#~ msgstr "X 不標準化"
+
+#~ msgid "Additional Fit measures"
+#~ msgstr "其他適配指標"
+
+#~ msgid "Other fit measures"
+#~ msgstr "其他適配指標"
+
+#~ msgid "Metric"
+#~ msgstr "量尺"
+
+#~ msgid "Delta method"
+#~ msgstr "Delta 法"
+
+#~ msgid "Robust"
+#~ msgstr "穩健"
+
+#~ msgid "percentile bootstrap"
+#~ msgstr "百分位拔靴法"
+
+#~ msgid "normal theory bootstrap"
+#~ msgstr "常態理論拔靴法"
+
+#~ msgid "bias-corrected percentile bootstrap"
+#~ msgstr "誤差修正百分位拔靴法"
+
+#~ msgid "normal theory"
+#~ msgstr "常態理論"
+
+#~ msgid "%1$s standard errors, %2$s confidence intervals."
+#~ msgstr "%1$s 標準誤, %2$s 信賴區間"
+
+#~ msgid "%1$s standard errors, %2$s confidence intervals, %3$s estimator."
+#~ msgstr "%1$s 標準誤, %2$s 信賴區間, %3$s 估計法"
+
+#~ msgid "Chi Square test"
+#~ msgstr "卡方檢定"
+
+#~ msgid "Additional fit measures"
+#~ msgstr "其他適配指標"
+
+#~ msgid "Standardized"
+#~ msgstr "標準化"
+
+#~ msgid "Endo"
+#~ msgstr "內生"
+
+#~ msgid "FIML missing data handling only available with ML-type estimators"
+#~ msgstr ""
+#~ "只有使用最大概似法 (ML)類的估計法時，才能使用完全訊息最大概似法的方式來處"
+#~ "理遺漏值"
+
+#~ msgid ""
+#~ "Missing data handling '%s' is not supported for categorical data,\n"
+#~ "                        please select another method under 'Missing data "
+#~ "handling'\n"
+#~ "                        within the 'Estimation options' tab"
+#~ msgstr ""
+#~ "類別資料無法使用遺漏值處理方式'%s'。,\n"
+#~ "                        請在「估計選項」選單中的\n"
+#~ "                        「遺漏值處理」選單中選擇其他方式。"
+
+#~ msgid ""
+#~ "A total of %g cases were removed due to missing values. You can avoid "
+#~ "this by choosing 'FIML' under 'Missing Data Handling' in the Estimation "
+#~ "options."
+#~ msgstr ""
+#~ "基於遺漏值的原因，共移除%g筆資料。可在估計設定中的「遺漏值處理」，選擇「完"
+#~ "全訊息最大概似法」來避免此問題。"
+
+#~ msgid "Yuan-Bentler scaled test-statistic"
+#~ msgstr "Yuan-Bentler量尺化檢定統計數"
+
+#, fuzzy
+#~ msgid "Baseline tests based on %s."
+#~ msgstr "模型檢定基於%s."
+
+#~ msgid "&#916;&#967;&sup2;"
+#~ msgstr "&#916;&#967;&sup2;"
+
+#~ msgid "&#916;df"
+#~ msgstr "&#916;自由度"
+
+#~ msgid "Means"
+#~ msgstr "平均數"
+
+#, fuzzy
+#~ msgid "Δdf"
+#~ msgstr "自由度"

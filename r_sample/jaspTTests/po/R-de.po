@@ -1,0 +1,636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: R 3.6.1\n"
+"Report-Msgid-Bugs-To: github.com/jasp-stats/jasp-issues/issues\n"
+"POT-Creation-Date: 2024-10-26 02:47\n"
+"PO-Revision-Date: 2024-10-28 08:17+0000\n"
+"Last-Translator: Johannes Keyser <joke@fsfe.org>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/jasp/jaspttests-r/"
+"de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n==0 ? 0 : n==1 ? 0 : 1;\n"
+"X-Generator: Weblate 5.8.2-dev\n"
+
+msgid "Assumption Checks"
+msgstr "Annahmeprüfungen"
+
+msgid "Descriptives"
+msgstr "Deskriptive Statistiken"
+
+msgid ""
+"Vovk-Sellke Maximum <em>p</em>-Ratio: Based on a two-sided <em>p</em>-value,"
+"the maximum possible odds in favor of H%1$s over H%2$s equals 1/(-e <em>p</"
+"em> log(<em>p</em>)) for <em>p</em> %3$s .37 (Sellke, Bayarri, & Berger, "
+"2001)."
+msgstr ""
+"Vovk-Sellke-Maximum-<em>p</em>-Quotient: Basierend auf einem zweiseitigen "
+"<em>p</em>-Wert ist der maximale Quotient zugunsten H%1$s gegenüber H%2$s "
+"gegeben durch 1/(-e <em>p</em> log(<em>p</em>)) für <em>p</em> %3$s .37 "
+"(Sellke, Bayarri, & Berger, 2001)."
+
+msgid "Q-Q Plots"
+msgstr "Q-Q-Diagramme"
+
+msgid "Please provide another variable."
+msgstr "Bitte gib eine andere Variable ein."
+
+msgid "Variables %1$s and %2$s are the same!"
+msgstr "Variablen %1$s und %2$s sind gleich!"
+
+msgid "Descriptives Plots"
+msgstr "Deskriptive Diagramme"
+
+msgid "Bar Plots"
+msgstr "Balkendiagramme"
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "N"
+msgstr "N"
+
+msgid "Mean"
+msgstr "Mittelwert"
+
+msgid "SD"
+msgstr "SD"
+
+msgid "SE"
+msgstr "Standardfehler"
+
+msgid "Coefficient of variation"
+msgstr "Variationskoeffizient"
+
+msgid "%.0f%% Credible Interval"
+msgstr "%.0f%% Glaubwürdigkeitsintervall"
+
+msgid "Lower"
+msgstr "Untergrenze"
+
+msgid "Upper"
+msgstr "Obergrenze"
+
+msgid "Inferential Plots"
+msgstr "Inferenz-Diagramme"
+
+msgid "Prior and Posterior"
+msgstr "Prior und Posterior"
+
+msgid "Bayes Factor Robustness Check"
+msgstr "Bayesfaktor-Robustheitsprüfung"
+
+msgid "Sequential Analysis"
+msgstr "Sequenzielle Analyse"
+
+msgid ""
+"Bayes factor robustness check plot currently not supported for informed "
+"prior."
+msgstr ""
+"Bayesfaktor-Robustheitsprüfungsdiagramm ist derzeit nicht für informierte "
+"Prior verfügbar."
+
+msgid ""
+"Sequential analysis robustness check plot currently not supported for "
+"informed prior."
+msgstr ""
+"Robustheitsprüfungsdiagramm der sequenziellen Analyse ist derzeit nicht für "
+"informierte Prior verfügbar."
+
+msgid "Expected numeric or character rscale but got %s."
+msgstr "Erwartete Zahl oder Buchstabe rscale, aber bekam %s."
+
+msgid "Running robustness check %1$d / %2$d"
+msgstr "Berechne Bayesfaktor-Robustheitsprüfung %1$d / %2$d"
+
+msgid "max BF%s"
+msgstr "max BF%s"
+
+msgid "user prior"
+msgstr "benutzerdefinierter Prior"
+
+msgid "wide prior"
+msgstr "breiter Prior"
+
+msgid "ultrawide prior"
+msgstr "ultrabreiter Prior"
+
+msgid "BF%s"
+msgstr "BF%s"
+
+msgid "%1$s at r==%2$s"
+msgstr "%1$s mit r==%2$s"
+
+msgid "Some Bayes factors were infinite"
+msgstr "Einige Bayesfaktoren waren unendlich"
+
+msgid "Cauchy prior width"
+msgstr "Breite Cauchy-Prior"
+
+msgid "Running sequential analysis %1$d / %2$d"
+msgstr "Berechne sequentielle Analyse %1$d / %2$d"
+
+msgid "n"
+msgstr "n"
+
+msgid "Posterior"
+msgstr "Posterior"
+
+msgid "Prior"
+msgstr "Prior"
+
+msgid "%s%% CI:"
+msgstr "%s%% GI:"
+
+msgid "Effect size"
+msgstr "Effektstärke"
+
+msgid "Raincloud Plots"
+msgstr "Regenwolken-Plots"
+
+msgid "Raincloud Difference Plots"
+msgstr "Regenwolken-Differenzplots"
+
+msgid "Bayes factor could not be calculated"
+msgstr "Bayesfaktor konnte nicht berechnet werden"
+
+msgid "Bayes factor is infinite"
+msgstr "Bayesfaktor ist unendlich"
+
+msgid "The Bayes factor is too small"
+msgstr "Der Bayesfaktor ist zu klein"
+
+msgid ""
+"t-value is large. A Savage-Dickey approximation was used to compute the "
+"Bayes factor but no error estimate can be given."
+msgstr ""
+"Der t-Wert ist groß. Es wurde eine Savage-Dickey-Approximation benutzt um "
+"den Bayesfaktor zu berechnen, aber es kann keine Fehlerschätzung gegeben "
+"werden."
+
+msgid "No error estimate is available for normal priors."
+msgstr "Keine Fehlerschätzung für normalverteilte Prior verfügbar."
+
+msgid "Bayesian Mann-Whitney U Test"
+msgstr "Bayesscher Mann-Whitney-U-Test"
+
+msgid "Bayesian Independent Samples T-Test"
+msgstr "Bayesscher t-Test für unabhängige Stichproben"
+
+msgid ""
+"Result based on data augmentation algorithm with 5 chains of %.0f iterations."
+msgstr ""
+"Ergebnis basiert auf Daten-Augmentations-Algorithmus mit 5 Ketten von %.0f "
+"Iterationen."
+
+msgid "error %%"
+msgstr "Fehler %%"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the location of "
+"group <em>%1$s</em> is greater than the location of group <em>%2$s</em>."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass der Lageparameter der "
+"Gruppe <em>%1$s</em> größer ist als der Lageparameter der Gruppe <em>%2$s</"
+"em>."
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the location of "
+"group <em>%1$s</em> is smaller than the location of group <em>%2$s</em>."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass der Lageparameter der "
+"Gruppe <em>%1$s</em> kleiner ist als der Lageparameter der Gruppe <em>%2$s</"
+"em>."
+
+msgid "Bayesian Wilcoxon Signed-Rank Test"
+msgstr "Bayesscher Wilcoxon-Vorzeichen-Rang-Test"
+
+msgid "Bayesian One Sample T-Test"
+msgstr "Bayesscher T-Test für eine Stichprobe"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"is greater than %s."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass der Mittelwert der "
+"Grundgesamtheit größer als %s ist."
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"is less than %s."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass der Mittelwert der "
+"Grundgesamtheit kleiner als %s ist."
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"differs from %s."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass der Mittelwert der "
+"Grundgesamtheit von %s verschieden ist."
+
+msgid "Bayesian Paired Samples T-Test"
+msgstr "Bayesscher T-Test für abhängige Stichproben"
+
+msgid "Measure 1"
+msgstr "Messung 1"
+
+msgid "Measure 2"
+msgstr "Messung 2"
+
+msgid "Independent Samples T-Test"
+msgstr "T-Test für unabhängige Stichproben"
+
+msgid "Mann-Whitney U test."
+msgstr "Mann-Whitney-U-Test."
+
+msgid "U"
+msgstr "U"
+
+msgid "Welch's t-test."
+msgstr "Welchs T-Test."
+
+msgid "t"
+msgstr "t"
+
+msgid "Student's t-test."
+msgstr "Students T-Test."
+
+msgid "Statistic"
+msgstr "Statistik"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "df"
+msgstr "df"
+
+msgid "p"
+msgstr "p"
+
+msgid "Cohen's d"
+msgstr "Cohens d"
+
+msgid "Glass' delta"
+msgstr "Glass Delta"
+
+msgid "Hedges' g"
+msgstr "Hedges' g"
+
+msgid "Mean Difference"
+msgstr "Mittelwertsdifferenz"
+
+msgid "Hodges-Lehmann Estimate"
+msgstr "Hodges-Lehmann-Schätzung"
+
+msgid "Rank-Biserial Correlation"
+msgstr "Rang-Biseriale Korrelation"
+
+msgid "Location Parameter"
+msgstr "Lageparameter"
+
+msgid "Effect Size"
+msgstr "Effektstärke"
+
+msgid "Student t-test and Welch t-test"
+msgstr "Students T-Test und Welchs T-Test"
+
+msgid "Student t-test"
+msgstr "Students T-Test"
+
+msgid "Welch t-test"
+msgstr "Welchs T-Test"
+
+msgid "SE Difference"
+msgstr "Std.-Fehler Differenz"
+
+msgid ""
+"For the %s, location parameter is given by mean difference. For the Mann-"
+"Whitney test, location parameter is given by the Hodges-Lehmann estimate."
+msgstr ""
+"Beim %s wird der Lageparameter mit der Mittelwertsdifferenz angegeben. Beim "
+"Mann-Whitney-Test wird der Lageparameter mit der Hodges-Lehmann-Schätzung "
+"angegeben."
+
+msgid "%1$s%% CI for %2$s"
+msgstr "%1$s%% KI für %2$s"
+
+msgid "SE %1$s"
+msgstr "Std.-Fehler %1$s"
+
+msgid ""
+"For the Mann-Whitney test, effect size is given by the rank biserial "
+"correlation."
+msgstr ""
+"Beim Mann-Whitney-Test wird die Effektstärke mit der rangbiserialen "
+"Korrelation angegeben."
+
+msgid "For the %1$s, effect size is given by %2$s."
+msgstr "Beim %1$s wird die Effektstärke mit %2$s angegeben."
+
+msgid "Test of Normality (Shapiro-Wilk)"
+msgstr "Prüfung auf Normalverteilung (Shapiro-Wilk)"
+
+msgid "Residuals"
+msgstr "Residuen"
+
+msgid "W"
+msgstr "W"
+
+msgid "Significant results suggest a deviation from normality."
+msgstr ""
+"Ein signifikantes Ergebnis deutet auf Abweichung von einer Normalverteilung "
+"hin."
+
+msgid "Brown-Forsythe"
+msgstr "Brown-Forsythe"
+
+msgid "Levene's"
+msgstr "Levenes"
+
+msgid "Test of Equality of Variances (%1$s)"
+msgstr "Prüfung auf Gleichheit der Varianzen (%1$s)"
+
+msgid "F"
+msgstr "F"
+
+msgid "%s<sub>1</sub>"
+msgstr "%s<sub>1</sub>"
+
+msgid "%s<sub>2</sub>"
+msgstr "%s<sub>2</sub>"
+
+msgid "greater"
+msgstr "größer"
+
+msgid "less"
+msgstr "kleiner"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that group %1$s is %2$s "
+"than group %3$s."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass Gruppe %1$s %2$s ist "
+"als Gruppe %3$s."
+
+msgid ""
+"Brown-Forsythe test is significant (p < .05), suggesting a violation of the "
+"equal variance assumption"
+msgstr ""
+"Brown-Forsythe-Test ist signifikant (p < .05), was auf eine Verletzung der "
+"Annahme von gleichen Varianzen hindeutet"
+
+msgid ""
+"Levene's test is significant (p < .05), suggesting a violation of the equal "
+"variance assumption"
+msgstr ""
+"Levenes Test ist signifikant (p < .05), was auf eine Verletzung der Annahme "
+"von gleichen Varianzen hindeutet"
+
+msgid ""
+"Glass' delta uses the standard deviation of group %1$s of variable %2$s."
+msgstr ""
+"Glass' Delta benutzt die Standardabweichung in Gruppe %1$s von Variable %2$s."
+
+msgid "F-statistic could not be calculated"
+msgstr "F-Statistik konnte nicht berechnet werden"
+
+msgid "Group Descriptives"
+msgstr "Gruppen, Deskriptiv"
+
+msgid "Mean Rank"
+msgstr "Mittlerer Rang"
+
+msgid "Sum Rank"
+msgstr "Rangsumme"
+
+msgid "One Sample T-Test"
+msgstr "T-Test für eine Stichprobe"
+
+msgid "Wilcoxon signed-rank test."
+msgstr "Wilcoxon-Vorzeichen-Rang-Test."
+
+msgid "V"
+msgstr "V"
+
+msgid "Z test."
+msgstr "Z-Test."
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Location Difference"
+msgstr "Lage-Differenz"
+
+msgid "Student t-test and Z-test"
+msgstr "Students t-Test und Z-Test"
+
+msgid "Z-test"
+msgstr "Z-Test"
+
+msgid ""
+"For the %s, location difference estimate is given by the sample mean "
+"difference <em>d</em>. For the Wilcoxon test, location difference estimate "
+"is given by the Hodges-Lehmann estimate."
+msgstr ""
+"Für den %s wird der Lageparameterschätzer mit der Mittelwertsdifferenz "
+"<em>d</em> angegeben. Für den Wilcoxon-Test wird der Lageparameterschätzer "
+"mit der Hodges-Lehmann-Schätzung angegeben."
+
+msgid "For the Student t-test, effect size is given by Cohen's <em>d</em>."
+msgstr ""
+"Bei Students t-Test ist die Effektstärke mit Cohens <em>d</em> angegeben."
+
+msgid ""
+"For the Wilcoxon test, effect size is given by the matched rank biserial "
+"correlation."
+msgstr ""
+"Beim Wilcoxon-Test wird die Effektstärke mit der entsprechenden "
+"rangbiserialen Korrelation angegeben."
+
+msgid ""
+"For the Z test, effect size is given by Cohen's <em>d</em> (based on the "
+"provided population standard deviation)."
+msgstr ""
+"Beim Z-Test wird die Effektstärke mit Cohens <em>d</em> angegeben (basierend "
+"auf der eingegebenen Standardabweichung der Grundgesamtheit)."
+
+msgid "greater than"
+msgstr "größer als"
+
+msgid "less than"
+msgstr "kleiner als"
+
+msgid "different from"
+msgstr "unterschiedlich von"
+
+msgid ""
+"For the %1$s, the alternative hypothesis specifies that the mean is %2$s "
+"%3$s."
+msgstr ""
+"Beim %1$s gibt die Alternativhypothese an, dass der Mittelwert %2$s %3$s ist."
+
+msgid ""
+"For the Wilcoxon test, the alternative hypothesis specifies that the median "
+"is %1$s %2$s."
+msgstr ""
+"Beim Wilcoxon-Test gibt die Alternativhypothese an, dass der Median %1$s "
+"%2$s ist."
+
+msgid ""
+"CI could not be computed for effect size, due to low sample size and/or "
+"extreme effect size."
+msgstr ""
+"KI für Effektstärke konnte wegen geringem Stichprobenumfang und/oder "
+"extremer Effektstärke nicht berechnet werden."
+
+msgid ""
+"Sample size too small for desired confidence level. Using %.1f%% instead"
+msgstr ""
+"Stichprobenumfang zu klein für gewünschtes Konfidenzniveau. Stattdessen wird "
+"%.1f%% genutzt"
+
+msgid "Paired Samples T-Test"
+msgstr "T-Test für abhängige Stichproben"
+
+msgid "z"
+msgstr "z"
+
+msgid ""
+"For the Student t-test, location parameter is given by mean difference "
+"<em>d</em>. For the Wilcoxon test, location parameter is given by the Hodges-"
+"Lehmann estimate."
+msgstr ""
+"Für den Studentschen t-Test wird der Lageparameter mit der "
+"Mittelwertsdifferenz <em>d</em> angegeben. Für den Wilcoxon-Test wird der "
+"Lageparameter mit der Hodges-Lehmann-Schätzung angegeben."
+
+msgid ""
+"For the Student t-test, effect size is given by Cohen's <em>d</em>. For the "
+"Wilcoxon test, effect size is given by the matched rank biserial correlation."
+msgstr ""
+"Beim Studentschen t-Test wird die Effektstärke mit Cohens <em>d</em> "
+"angegeben. Beim Wilcoxon-Test wird die Effektstärke mit der entsprechenden "
+"rangbiserialen Korrelation angegeben."
+
+msgid "Cohen's d corrected for correlation between observations."
+msgstr "Cohens d korrigiert für Korrelation zwischen Beobachtungen."
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is less "
+"than Measure 2."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass Messung 1 kleiner als "
+"Messung 2 ist."
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is "
+"greater than Measure 2."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass Messung 1 größer als "
+"Messung 2 ist."
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that %1$s is less than "
+"%2$s."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass %1$s kleiner als %2$s "
+"ist."
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that %1$s is greater "
+"than %2$s."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass %1$s größer als %2$s "
+"ist."
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is less "
+"than Measure 2. For example, %1$s is less than %2$s."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass Messung 1 kleiner als "
+"Messung 2 ist. Zum Beispiel, %1$s ist kleiner als %2$s."
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is "
+"greater than Measure 2. For example, %1$s is greater than %2$s."
+msgstr ""
+"Bei allen Tests gibt die Alternativhypothese an, dass Messung 1 größer als "
+"Messung 2 ist. Zum Beispiel, %1$s ist größer als %2$s."
+
+msgid "The following pair is duplicated: %s"
+msgid_plural "The following pairs are duplicated: %s"
+msgstr[0] "Das folgende Datenpaar ist dupliziert: %s"
+msgstr[1] "Die folgenden Datenpaare sind dupliziert: %s"
+
+#~ msgid ""
+#~ "For the %s, location difference estimate is given by the sample mean "
+#~ "difference <em>d</em>."
+#~ msgstr ""
+#~ "Für die %s ist die Schätzung der Lagedifferenz durch die "
+#~ "Stichprobenmittelwertdifferenz <em>d</em> gegeben."
+
+#~ msgid ""
+#~ "For the Wilcoxon test, location difference estimate is given by the "
+#~ "Hodges-Lehmann estimate."
+#~ msgstr ""
+#~ "Für den Wilcoxon-Test ist die Schätzung der Lagedifferenz durch die "
+#~ "Hodges-Lehmann-Schätzung gegeben."
+
+#~ msgid "Paired and two-sample z.test not yet implemented"
+#~ msgstr ""
+#~ "Z.test für abhängige und unabhängige Stichproben noch nicht implementiert"
+
+#~ msgid "not enough x observations"
+#~ msgstr "nicht genügend x-Beobachtungen"
+
+#~ msgid "Not yet implemented"
+#~ msgstr "Noch nicht implementiert"
+
+#~ msgid "not enough y observations"
+#~ msgstr "nicht genügend y-Beobachtungen"
+
+#~ msgid "nDistinctObservations got an object of type"
+#~ msgstr "nDistinctObservations hat ein Objekt vom Typ"
+
+#~ msgid ","
+#~ msgstr ","
+
+#~ msgid "Cannot plot the posterior - possibly too concentrated near 0."
+#~ msgstr "Kann Posterior nicht plotten - möglicherweise zu konzentriert um 0."
+
+#~ msgid "data are essentially constant"
+#~ msgstr "Daten sind im Prinzip konstant"
+
+#~ msgid "Evidence for H1"
+#~ msgstr "Evidenz für H1"
+
+#~ msgid "Evidence for H0"
+#~ msgstr "Evidenz für H0"
+
+#~ msgid "Evidence for H+"
+#~ msgstr "Evidenz für H+"
+
+#~ msgid "Evidence for H-"
+#~ msgstr "Evidenz für H-"
+
+#~ msgid "Evidence for H1:"
+#~ msgstr "Evidenz für H1:"
+
+#~ msgid "Evidence for H+:"
+#~ msgstr "Evidenz für H+:"
+
+#~ msgid "Evidence for H-:"
+#~ msgstr "Evidenz für H-:"
+
+#~ msgid "Evidence for H0:"
+#~ msgstr "Evidenz für H0:"
+
+#~ msgid ""
+#~ "could not calculate enough valid Bayes Factors for different values of "
+#~ "the prior"
+#~ msgstr ""
+#~ "Konnte nicht genügend gültige Bayesfaktoren für verschiedene Priorwerte "
+#~ "berechnen"

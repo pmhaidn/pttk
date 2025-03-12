@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from module import descriptive, ttest_module, correlation_module, linear_regression_module, meta_analysis
+from module import descriptive, ttest, correlation_module, linear_regression_module, meta_analysis, sem, frequencies
 
 class StatisticalApp:
     def __init__(self):
@@ -12,20 +12,73 @@ class StatisticalApp:
         st.sidebar.title("Menu Phân tích")
         self.analysis_type = st.sidebar.selectbox(
             "Chọn phương pháp phân tích",
-            ["Thống kê mô tả", "Kiểm định T", "ANOVA", "Hồi quy", "Tần suất", "Phân tích nhân tố", "Meta Analysis"]
+            ["Thống kê mô tả", "Kiểm định T", "ANOVA", "Hồi quy", "Tần suất", 
+             "Phân tích nhân tố", "Meta Analysis", "SEM"]
         )
+        
+        # Add T-test Method and Type options to sidebar
+        if self.analysis_type == "Kiểm định T":
+            self.ttest_method = st.sidebar.selectbox(
+                "Chọn phương pháp kiểm định",
+                ["Classical", "Bayesian"]
+            )
+            
+            if self.ttest_method == "Classical":
+                self.ttest_type = st.sidebar.selectbox(
+                    "Chọn loại kiểm định",
+                    ["One Sample T-Test", 
+                     "Independent Samples T-Test",
+                     "Paired Samples T-Test"]
+                )
+            else:
+                self.ttest_type = st.sidebar.selectbox(
+                    "Chọn loại kiểm định",
+                    ["One Sample T-Test", 
+                     "Independent Samples T-Test",
+                     "Paired Samples T-Test"]
+                )
+                
+                # Cấu hình Bayesian
+                st.sidebar.subheader("Bayesian Configuration")
+                self.prior_type = st.sidebar.selectbox(
+                    "Prior Type",
+                    ["JZS (default)", "Cauchy", "Normal", "Student's t"]
+                )
+                
+                if self.prior_type != "JZS (default)":
+                    self.prior_scale = st.sidebar.number_input(
+                        "Prior Scale",
+                        value=0.707,
+                        min_value=0.1,
+                        max_value=2.0,
+                        step=0.1,
+                        help="Scale parameter for the prior distribution"
+                    )
+                
+                self.bf_type = st.sidebar.selectbox(
+                    "Bayes Factor Type",
+                    ["BF₁₀ (evidence for H₁)",
+                     "BF₀₁ (evidence for H₀)",
+                     "log(BF₁₀)",
+                     "log(BF₀₁)"]
+                )
+                
+                self.show_prior = st.sidebar.checkbox("Show Prior Distribution", value=True)
+                self.show_posterior = st.sidebar.checkbox("Show Posterior Distribution", value=True)
+                self.show_bf = st.sidebar.checkbox("Show Bayes Factor Robustness", value=True)
+                self.show_sequential = st.sidebar.checkbox("Show Sequential Analysis", value=True)
         
         # Add Regression Method Options to Sidebar
         if self.analysis_type == "Hồi quy":
-          self.regression_method = st.sidebar.selectbox(
-              "Chọn phương pháp hồi quy",
-              ["Classical", "Bayesian"]
-          )
-          if self.regression_method == "Classical":
-            self.regression_type = st.sidebar.selectbox(
-              "Chọn loại phân tích",
-              ["Correlation", "Linear Regression"]
+            self.regression_method = st.sidebar.selectbox(
+                "Chọn phương pháp hồi quy",
+                ["Classical", "Bayesian"]
             )
+            if self.regression_method == "Classical":
+                self.regression_type = st.selectbox(
+                    "Chọn loại phân tích",
+                    ["Correlation", "Linear Regression"]
+                )
         # Add ANOVA Method and Type options to sidebar
         if self.analysis_type == "ANOVA":
           self.anova_method = st.sidebar.selectbox(
@@ -33,16 +86,15 @@ class StatisticalApp:
               ["Classical", "Bayesian"]
           )
           if self.anova_method == "Classical":
-              self.anova_type = st.sidebar.selectbox(
+              self.anova_type = st.selectbox(
                   "Chọn loại phân tích ANOVA",
                   ["ANOVA", "Repeated Measures ANOVA", "ANCOVA", "MANOVA"]
                   )
           elif self.anova_method == "Bayesian":
-            self.bayesian_anova_type = st.sidebar.selectbox(
+            self.bayesian_anova_type = st.selectbox(
                   "Chọn loại phân tích ANOVA (Bayesian)",
                   ["ANOVA", "Repeated Measures ANOVA", "ANCOVA"]
                   )
-
 
         # Tải dữ liệu
         self.uploaded_file = st.sidebar.file_uploader("Tải lên file dữ liệu", type=['csv', 'xlsx'])
@@ -68,7 +120,6 @@ class StatisticalApp:
             self.show_data_preview()
         with tabs[1]:
             self.run_analysis()
-            pass
             
     def show_data_preview(self):
         st.header("Xem trước dữ liệu")
@@ -84,12 +135,31 @@ class StatisticalApp:
         n_rows = st.slider("Số hàng hiển thị", 5, 50, 10)
         st.write(self.df.head(n_rows))
 
-
     def ttest_analysis(self):
         if self.df is not None:
-            ttest = ttest_module.HypothesisTesting(self.df)
-            options = ttest.setup_interface()  # Get all options from the interface
-            ttest.run_analysis(options)  
+            is_bayesian = hasattr(self, 'ttest_method') and self.ttest_method == "Bayesian"
+            
+            if is_bayesian:
+                bayesian_params = {
+                    'prior_type': self.prior_type,
+                    'prior_scale': getattr(self, 'prior_scale', 0.707),
+                    'bf_type': self.bf_type,
+                    'show_prior': self.show_prior,
+                    'show_posterior': self.show_posterior,
+                    'show_bf': self.show_bf,
+                    'show_sequential': self.show_sequential
+                }
+            else:
+                bayesian_params = None
+            
+            if self.ttest_type == "One Sample T-Test":
+                ttest.one_sample.run_analysis(self.df, is_bayesian=is_bayesian)
+            elif self.ttest_type == "Independent Samples T-Test":
+                ttest.independent_samples.run_analysis(self.df, is_bayesian=is_bayesian)
+            elif self.ttest_type == "Paired Samples T-Test":
+                ttest.paired_samples.run_analysis(self.df, is_bayesian=is_bayesian)
+        else:
+            st.warning("Vui lòng tải lên file dữ liệu để thực hiện phân tích.")
 
     def anova_analysis(self):
       st.header("Phân tích ANOVA")
@@ -144,6 +214,12 @@ class StatisticalApp:
         elif analysis_type == "Confirmatory Factor Analysis":
             self.cfa_analysis()
 
+    def frequency_analysis(self):
+        if self.df is not None:
+            frequencies.menu.frequencies_analysis(self.df)
+        else:
+            st.warning("Vui lòng tải lên file dữ liệu để thực hiện phân tích.")
+
     def run_analysis(self):
         # Move the analysis logic to be within the "Analysis" tab
         if self.analysis_type == "Thống kê mô tả":
@@ -164,6 +240,11 @@ class StatisticalApp:
         elif self.analysis_type == "Meta Analysis":
             if self.df is not None:
                 meta_analysis.menu.meta_analysis(self.df)
+            else:
+                st.warning("Vui lòng tải lên file dữ liệu để thực hiện phân tích.")
+        elif self.analysis_type == "SEM":
+            if self.df is not None:
+                sem.menu.sem_analysis(self.df)
             else:
                 st.warning("Vui lòng tải lên file dữ liệu để thực hiện phân tích.")
 

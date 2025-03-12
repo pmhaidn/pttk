@@ -1,0 +1,707 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: R 3.6.1\n"
+"Report-Msgid-Bugs-To: github.com/jasp-stats/jasp-issues/issues\n"
+"POT-Creation-Date: 2024-11-09 03:30\n"
+"PO-Revision-Date: 2024-12-14 03:34+0000\n"
+"Last-Translator: Johannes Keyser <joke@fsfe.org>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/jasp/"
+"jaspfrequencies-r/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n==0 ? 0 : n==1 ? 0 : 1;\n"
+"X-Generator: Weblate 5.9-rc\n"
+
+msgid "Bayesian A/B Test"
+msgstr "Bayesscher A/B-Test"
+
+msgid "Models"
+msgstr "Modelle"
+
+msgid "P(M)"
+msgstr "P(M)"
+
+msgid "P(M|data)"
+msgstr "P(M|Daten)"
+
+msgid ""
+"A positive log odds ratio means that the success rate in Group 2 is higher "
+"than in Group 1."
+msgstr ""
+"Ein positives Log-Chancenverhältnis bedeutet, dass die Gewinnchance für "
+"Gruppe 2 höher ist als für Gruppe 1."
+
+msgid "Log odds ratio = 0"
+msgstr "Log-Chancenverhältnis = 0"
+
+msgid "Log odds ratio > 0"
+msgstr "Log-Chancenverhältnis > 0"
+
+msgid "Log odds ratio < 0"
+msgstr "Log-Chancenverhältnis < 0"
+
+msgid "Log odds ratio %s 0"
+msgstr "Log-Chancenverhältnis %s 0"
+
+msgid "Descriptives"
+msgstr "Deskriptive Statistiken"
+
+msgid "Counts"
+msgstr "Häufigkeiten"
+
+msgid "Total"
+msgstr "Gesamt"
+
+msgid "Proportion"
+msgstr "Anteil"
+
+msgid "Group 1"
+msgstr "Gruppe 1"
+
+msgid "Group 2"
+msgstr "Gruppe 2"
+
+msgid "Prior and Posterior"
+msgstr "Prior und Posterior"
+
+msgid "Sequential Analysis"
+msgstr "Sequenzielle Analyse"
+
+msgid "Bayes Factor Robustness Check"
+msgstr "Bayesfaktor-Robustheitsprüfung"
+
+msgid "Prior"
+msgstr "Prior"
+
+msgid "n"
+msgstr "n"
+
+msgid "Posterior Probability"
+msgstr "Posterior-Wahrscheinlichkeit"
+
+msgid "P(%1$s | data) = %2$.3f"
+msgstr "P(%1$s | Daten) = %2$.3f"
+
+msgid "Cannot test the hypothesis that the test value is greater than 1."
+msgstr "Kann die Hypothese, dass der Testwert größer als 1 ist, nicht testen."
+
+msgid "Cannot test the hypothesis that the test value is less than 0."
+msgstr "Kann die Hypothese, dass der Testwert kleiner als 0 ist, nicht testen."
+
+msgid "Binomial Test"
+msgstr "Binomialtest"
+
+msgid "Variable"
+msgstr "Variable"
+
+msgid "Level"
+msgstr "Stufe"
+
+msgid "p"
+msgstr "p"
+
+msgid "VS-MPR"
+msgstr "VS-MPV"
+
+msgid "Lower"
+msgstr "Untergrenze"
+
+msgid "%s%% CI for Proportion"
+msgstr "%s%% Konfidenzintervall des Anteils"
+
+msgid "Upper"
+msgstr "Obergrenze"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the proportion is "
+"less than %s."
+msgstr ""
+"Für alle Tests gibt die Alternativhypothese an, dass der Anteil kleiner als "
+"%s ist."
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the proportion is "
+"greater than %s."
+msgstr ""
+"Für alle Tests gibt die Alternativhypothese an, dass der Anteil größer als "
+"%s ist."
+
+msgid "Proportions tested against value: %s."
+msgstr "Verhältnisse getestet gegen Wert: %s."
+
+msgid "Descriptives Plots"
+msgstr "Deskriptive Diagramme"
+
+msgid "Bayesian Binomial Test"
+msgstr "Bayesscher Binomialtest"
+
+msgid ""
+"%1$s The shape of the prior distribution under the alternative hypothesis is "
+"specified by Beta(%2$s, %3$s)."
+msgstr ""
+"%1$s Die Form der Prior-Verteilung unter der Alternativhypothese wird durch "
+"Beta(%2$s, %3$s) spezifiziert."
+
+msgid "Inferential Plots"
+msgstr "Inferenz-Diagramme"
+
+msgid "Population proportion"
+msgstr "Grundgesamtheits-Verhältnis"
+
+msgid "One or more Bayes factors cannot be computed"
+msgstr "Einer oder mehrere Bayesfaktoren können nicht berechnet werden"
+
+msgid "One or more Bayes factors are infinite"
+msgstr "Einer oder mehrere Bayesfaktoren sind unendlich"
+
+msgid "Undefined hypothesis"
+msgstr "Undefinierte Hypothese"
+
+msgid "Contingency Tables"
+msgstr "Kreuztabellen"
+
+msgid "Chi-Squared Tests"
+msgstr "Chi-Quadrat-Tests"
+
+msgid ""
+"Vovk-Sellke Maximum  <em>p</em>-Ratio: Based the <em>p</em>-value,\n"
+"      the maximum possible odds in favor of H%1$s over H%2$s equals %3$s\n"
+"      (Sellke, Bayarri, & Berger, 2001)."
+msgstr ""
+"Vovk-Sellke Maximum  <em>p</em>-Quotient: Basierend auf dem <em>p</em>-"
+"Wert, \n"
+"      ist der maximale Quotient zugunsten der H%1$s relativ zur H%2$s "
+"gegeben durch %3$s\n"
+"      (Sellke, Bayarri, & Berger, 2001)."
+
+msgid "Continuity correction is available only for 2x2 tables."
+msgstr ""
+
+msgid "Log Odds Ratio"
+msgstr "Log-Chancenverhältnis"
+
+msgid "Odds Ratio"
+msgstr "Chancenverhältnis"
+
+msgid "%.0f%% Confidence Intervals"
+msgstr "%.0f%% Konfidenzintervalle"
+
+msgid "Nominal"
+msgstr "Nominal"
+
+msgid "Ordinal Gamma"
+msgstr "Ordinales Gamma"
+
+msgid "95%% Confidence Intervals"
+msgstr "95%% Konfidenzintervalle"
+
+msgid "Gamma"
+msgstr "Gamma"
+
+msgid "Standard Error"
+msgstr "Standardfehler"
+
+msgid "Kendall's Tau-b"
+msgstr "Kendalls Tau-b"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "VS-MPR%s"
+msgstr "VS-MPQ%s"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "df"
+msgstr "df"
+
+msgid "Expected count"
+msgstr "Erwartete Anzahl"
+
+msgid "%% within row"
+msgstr "%% in Zeile"
+
+msgid "%% within column"
+msgstr "%% in Spalte"
+
+msgid "%% of total"
+msgstr "%% von Gesamt"
+
+msgid "Unstandardized residuals"
+msgstr "Unstandardisierte Residuen"
+
+msgid "Pearson residuals"
+msgstr "Pearson-Residuen"
+
+msgid "Standardized residuals"
+msgstr "Standardisierte Residuen"
+
+msgid "Contingency coefficient"
+msgstr "Kontingenzkoeffizient"
+
+msgid "Phi-coefficient"
+msgstr "Phi-Koeffizient"
+
+msgid "Cramer's V"
+msgstr "Cramers V"
+
+msgid "Phi coefficient is only available for 2 by 2 contingency Tables"
+msgstr "Der Phi-Koeffizient ist nur für 2 x 2 Kreuztabellen verfügbar"
+
+msgid ""
+"Value could not be calculated - At least one row or column contains all zeros"
+msgstr ""
+"Wert konnte nicht berechnet werden - mindestens eine Zeile oder Spalte "
+"enthält nur Nullen"
+
+msgid "Lambda (rows)"
+msgstr "Lambda (Zeilen)"
+
+msgid "Lambda (columns)"
+msgstr "Lambda (Spalten)"
+
+msgid "Lambda (symmetric)"
+msgstr "Lambda (symmetrisch)"
+
+msgid "is less than"
+msgstr "kleiner ist als"
+
+msgid "is greater than"
+msgstr "größer ist als"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that group <em>%1$s</em> "
+"%2$s <em>%3$s</em>."
+msgstr ""
+"Für alle Tests gibt die Alternativhypothese an, dass Gruppe <em>%1$s</em> "
+"%2$s <em>%3$s</em>."
+
+msgid "Each cell displays the observed counts"
+msgstr "Jede Zelle zeigt die beobachteten Häufigkeiten"
+
+msgid "Each cell displays the expected counts"
+msgstr "Jede Zelle zeigt die erwarteten Häufigkeiten"
+
+msgid "Each cell displays the row percentages"
+msgstr "Jede Zelle zeigt die Zeilen-Prozentwerte"
+
+msgid "Each cell displays column percentages"
+msgstr "Jede Zelle zeigt Spalten-Prozentwerte"
+
+msgid "Each cell displays total percentages"
+msgstr "Jede Zelle zeigt gesamte Prozentwerte"
+
+msgid "Each cell displays unstandardized residuals"
+msgstr "Jede Zelle zeigt unstandardisierte Residuen"
+
+msgid "Each cell displays Pearson residuals"
+msgstr "Jede Zelle zeigt Pearson-Residuen"
+
+msgid "Each cell displays standardized residuals"
+msgstr "Jede Zelle zeigt standardisierte Residuen"
+
+msgid "Count"
+msgstr "Anzahl"
+
+msgid "N"
+msgstr "N"
+
+msgid ""
+"%s could not be calculated - At least one row or column contains all zeros"
+msgstr ""
+"%s konnte nicht berechnet werden - mindestens eine Zeile oder Spalte enthält "
+"nur Nullen"
+
+msgid "%s continuity correction"
+msgstr "%s Kontinuitätskorrektur"
+
+msgid "Likelihood ratio"
+msgstr "Wahrscheinlichkeits-Verhältnis"
+
+msgid "Odds ratio restricted to 2 x 2 tables"
+msgstr "Chancenverhältnis beschränkt auf 2 x 2 Tabellen"
+
+msgid "Fisher's exact test"
+msgstr "Fishers exakter Test"
+
+msgid "Bayesian Contingency Tables Tests"
+msgstr "Bayessche Kreuztabellen-Tests"
+
+msgid "%.0f%% Credible Interval"
+msgstr "%.0f%% Glaubwürdigkeitsintervall"
+
+msgid "Log Odds Ratio Plots"
+msgstr "Log-Chancenverhältnis-Diagramme"
+
+msgid "Odds ratio restricted to 2 x 2 analyses"
+msgstr "Chancenverhältnis beschränkt auf 2 x 2 Analysen"
+
+msgid "Odds ratio for this model not yet implemented"
+msgstr "Chancenverhältnis für dieses Modell noch nicht verfügbar"
+
+msgid "The Bayes factor is undefined"
+msgstr "Der Bayesfaktor ist undefiniert"
+
+msgid "The Bayes factor is too small"
+msgstr "Der Bayesfaktor ist zu klein"
+
+msgid "The Bayes factor is infinite"
+msgstr "Der Bayesfaktor ist unendlich"
+
+msgid "median Log OR ="
+msgstr "Median Log OR ="
+
+msgid "Poisson"
+msgstr "Poisson"
+
+msgid "Joint multinomial"
+msgstr "abhängig multinomial"
+
+msgid "Independent multinomial"
+msgstr "unabhängig multinomial"
+
+msgid "Hypergeometric"
+msgstr "Hypergeometrisch"
+
+msgid "Hypergeometric contingency tables test restricted to 2 x 2 tables"
+msgstr ""
+"Der Test für hypergeometrische Kreuztabellen ist auf 2 x 2 Tabellen "
+"beschränkt"
+
+msgid "Proportion test restricted to 2 x 2 tables"
+msgstr "Anteilswerttest ist auf 2 x 2 Tabellen beschränkt"
+
+msgid "is not equal to"
+msgstr "ist nicht gleich zu"
+
+msgid "Invalid sampling model selected"
+msgstr "Ungültiges Stichprobenmodell ausgewählt"
+
+msgid "Odds ratio"
+msgstr "Chancenverhältnis"
+
+msgid "Odd ratio for this model not yet implemented"
+msgstr "Chancenverhältnis für dieses Modell noch nicht verfügbar"
+
+msgid "Cramer's V for this model not yet implemented"
+msgstr "Cramers V ist für dieses Modell noch nicht implementiert"
+
+msgid "Posterior"
+msgstr "Posterior"
+
+#, fuzzy
+msgid ""
+"The `Success` must have two levels if the `Sample Size` is not specified."
+msgstr ""
+"Der `Erfolg` muss zwei Stufen haben, sofern der `Stichprobenumfang` nicht "
+"angegeben ist."
+
+msgid "Invalid successes: variable must contain only integer values."
+msgstr "Ungültige Erfolge: Variable darf nur ganzzahlige Werte enthalten."
+
+msgid "Invalid sample size: variable must contain only integer values."
+msgstr ""
+"Ungültiger Stichprobenumfang: Variable darf nur ganzzahlige Werte enthalten."
+
+msgid "Sample size must be larger then the number of successes."
+msgstr "Der Stichprobenumfang muss größer sein als die Anzahl der Erfolge."
+
+msgid ""
+"Factor must contain unique levels that map the successes to sample size."
+msgstr ""
+"Faktor muss eindeutige Stufen enthalten, die die Erfolge dem "
+"Stichprobenumfang zuordnen."
+
+msgid "Performing sequential analysis."
+msgstr "Sequenzielle Analyse wird ausgeführt."
+
+msgid "Observed counts"
+msgstr "Beobachtete Häufigkeiten"
+
+msgid "Observed proportions"
+msgstr "Beobachtete Anteile"
+
+msgid "Sample size"
+msgstr "Stichprobenumfang"
+
+msgid "Descriptives plot"
+msgstr "Deskriptives Diagramm"
+
+msgid "Unrestricted posterior plot"
+msgstr "Diagramm unbeschränkter Posterior"
+
+msgid "Sequential analysis"
+msgstr "Sequenzielle Analyse"
+
+msgid "At least two models need to be specified."
+msgstr "Es müssen mindestens zwei Modelle angegeben werden."
+
+msgid "vs."
+msgstr "vs."
+
+msgid "Observed"
+msgstr "Beobachtet"
+
+msgid "Estimated"
+msgstr "Schätzung"
+
+#, fuzzy
+msgid "Proportions"
+msgstr "Anteile"
+
+msgid ""
+"Prior model probability input for the '%1$s' hypothesis (%2$s) could not be "
+"parsed into a positive number. Please, check the input."
+msgstr ""
+"Die Eingabe der Prior-Modellwahrscheinlichkeit für die Hypothese "
+"'%1$s' (%2$s) konnte nicht in eine positive Zahl übersetzt werden. Bitte "
+"überprüfen Sie die Eingabe."
+
+#, fuzzy
+msgid "Bayesian evaluation of %1$s order constraints"
+msgstr "Bayessche Auswertung von %1$s Reihenfolgebeschränkungen"
+
+msgid "BF%1$s%2$s"
+msgstr "BF%1$s%2$s"
+
+msgid "Log(BF%1$s%2$s)"
+msgstr "Log(BF%1$s%2$s)"
+
+msgid "Log marglik"
+msgstr "Log Marg-Lik"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Error %%"
+msgstr "Fehler %%"
+
+msgid "P(M|Data)"
+msgstr "P(M|Daten)"
+
+msgid "BF<sub>M</sub>"
+msgstr "BF<sub>M</sub>"
+
+msgid ""
+"Please double check if the factor level names in the 'Order Restricted "
+"Hypotheses' section match the factor levels in your data set."
+msgstr ""
+"Bitte überprüfen Sie, ob die Namen der Faktorstufen im Abschnitt "
+"'Reihenfolgebeschränkungs-Hypothesen' mit den Faktorstufen in Ihrem "
+"Datensatz übereinstimmen."
+
+msgid ""
+"Model in each row (denoted as '1') is compared to the %1$s (denoted as 0)."
+msgstr ""
+"Modell in jeder Zeile (bezeichnet als '1') wird verglichen mit dem %1$s "
+"(bezeichnet als 0)."
+
+#, fuzzy
+msgid ""
+"Specify informed hypothesis tests in the `Order Restricted Hypotheses` "
+"section."
+msgstr ""
+"Spezifizieren Sie informierte Hypothesentests im Abschnitt "
+"'Reihenfolgebeschränkungs-Hypothesen'."
+
+msgid "Expected counts not supported without observed counts."
+msgstr "Keine erwarteten Häufigkeiten ohne beobachtete Häufigkeiten."
+
+msgid "No expected counts entered."
+msgstr "Keine erwarteten Häufigkeiten eingegeben."
+
+msgid ""
+"Invalid counts: variable does not match the number of levels of the factor. "
+"When counts are specified, each row of the data set must represent a unique "
+"level of the factor."
+msgstr ""
+"Ungültige Häufigkeiten: Variable entspricht nicht der Anzahl der Ebenen des "
+"Faktors. Wenn Häufigkeiten angegeben werden, muss jede Zeile des Datensatzes "
+"eine eindeutige Ebene des Faktors darstellen."
+
+msgid ""
+"Invalid expected counts: variable does not match the number of levels of the "
+"factor."
+msgstr ""
+"Ungültige erwartete Häufigkeiten: Variable stimmt nicht mit der Anzahl der "
+"Ebenen des Faktors überein."
+
+msgid "Invalid counts: variable must contain only integer values."
+msgstr ""
+"Ungültige Häufigkeiten: Die Variable darf nur ganzzahlige Werte enthalten."
+
+msgid "Invalid counts: less than 1 observation."
+msgstr "Ungültige Häufigkeiten: weniger als 1 Beobachtung."
+
+msgid "Confidence intervals are based on independent binomial distributions."
+msgstr "Konfidenzintervalle basieren auf unabhängigen Binomialverteilungen."
+
+msgid "Could not compute confidence intervals."
+msgstr "Konnte keine Konfidenzintervalle berechnen."
+
+msgid "Factor"
+msgstr "Faktor"
+
+msgid "Expected: %s"
+msgstr "Erwartet: %s"
+
+msgid "Expected"
+msgstr "Erwartet"
+
+msgid "%s%% Confidence Interval"
+msgstr "%s%% Konfidenzintervall"
+
+msgid "Descriptives Plot"
+msgstr "Deskriptive Diagramme"
+
+msgid "Bayesian Multinomial Test"
+msgstr "Bayesscher Multinomial-Test"
+
+msgid "Levels"
+msgstr "Stufen"
+
+msgid "Credible"
+msgstr "Glaubwürdig"
+
+msgid ""
+"Credible intervals are based on independent binomial distributions with flat "
+"priors."
+msgstr ""
+"Glaubwürdigkeitsintervalle basieren auf unabhängigen Binomialverteilungen "
+"mit flachen Prior-Verteilungen."
+
+msgid "Confidence"
+msgstr "Konfidenz"
+
+msgid "%1$s%% %2$s Interval"
+msgstr "%1$s%% %2$s Intervall"
+
+msgid "Could not compute %s Intervals."
+msgstr "Konnte %s Intervalle nicht berechnen."
+
+msgid "Observed Counts"
+msgstr "Beobachtete Häufigkeiten"
+
+msgid "Observed Proportions"
+msgstr "Beobachtete Anteile"
+
+msgid "(Intercept)"
+msgstr "(Konstante)"
+
+msgid "ANOVA"
+msgstr "ANOVA"
+
+msgid "Deviance"
+msgstr "Devianz"
+
+msgid "Residual df"
+msgstr "Residuelle df"
+
+msgid "Residual Deviance"
+msgstr "Residualdevianz"
+
+msgid "Coefficients"
+msgstr "Koeffizienten"
+
+msgid "Estimate"
+msgstr "Schätzung"
+
+msgid "%s%% Confidence Intervals"
+msgstr "%s%% Konfidenzintervalle"
+
+msgid ""
+"Vovk-Sellke Maximum <em>p</em>-Ratio: Based the <em>p</em>-value, \n"
+"the maximum possible odds in favor of H%1$s over H%2$s equals \n"
+"1/(-e <em>p</em> log(<em>p</em>)) for <em>p</em> %3$s .37 \n"
+"(Sellke, Bayarri, & Berger, 2001)."
+msgstr ""
+"Vovk-Sellke Maximum <em>p</em>-Quotient: Basierend auf dem <em>p</em>-Wert\n"
+"ist der maximal mögliche Quotient zugunsten H%1$s gegenüber H%2$s gegeben "
+"durch\n"
+"1/(-e <em>p</em> log(<em>p</em>)) für <em>p</em> %3$s .37\n"
+"(Sellke, Bayarri, & Berger, 2001)."
+
+msgid "variables cannot be read"
+msgstr "Variablen können nicht gelesen werden"
+
+msgid ""
+"Cannot compute the results; a numerical error occurred during sampling. Try "
+"to change (e.g., simplify) the model or adjust priors."
+msgstr ""
+"Die Ergebnisse können nicht berechnet werden; bei der Stichprobenziehung ist "
+"ein numerischer Fehler aufgetreten. Versuchen Sie, das Modell zu ändern (z. "
+"B. zu vereinfachen) oder Prior anzupassen."
+
+msgid ""
+"R package 'conting' error: %s <br> It is possible that a numerical error "
+"occured during sampling. Try to change (e.g., simplify) the model, adjust "
+"priors, change seed, or change the number of MCMC samples."
+msgstr ""
+"R Paket 'conting' Fehler: %s <br> Es ist möglich, dass beim Ziehen der "
+"Stichprobe ein numerischer Fehler auftrat. Versuchen Sie, das Modell zu "
+"ändern (z.B. vereinfachen), Priors anzupassen, den Zufallszahlen-Startwert "
+"zu ändern, oder den MCMC-Stichprobenumfang zu ändern."
+
+msgid "R Package error: Cannot retrieve table probabilities"
+msgstr "R-Paket-Fehler: Kann Wahrscheinlichkeiten-Tabelle nicht abrufen"
+
+msgid "Total number of models visited = %i"
+msgstr "Gesamtanzahl besuchter Modelle = %i"
+
+msgid "Submodel specified is not within possible submodels"
+msgstr "Angegebenes Untermodell liegt nicht innerhalb möglicher Untermodelle"
+
+msgid "<em>Model formula:</em>"
+msgstr "<em>Modellformel:</em>"
+
+msgid "<em>Posterior model probability =</em>"
+msgstr "<em>Posterior Modellwahrscheinlichkeit =</em>"
+
+msgid "Model Comparison"
+msgstr "Modellvergleich"
+
+msgid "BF<sub>10</sub>"
+msgstr "BF<sub>10</sub>"
+
+msgid "BF<sub>01</sub>"
+msgstr "BF<sub>01</sub>"
+
+msgid "Log(BF<sub>10</sub>)"
+msgstr "Log(BF<sub>10</sub>)"
+
+msgid "Posterior Summary Statistics"
+msgstr "Posterior zusammenfassende Statistiken"
+
+msgid "P(incl|data)"
+msgstr "P(inkl|Daten)"
+
+msgid "Mean"
+msgstr "Mittelwert"
+
+msgid "Variance"
+msgstr "Varianz"
+
+msgid "%s%% Credible intervals"
+msgstr "%s%% Glaubwürdigkeitsintervalle"
+
+msgid "Posterior Summary Statistics For Submodel %s"
+msgstr "Posterior zusammenfassende Statistiken für Untermodell %s"
+
+msgid "%.0f%% Credible intervals"
+msgstr "%.0f%% Glaubwürdigkeitsintervalle"
+
+#~ msgid "R Package error: %s"
+#~ msgstr "R-Paket-Fehler: %s"
+
+#~ msgid "thinning hides the last observation"
+#~ msgstr "Ausdünnen versteckt die letzte Beobachtung"
+
+#~ msgid ""
+#~ "Attempting to create container name for multiple analyses. Each analysis "
+#~ "has its own container."
+#~ msgstr ""
+#~ "Es wird versucht, einen Containernamen für mehrere Analysen zu erstellen. "
+#~ "Jede Analyse hat ihren eigenen Container."

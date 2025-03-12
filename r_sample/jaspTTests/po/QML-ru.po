@@ -1,0 +1,741 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: zh_Hans\n"
+"X-Qt-Contexts: true\n"
+
+msgctxt "Description|"
+msgid "T-Tests"
+msgstr "Сравнение групп"
+
+msgctxt "Description|"
+msgid "Classical"
+msgstr "Классический анализ"
+
+msgctxt "Description|"
+msgid "Independent Samples T-Test"
+msgstr "Сравнение независимых групп"
+
+msgctxt "Description|"
+msgid "Paired Samples T-Test"
+msgstr "Сравнение зависимых групп"
+
+msgctxt "Description|"
+msgid "One Sample T-Test"
+msgstr "Одновыборочные критерии"
+
+msgctxt "Description|"
+msgid "Bayesian"
+msgstr "Байесовский анализ"
+
+msgctxt "Description|"
+msgid "Bayesian Independent Samples T-Test"
+msgstr "Байесовское сравнение независимых групп"
+
+msgctxt "Description|"
+msgid "Bayesian Paired Samples T-Test"
+msgstr "Байесовское сравнение зависимых групп"
+
+msgctxt "Description|"
+msgid "Bayesian One Sample T-Test"
+msgstr "Байесовский одновыборочный Т-критерий"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Dependent Variables"
+msgstr "Зависимые переменные"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Grouping Variable"
+msgstr "Группирующая переменная"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Group 1 ≠ Group 2"
+msgstr "Группа 1 ≠ Группа 2"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Group 1 > Group 2"
+msgstr "Группа 1 > Группа 2"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Group 1 < Group 2"
+msgstr "Группа 1 < Группа 2"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Plots"
+msgstr "Графики"
+
+#, fuzzy
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Prior and posterior"
+msgstr "Приор и постериор"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Additional info"
+msgstr "Дополнительная информация"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Credible interval"
+msgstr "Достоверный интервал"
+
+#, fuzzy
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Bayes factor robustness check"
+msgstr "Проверка робастности фактора Байеса"
+
+#, fuzzy
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Sequential analysis"
+msgstr "Последовательная проверка гипотез"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Robustness check"
+msgstr "Проверка робастности (устойчивости)"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Descriptives"
+msgstr "Описательные статистики"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Tests"
+msgstr "Критерии"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Student"
+msgstr "Стьюдент"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Mann-Whitney"
+msgstr "Манна-Уитни"
+
+#, fuzzy
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "No. samples"
+msgstr "№ выборок"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Missing Values"
+msgstr "Пропущенные значения"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Exclude cases per dependent variable"
+msgstr "Исключить случаи для зависимой переменной"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Exclude cases listwise"
+msgstr "Исключить случаи целиком"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Additional Statistics"
+msgstr "Дополнительные статистики"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Variables"
+msgstr "Переменные"
+
+#, fuzzy
+msgctxt "TTestBayesianOneSample|"
+msgid "Test value:"
+msgstr "Значение критерия:"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Plots"
+msgstr "Графики"
+
+#, fuzzy
+msgctxt "TTestBayesianOneSample|"
+msgid "Prior and posterior"
+msgstr "Приор и постериор"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Additional info"
+msgstr "Дополнительная информация"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Credible interval"
+msgstr "Достоверный интервал"
+
+#, fuzzy
+msgctxt "TTestBayesianOneSample|"
+msgid "Bayes factor robustness check"
+msgstr "Проверка робастности фактора Байеса"
+
+#, fuzzy
+msgctxt "TTestBayesianOneSample|"
+msgid "Sequential analysis"
+msgstr "Последовательная проверка гипотез"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Robustness check"
+msgstr "Проверка робастности (устойчивости)"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Descriptives"
+msgstr "Описательные статистики"
+
+#, fuzzy
+msgctxt "TTestBayesianOneSample|"
+msgid "≠ Test value"
+msgstr "≠ Значению критерия"
+
+#, fuzzy
+msgctxt "TTestBayesianOneSample|"
+msgid "> Test value"
+msgstr "> Значения критерия"
+
+#, fuzzy
+msgctxt "TTestBayesianOneSample|"
+msgid "< Test value"
+msgstr "< Значения критерия"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Tests"
+msgstr "Критерии"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Student"
+msgstr "Критерий Стьюдента"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Wilcoxon signed-rank"
+msgstr "Критерий Уилкоксона"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "No. samples"
+msgstr "Кол-во выборок"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Additional Statistics"
+msgstr "Дополнительные статистики"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Missing Values"
+msgstr "Пропущенные значения"
+
+#, fuzzy
+msgctxt "TTestBayesianOneSample|"
+msgid "Exclude cases per dependent variable"
+msgstr "Исключить случаи для каждой зависимой переменной"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Exclude cases listwise"
+msgstr "Исключить случаи целиком"
+
+#, fuzzy
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Measure 1 ≠ Measure 2"
+msgstr "Измерение 1 ≠ Измерение 2"
+
+#, fuzzy
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Measure 1 > Measure 2"
+msgstr "Измерение 1 > Измерение 2"
+
+#, fuzzy
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Measure 1 < Measure 2"
+msgstr "Измерение 1 < Измерение 2"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Plots"
+msgstr "Графики"
+
+#, fuzzy
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Prior and posterior"
+msgstr "Приор и постериор"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Additional info"
+msgstr "Дополнительная информация"
+
+#, fuzzy
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Credible interval"
+msgstr "Достоверный интервал"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Bayes factor robustness check"
+msgstr "Проверка робастности фактора Байеса"
+
+#, fuzzy
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Sequential analysis"
+msgstr "Последовательная проверка гипотез"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Robustness check"
+msgstr "Проверка робастности (устойчивости)"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Descriptives"
+msgstr "Описательные статистики"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Tests"
+msgstr "Критерии"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Student"
+msgstr "Стьюдента"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Wilcoxon signed-rank"
+msgstr "Уилкоксона"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "No. samples"
+msgstr "Кол-во выборок"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Additional Statistics"
+msgstr "Дополнительные статистики"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Missing Values"
+msgstr "Пропущенные значения"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Exclude cases per dependent variable"
+msgstr "Исключить случаи для каждой зависимой переменной"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Exclude cases listwise"
+msgstr "Исключить случаи целиком"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Grouping Variable"
+msgstr "Группирующая переменная"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Tests"
+msgstr "Критерии"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Student"
+msgstr "Стьюдента"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Welch"
+msgstr "Уэлча"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Additional Statistics"
+msgstr "Дополнительные статистики"
+
+#, fuzzy
+msgctxt "TTestIndependentSamples|"
+msgid "Location parameter"
+msgstr "Параметр распределения"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Confidence interval"
+msgstr "Доверительный интервал"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Cohen's d"
+msgstr "d Коэна"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Glass' delta"
+msgstr "Дельта Гласса"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Hedges' g"
+msgstr "g Хеджеса"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Descriptives"
+msgstr "Описательные статистики"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Descriptives plots"
+msgstr "Описательные графики"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Vovk-Sellke maximum p-ratio"
+msgstr "Максимальное p-отношение Вовк-Селлке"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Group 1 ≠ Group 2"
+msgstr "Группа 1 ≠ Группа 2"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Group 1 > Group 2"
+msgstr "Группа 1 > Группа 2"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Group 1 < Group 2"
+msgstr "Группа 1 < Группа 2"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Assumption Checks"
+msgstr "Проверка допущений"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Normality"
+msgstr "Нормальность"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Equality of variances"
+msgstr "Равенство дисперсий"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Missing Values"
+msgstr "Пропущенные значения"
+
+#, fuzzy
+msgctxt "TTestIndependentSamples|"
+msgid "Exclude cases per dependent variable"
+msgstr "Исключить случаи для каждой зависимой переменной"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Exclude cases listwise"
+msgstr "Исключить случаи целиком"
+
+msgctxt "TTestOneSample|"
+msgid "Variables"
+msgstr "Переменные"
+
+msgctxt "TTestOneSample|"
+msgid "Tests"
+msgstr "Критерии"
+
+#, fuzzy
+msgctxt "TTestOneSample|"
+msgid "Student"
+msgstr "Критерий Стьюдента"
+
+#, fuzzy
+msgctxt "TTestOneSample|"
+msgid "Wilcoxon signed-rank"
+msgstr "Критерий Уилкоксона"
+
+msgctxt "TTestOneSample|"
+msgid "Z Test"
+msgstr "Z-критерий"
+
+#, fuzzy
+msgctxt "TTestOneSample|"
+msgid "Test value:"
+msgstr "Значение критерия:"
+
+msgctxt "TTestOneSample|"
+msgid "Std. deviation:"
+msgstr "Стд. отклонение:"
+
+msgctxt "TTestOneSample|"
+msgid "Additional Statistics"
+msgstr "Дополнительные статистики"
+
+msgctxt "TTestOneSample|"
+msgid "Confidence interval"
+msgstr "Доверительный интервал"
+
+msgctxt "TTestOneSample|"
+msgid "Descriptives"
+msgstr "Описательные статистики"
+
+msgctxt "TTestOneSample|"
+msgid "Descriptives plots"
+msgstr "Описательные графики"
+
+msgctxt "TTestOneSample|"
+msgid "Vovk-Sellke maximum p-ratio"
+msgstr "Максимальное p-отношение Вовк-Селлке"
+
+#, fuzzy
+msgctxt "TTestOneSample|"
+msgid "≠ Test value"
+msgstr "≠ Значению критерия"
+
+#, fuzzy
+msgctxt "TTestOneSample|"
+msgid "> Test value"
+msgstr "> Значения критерия"
+
+#, fuzzy
+msgctxt "TTestOneSample|"
+msgid "< Test value"
+msgstr "< Значения критерия"
+
+msgctxt "TTestOneSample|"
+msgid "Assumption checks"
+msgstr "Проверка допущений"
+
+msgctxt "TTestOneSample|"
+msgid "Normality"
+msgstr "Нормальность"
+
+msgctxt "TTestOneSample|"
+msgid "Missing Values"
+msgstr "Пропущенные значения"
+
+msgctxt "TTestOneSample|"
+msgid "Exclude cases listwise"
+msgstr "Исключить случаи целиком"
+
+msgctxt "TTestPairedSamples|"
+msgid "Tests"
+msgstr "Критерии"
+
+msgctxt "TTestPairedSamples|"
+msgid "Student"
+msgstr "Стьюдента"
+
+msgctxt "TTestPairedSamples|"
+msgid "Wilcoxon signed-rank"
+msgstr "Уилкоксона"
+
+msgctxt "TTestPairedSamples|"
+msgid "Additional Statistics"
+msgstr "Дополнительные статистики"
+
+#, fuzzy
+msgctxt "TTestPairedSamples|"
+msgid "Location parameter"
+msgstr "Параметр распределения"
+
+msgctxt "TTestPairedSamples|"
+msgid "Confidence interval"
+msgstr "Доверительный интервал"
+
+msgctxt "TTestPairedSamples|"
+msgid "Descriptives"
+msgstr "Описательные статистики"
+
+msgctxt "TTestPairedSamples|"
+msgid "Descriptives plots"
+msgstr "Описательные графики"
+
+#, fuzzy
+msgctxt "TTestPairedSamples|"
+msgid "Vovk-Sellke maximum p-ratio"
+msgstr "Максимальное p-отношение Вовк-Селлке"
+
+#, fuzzy
+msgctxt "TTestPairedSamples|"
+msgid "Measure 1 ≠ Measure 2"
+msgstr "Измерение 1 ≠ Измерение 2"
+
+#, fuzzy
+msgctxt "TTestPairedSamples|"
+msgid "Measure 1 > Measure 2"
+msgstr "Измерение 1 > Измерение 2"
+
+#, fuzzy
+msgctxt "TTestPairedSamples|"
+msgid "Measure 1 < Measure 2"
+msgstr "Измерение 1 < Измерение 2"
+
+msgctxt "TTestPairedSamples|"
+msgid "Assumption Checks"
+msgstr "Проверка допущений"
+
+msgctxt "TTestPairedSamples|"
+msgid "Normality"
+msgstr "Нормальность"
+
+msgctxt "TTestPairedSamples|"
+msgid "Missing Values"
+msgstr "Пропущенные значения"
+
+msgctxt "TTestPairedSamples|"
+msgid "Exclude cases listwise"
+msgstr "Исключить случаи целиком"
+
+msgctxt "Description|"
+msgid "Evaluate the difference between two means"
+msgstr "Оценить разницу между двумя средними"
+
+#, fuzzy
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Raincloud plots"
+msgstr "Графики «Дождевые облака»"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Horizontal display"
+msgstr "Горизонтальное отображение"
+
+#, fuzzy
+msgctxt "TTestBayesianOneSample|"
+msgid "Raincloud plots"
+msgstr "Графики «Дождевые облака»"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Horizontal display"
+msgstr "Горизонтальное отображение"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Variable Pairs"
+msgstr "Пары переменных"
+
+#, fuzzy
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Raincloud plots"
+msgstr "Графики «Дождевые облака»"
+
+#, fuzzy
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Raincloud difference plots"
+msgstr "Графики «дождевых облаков» (различия)"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Horizontal display"
+msgstr "Горизонтальное отображение"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Dependent Variables"
+msgstr "Зависимые переменные"
+
+#, fuzzy
+msgctxt "TTestIndependentSamples|"
+msgid "Raincloud plots"
+msgstr "Графики «Дождевые облака»"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Horizontal display"
+msgstr "Горизонтальное отображение"
+
+#, fuzzy
+msgctxt "TTestOneSample|"
+msgid "Location estimate"
+msgstr "Оценка распределения"
+
+msgctxt "TTestOneSample|"
+msgid "Raincloud plots"
+msgstr "Графики «Дождевые облака»"
+
+msgctxt "TTestOneSample|"
+msgid "Horizontal display"
+msgstr "Горизонтальное отображение"
+
+msgctxt "TTestPairedSamples|"
+msgid "Variable Pairs"
+msgstr "Пары переменных"
+
+#, fuzzy
+msgctxt "TTestPairedSamples|"
+msgid "Raincloud plots"
+msgstr "Графики «Дождевые облака»"
+
+#, fuzzy
+msgctxt "TTestPairedSamples|"
+msgid "Raincloud difference plots"
+msgstr "Графики «Дождевые облака» (различия)"
+
+msgctxt "TTestPairedSamples|"
+msgid "Horizontal display"
+msgstr "Горизонтальное отображение"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Effect size"
+msgstr "Размер эффекта"
+
+msgctxt "TTestOneSample|"
+msgid "Effect size"
+msgstr "Размер эффекта"
+
+msgctxt "TTestPairedSamples|"
+msgid "Effect size"
+msgstr "Размер эффекта"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Brown-Forsythe"
+msgstr "Браун-Форсайт"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Levene's"
+msgstr "Критерий Ливиня"
+
+#, fuzzy
+msgctxt "BarPlots|"
+msgid "Bar plots"
+msgstr "Столбчатые диаграммы"
+
+msgctxt "BarPlots|"
+msgid "Confidence interval"
+msgstr "Доверительный интервал"
+
+#, fuzzy
+msgctxt "BarPlots|"
+msgid "Credible interval"
+msgstr "Достоверный интервал"
+
+msgctxt "BarPlots|"
+msgid "Standard error"
+msgstr "Стандартная ошибка"
+
+msgctxt "BarPlots|"
+msgid "Fix horizontal axis to 0"
+msgstr "Зафиксировать горизонтальную ось на 0"
+
+msgctxt "TTestBayesianIndependentSamples|"
+msgid "Alternative Hypothesis"
+msgstr "Альтернативная гипотеза"
+
+msgctxt "TTestBayesianOneSample|"
+msgid "Alternative Hypothesis"
+msgstr "Альтернативная гипотеза"
+
+msgctxt "TTestBayesianPairedSamples|"
+msgid "Alternative Hypothesis"
+msgstr "Альтернативная гипотеза"
+
+msgctxt "TTestIndependentSamples|"
+msgid "Alternative Hypothesis"
+msgstr "Альтернативная гипотеза"
+
+msgctxt "TTestOneSample|"
+msgid "Alternative Hypothesis"
+msgstr "Альтернативная гипотеза"
+
+msgctxt "TTestOneSample|"
+msgid "Exclude cases per variable"
+msgstr "Исключить случаи для каждой переменной"
+
+msgctxt "TTestPairedSamples|"
+msgid "Alternative Hypothesis"
+msgstr "Альтернативная гипотеза"
+
+msgctxt "TTestPairedSamples|"
+msgid "Exclude cases per variable"
+msgstr "Исключить случаи для каждой переменной"
+
+#, fuzzy
+msgctxt "TTestIndependentSamples|"
+msgid "Mann-Whitney"
+msgstr "Манна-Уитни"
+
+#, fuzzy
+msgctxt "TTestIndependentSamples|"
+msgid "Plots"
+msgstr "Графики"
+
+#, fuzzy
+msgctxt "TTestOneSample|"
+msgid "Plots"
+msgstr "Графики"
+
+#, fuzzy
+msgctxt "TTestPairedSamples|"
+msgid "Plots"
+msgstr "Графики"
+
+msgctxt "TTestPairedSamples|"
+msgid "Correct for correlation"
+msgstr ""
+
+msgctxt "TTestIndependentSamples|"
+msgid "Q-Q plot residuals"
+msgstr ""
+
+msgctxt "TTestOneSample|"
+msgid "Q-Q plot residuals"
+msgstr ""
+
+msgctxt "TTestPairedSamples|"
+msgid "Q-Q plot residuals"
+msgstr ""
