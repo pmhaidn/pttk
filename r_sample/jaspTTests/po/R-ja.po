@@ -1,0 +1,617 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jaspTTests 0.11.0\n"
+"POT-Creation-Date: 2024-10-26 02:47\n"
+"PO-Revision-Date: 2024-10-24 13:15+0000\n"
+"Last-Translator: Yoshihiko Kunisato <ykunisato@psy.senshu-u.ac.jp>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jasp/jaspttests-"
+"r/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.8.2-dev\n"
+
+msgid "Assumption Checks"
+msgstr "仮定のチェック"
+
+msgid "Descriptives"
+msgstr "記述統計量"
+
+msgid ""
+"Vovk-Sellke Maximum <em>p</em>-Ratio: Based on a two-sided <em>p</em>-value,"
+"the maximum possible odds in favor of H%1$s over H%2$s equals 1/(-e <em>p</"
+"em> log(<em>p</em>)) for <em>p</em> %3$s .37 (Sellke, Bayarri, & Berger, "
+"2001)."
+msgstr ""
+"Vovk-Sellke の最大 <em>p</em> 比: <em>p</em>-値に基づいたH%2$sよりもH%1$sを支"
+"持する最大の可能なオッズは、<em>p</em> %3$s .37に対して1/(-e <em>p</em> "
+"log(<em>p</em>))に等しくなります(Sellke, Bayarri, & Berger, 2001)。"
+
+msgid "Q-Q Plots"
+msgstr "Q-Qプロット"
+
+msgid "Please provide another variable."
+msgstr "別の変数を用意してください."
+
+msgid "Variables %1$s and %2$s are the same!"
+msgstr "変数 %1$s と %2$s は同じです!"
+
+msgid "Descriptives Plots"
+msgstr "記述統計量プロット"
+
+msgid "Bar Plots"
+msgstr "棒グラフ"
+
+msgid "Group"
+msgstr "群"
+
+msgid "N"
+msgstr "N"
+
+msgid "Mean"
+msgstr "平均値"
+
+msgid "SD"
+msgstr "標準偏差"
+
+msgid "SE"
+msgstr "標準誤差"
+
+msgid "Coefficient of variation"
+msgstr "変動係数"
+
+msgid "%.0f%% Credible Interval"
+msgstr "%.0f%% 信用区間"
+
+msgid "Lower"
+msgstr "下限"
+
+msgid "Upper"
+msgstr "上限"
+
+msgid "Inferential Plots"
+msgstr "推論プロット"
+
+msgid "Prior and Posterior"
+msgstr "事前分布と事後分布"
+
+msgid "Bayes Factor Robustness Check"
+msgstr "ベイズファクターの頑健性チェック"
+
+msgid "Sequential Analysis"
+msgstr "逐次解析"
+
+msgid ""
+"Bayes factor robustness check plot currently not supported for informed "
+"prior."
+msgstr ""
+"ベイズファクター頑健性チェックのプロットは、現在、情報のある事前分布ではサ"
+"ポートされていません."
+
+msgid ""
+"Sequential analysis robustness check plot currently not supported for "
+"informed prior."
+msgstr ""
+"逐次解析のロバストネスチェックプロットは、現在、情報のある事前分布ではサポー"
+"トされていません."
+
+msgid "Expected numeric or character rscale but got %s."
+msgstr "数値または文字の rscale が必要ですが、%s を得ました."
+
+msgid "Running robustness check %1$d / %2$d"
+msgstr "頑健性チェックを実行しています %1$d / %2$d"
+
+msgid "max BF%s"
+msgstr "最大 BF%s"
+
+msgid "user prior"
+msgstr "ユーザー事前分布"
+
+msgid "wide prior"
+msgstr "広い事前分布"
+
+msgid "ultrawide prior"
+msgstr "とても広い事前分布"
+
+msgid "BF%s"
+msgstr "BF%s"
+
+msgid "%1$s at r==%2$s"
+msgstr "%1$s at r==%2$s"
+
+msgid "Some Bayes factors were infinite"
+msgstr "ベイズファクターが無限大になるものがあります"
+
+msgid "Cauchy prior width"
+msgstr "コーシー事前分布の幅"
+
+msgid "Running sequential analysis %1$d / %2$d"
+msgstr "逐次解析を実行しています %1$d / %2$d"
+
+msgid "n"
+msgstr "n"
+
+msgid "Posterior"
+msgstr "事後分布"
+
+msgid "Prior"
+msgstr "事前分布"
+
+msgid "%s%% CI:"
+msgstr "%s%% CI:"
+
+msgid "Effect size"
+msgstr "効果量"
+
+msgid "Raincloud Plots"
+msgstr "雨雲プロット"
+
+msgid "Raincloud Difference Plots"
+msgstr "雨雲差分プロット"
+
+msgid "Bayes factor could not be calculated"
+msgstr "ベイズファクターが算出できなかった"
+
+msgid "Bayes factor is infinite"
+msgstr "ベイズファクターは無限大です"
+
+msgid "The Bayes factor is too small"
+msgstr "ベイズファクターが小さすぎる"
+
+msgid ""
+"t-value is large. A Savage-Dickey approximation was used to compute the "
+"Bayes factor but no error estimate can be given."
+msgstr ""
+"t値が大きい。ベイズファクターの計算にはSavage-Dickey近似が用いられています"
+"が、この近似は誤差の推定値を与えることはできません."
+
+msgid "No error estimate is available for normal priors."
+msgstr "通常の事前分布では、誤差の推定はできません."
+
+msgid "Bayesian Mann-Whitney U Test"
+msgstr "ベイジアン マンホイットニーのU検定"
+
+msgid "Bayesian Independent Samples T-Test"
+msgstr "ベイジアン独立サンプルのt検定"
+
+msgid ""
+"Result based on data augmentation algorithm with 5 chains of %.0f iterations."
+msgstr ""
+"データ拡張(data augmentation)アルゴリズムを用いて、%.0fの反復回数(iteration)"
+"を5連鎖(chain)繰り返した場合の結果."
+
+msgid "error %%"
+msgstr "エラー %%"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the location of "
+"group <em>%1$s</em> is greater than the location of group <em>%2$s</em>."
+msgstr ""
+"すべての検定において、対立仮説は、グループ<em>%1$s</em>の位置がグループ"
+"<em>%2$s</em>の位置よりも大きいとしています。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the location of "
+"group <em>%1$s</em> is smaller than the location of group <em>%2$s</em>."
+msgstr ""
+"すべての検定において、対立仮説は、グループ<em>%1$s</em>の位置がグループ"
+"<em>%2$s</em>の位置よりも小さいとしています。"
+
+msgid "Bayesian Wilcoxon Signed-Rank Test"
+msgstr "ベイジアン・ウィルコクソンの符号つき順位検定"
+
+msgid "Bayesian One Sample T-Test"
+msgstr "ベイジアン1標本t検定"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"is greater than %s."
+msgstr ""
+"すべての検定で、対立仮説は「母集団の平均が %s より大きい」としています。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"is less than %s."
+msgstr ""
+"すべての検定について、対立仮説は、母平均が%s未満であることとしています。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that the population mean "
+"differs from %s."
+msgstr ""
+"すべての検定において、対立仮説は母集団の平均値が %s と異なるとしています。"
+
+msgid "Bayesian Paired Samples T-Test"
+msgstr "ベイジアン対応のあるサンプルのt検定"
+
+msgid "Measure 1"
+msgstr "測定1"
+
+msgid "Measure 2"
+msgstr "測定2"
+
+msgid "Independent Samples T-Test"
+msgstr "独立したサンプルのt検定"
+
+msgid "Mann-Whitney U test."
+msgstr "マン・ホイットニーのU検定"
+
+msgid "U"
+msgstr "U"
+
+msgid "Welch's t-test."
+msgstr "ウェルチ(Welch)のt検定"
+
+msgid "t"
+msgstr "t"
+
+msgid "Student's t-test."
+msgstr "スチューデントのt-検定"
+
+msgid "Statistic"
+msgstr "統計量"
+
+msgid "Test"
+msgstr "検定"
+
+msgid "df"
+msgstr "df"
+
+msgid "p"
+msgstr "p"
+
+msgid "Cohen's d"
+msgstr "コーエン(Cohen)のd"
+
+msgid "Glass' delta"
+msgstr "グラス(Glass)のデルタ"
+
+msgid "Hedges' g"
+msgstr "ヘッジ(Hedges)のg"
+
+msgid "Mean Difference"
+msgstr "平均値差"
+
+msgid "Hodges-Lehmann Estimate"
+msgstr "Hodges-Lehmann推定"
+
+msgid "Rank-Biserial Correlation"
+msgstr "順序-バイシリアル相関"
+
+msgid "Location Parameter"
+msgstr "位置母数"
+
+msgid "Effect Size"
+msgstr "効果量"
+
+msgid "Student t-test and Welch t-test"
+msgstr "スチューデントのt検定とウェルチのt検定"
+
+msgid "Student t-test"
+msgstr "スチューデントのt検定"
+
+msgid "Welch t-test"
+msgstr "ウェルチのt検定"
+
+msgid "SE Difference"
+msgstr "SEの違い"
+
+msgid ""
+"For the %s, location parameter is given by mean difference. For the Mann-"
+"Whitney test, location parameter is given by the Hodges-Lehmann estimate."
+msgstr ""
+"%s の場合、位置パラメータは平均差で示されます。Mann-Whitney 検定の場合、位置"
+"パラメータは Hodges-Lehmann 推定によって与えられます。"
+
+msgid "%1$s%% CI for %2$s"
+msgstr "%2$sについての%1$s%% CI"
+
+msgid "SE %1$s"
+msgstr "SE %1$s"
+
+msgid ""
+"For the Mann-Whitney test, effect size is given by the rank biserial "
+"correlation."
+msgstr ""
+"マン・ホイットニー検定の場合、効果の大きさは順位-バイシリアル相関で与えられま"
+"す。"
+
+msgid "For the %1$s, effect size is given by %2$s."
+msgstr "%1$s の場合、効果のサイズは %2$s で指定されます。"
+
+msgid "Test of Normality (Shapiro-Wilk)"
+msgstr "正規性の検定 (シャピロ・ウィルク)"
+
+msgid "Residuals"
+msgstr "残差"
+
+msgid "W"
+msgstr "W"
+
+msgid "Significant results suggest a deviation from normality."
+msgstr "有意な結果は、正規性からの逸脱を示唆しています。"
+
+msgid "Brown-Forsythe"
+msgstr "ブラウン・フォーサイス(Brown-Forsythe)"
+
+msgid "Levene's"
+msgstr "Leveneの"
+
+msgid "Test of Equality of Variances (%1$s)"
+msgstr "分散の等質性の検定(%1$s)"
+
+msgid "F"
+msgstr "F"
+
+msgid "%s<sub>1</sub>"
+msgstr "%s<sub>1</sub>"
+
+msgid "%s<sub>2</sub>"
+msgstr "%s<sub>2</sub>"
+
+msgid "greater"
+msgstr "より大きい"
+
+msgid "less"
+msgstr "より小さい"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that group %1$s is %2$s "
+"than group %3$s."
+msgstr ""
+"すべての検定において、対立仮説は、グループ %1$s がグループ %3$s よりも %2$s "
+"であるとしています。"
+
+msgid ""
+"Brown-Forsythe test is significant (p < .05), suggesting a violation of the "
+"equal variance assumption"
+msgstr ""
+"Brown-Forsythe検定は有意(p <.05)、等分散の仮定が満たされていないことを示唆"
+
+msgid ""
+"Levene's test is significant (p < .05), suggesting a violation of the equal "
+"variance assumption"
+msgstr ""
+"Leveneの検定は有意ですから(p <.05)、等分散の仮定が満たされていないことを示し"
+"ています"
+
+msgid ""
+"Glass' delta uses the standard deviation of group %1$s of variable %2$s."
+msgstr ""
+"Glass の delta は、変数 %2$s のグループ %1$s の標準偏差を使用しています。"
+
+msgid "F-statistic could not be calculated"
+msgstr "F 統計量を計算できませんでした"
+
+msgid "Group Descriptives"
+msgstr "群の記述統計"
+
+msgid "Mean Rank"
+msgstr "平均順位"
+
+msgid "Sum Rank"
+msgstr "合計順位"
+
+msgid "One Sample T-Test"
+msgstr "1標本のt検定"
+
+msgid "Wilcoxon signed-rank test."
+msgstr "ウィルコクソンの符号付き順位検定"
+
+msgid "V"
+msgstr "V"
+
+msgid "Z test."
+msgstr "Z検定"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Location Difference"
+msgstr "平均値差"
+
+msgid "Student t-test and Z-test"
+msgstr "スチューデントのt検定とZ検定"
+
+msgid "Z-test"
+msgstr "Z検定"
+
+#, fuzzy
+msgid ""
+"For the %s, location difference estimate is given by the sample mean "
+"difference <em>d</em>. For the Wilcoxon test, location difference estimate "
+"is given by the Hodges-Lehmann estimate."
+msgstr ""
+"スチューデントのt検定の場合、位置パラメーターは平均差<em> d </em>で与えられま"
+"す。ウィルコクソン検定の場合、位置パラメータはHodges-Lehmann推定によって与え"
+"られます."
+
+msgid "For the Student t-test, effect size is given by Cohen's <em>d</em>."
+msgstr ""
+"スチューデントのt検定の場合、効果量はコーエンの<em> d </em>によって与えられま"
+"す。"
+
+msgid ""
+"For the Wilcoxon test, effect size is given by the matched rank biserial "
+"correlation."
+msgstr ""
+"ウィルコクソン検定の場合、効果量は、一致したランクのバイシリアル相関によって"
+"与えられます。"
+
+msgid ""
+"For the Z test, effect size is given by Cohen's <em>d</em> (based on the "
+"provided population standard deviation)."
+msgstr ""
+"Z 検定では，効果量は Cohen の<em>d</em>（提供された母集団の標準偏差に基づく）"
+"で与えられます。"
+
+msgid "greater than"
+msgstr "より大きい"
+
+msgid "less than"
+msgstr "より小さい"
+
+msgid "different from"
+msgstr "とは異なる"
+
+msgid ""
+"For the %1$s, the alternative hypothesis specifies that the mean is %2$s "
+"%3$s."
+msgstr "%1$s の場合、対立仮説では平均が %2$s %3$s であるとしています。"
+
+msgid ""
+"For the Wilcoxon test, the alternative hypothesis specifies that the median "
+"is %1$s %2$s."
+msgstr "Wilcoxon 検定では、対立仮説は中央値が %1$s %2$s であるとしています。"
+
+msgid ""
+"CI could not be computed for effect size, due to low sample size and/or "
+"extreme effect size."
+msgstr ""
+"サンプルサイズ不足 / 極端な効果量のため、効果量の信頼区間は算出できません."
+
+msgid ""
+"Sample size too small for desired confidence level. Using %.1f%% instead"
+msgstr ""
+"望まれた信頼水準にはサンプルサイズが小さすぎます。代わりに、%.1f%%を使います"
+
+msgid "Paired Samples T-Test"
+msgstr "対応のあるサンプルのt検定"
+
+msgid "z"
+msgstr "z"
+
+msgid ""
+"For the Student t-test, location parameter is given by mean difference "
+"<em>d</em>. For the Wilcoxon test, location parameter is given by the Hodges-"
+"Lehmann estimate."
+msgstr ""
+"スチューデントのt検定の場合、位置パラメーターは平均差<em> d </em>で与えられま"
+"す。ウィルコクソン検定の場合、位置パラメータはHodges-Lehmann推定によって与え"
+"られます."
+
+msgid ""
+"For the Student t-test, effect size is given by Cohen's <em>d</em>. For the "
+"Wilcoxon test, effect size is given by the matched rank biserial correlation."
+msgstr ""
+"スチューデントのt検定の場合、効果量はコーエンの<em> d </em>によって与えられま"
+"す。ウィルコクソン検定の場合、効果量は、一致したランクのバイシリアル相関に"
+"よって与えられます。"
+
+msgid "Cohen's d corrected for correlation between observations."
+msgstr "Cohenのdは観察間の相関を補正したものである."
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is less "
+"than Measure 2."
+msgstr ""
+"すべての検定において、対立仮説は「測定値 1 が測定値 2 よりも小さい」としてい"
+"ます。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is "
+"greater than Measure 2."
+msgstr ""
+"すべての検定において、対立仮説は「測定値 1 が測定値 2 よりも大きい」としてい"
+"ます。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that %1$s is less than "
+"%2$s."
+msgstr ""
+"すべての検定において、対立仮説は %1$s が %2$s よりも小さいとしています。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that %1$s is greater "
+"than %2$s."
+msgstr ""
+"すべての検定において、対立仮説は %1$s が %2$s よりも大きいとしています。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is less "
+"than Measure 2. For example, %1$s is less than %2$s."
+msgstr ""
+"すべての検定において、対立仮説は「測定値 1 が測定値 2 よりも小さい」としてい"
+"ます。例えば、%1$s は %2$s よりも小さいです。"
+
+msgid ""
+"For all tests, the alternative hypothesis specifies that Measure 1 is "
+"greater than Measure 2. For example, %1$s is greater than %2$s."
+msgstr ""
+"すべての検定において、対立仮説は、測定値 1 が測定値 2 よりも大きいとしていま"
+"す。たとえば、%1$s は %2$s よりも大きいです。"
+
+msgid "The following pair is duplicated: %s"
+msgid_plural "The following pairs are duplicated: %s"
+msgstr[0] "次のペアは重複しています: %s"
+
+#~ msgid ""
+#~ "For the %s, location difference estimate is given by the sample mean "
+#~ "difference <em>d</em>."
+#~ msgstr ""
+#~ "%sの場合、位置の差の推定値は、サンプルの平均差<em> d </em>によって与えられ"
+#~ "ます。"
+
+#~ msgid ""
+#~ "For the Wilcoxon test, location difference estimate is given by the "
+#~ "Hodges-Lehmann estimate."
+#~ msgstr ""
+#~ "Wilcoxon検定では，位置の差の推定値はHodges-Lehmann推定値で与えられます。"
+
+#~ msgid "Paired and two-sample z.test not yet implemented"
+#~ msgstr "対応のあるz検定と2標本のz検定はまだ実装されていません"
+
+#~ msgid "not enough x observations"
+#~ msgstr "十分な観測値xがありません"
+
+#~ msgid "Not yet implemented"
+#~ msgstr "まだ実装されていません"
+
+#~ msgid "not enough y observations"
+#~ msgstr "十分な観測値yがありません"
+
+#~ msgid "nDistinctObservations got an object of type"
+#~ msgstr "nDistinctObservationsは型のオブジェクトを取得しました"
+
+#~ msgid ","
+#~ msgstr ","
+
+#~ msgid "Cannot plot the posterior - possibly too concentrated near 0."
+#~ msgstr ""
+#~ "事後分布をプロットすることはできません - おそらく0の近くに集中しすぎてい"
+#~ "る."
+
+#~ msgid "data are essentially constant"
+#~ msgstr "データは基本的に一定です"
+
+#~ msgid "Evidence for H1"
+#~ msgstr "H1のエビデンス"
+
+#~ msgid "Evidence for H0"
+#~ msgstr "H1のエビデンス"
+
+#~ msgid "Evidence for H+"
+#~ msgstr "H+のエビデンス"
+
+#~ msgid "Evidence for H-"
+#~ msgstr "H-のエビデンス"
+
+#~ msgid "Evidence for H1:"
+#~ msgstr "H1のエビデンス:"
+
+#~ msgid "Evidence for H+:"
+#~ msgstr "H+のエビデンス:"
+
+#~ msgid "Evidence for H-:"
+#~ msgstr "H-のエビデンス:"
+
+#~ msgid "Evidence for H0:"
+#~ msgstr "H1のエビデンス"
+
+#~ msgid ""
+#~ "could not calculate enough valid Bayes Factors for different values of "
+#~ "the prior"
+#~ msgstr ""
+#~ "事前分布が異なるために十分な有効なベイズファクターを計算できませんでした"

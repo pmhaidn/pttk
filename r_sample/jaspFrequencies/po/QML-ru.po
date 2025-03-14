@@ -1,0 +1,1378 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: ru\n"
+"X-Qt-Contexts: true\n"
+
+msgctxt "Description|"
+msgid "Frequencies"
+msgstr "Частоты"
+
+msgctxt "Description|"
+msgid "Classical"
+msgstr "Классический анализ"
+
+msgctxt "Description|"
+msgid "Binomial Test"
+msgstr "Биномиальный критерий"
+
+msgctxt "Description|"
+msgid "Multinomial Test"
+msgstr "Полиномиальный критерий"
+
+msgctxt "Description|"
+msgid "Contingency Tables"
+msgstr "Таблицы сопряженности"
+
+msgctxt "Description|"
+msgid "Log-Linear Regression"
+msgstr "Лог-линейная регрессия"
+
+msgctxt "Description|"
+msgid "Bayesian"
+msgstr "Байесовский анализ"
+
+#, fuzzy
+msgctxt "Description|"
+msgid "Bayesian Binomial Test"
+msgstr "Байесовский биномиальный тест"
+
+msgctxt "Description|"
+msgid "A/B Test"
+msgstr "A/B тестирование"
+
+msgctxt "Description|"
+msgid "Bayesian A/B Test"
+msgstr "Байесовское A/B тестирование"
+
+#, fuzzy
+msgctxt "Description|"
+msgid "Bayesian Multinomial Test"
+msgstr "Байесовский полиномиальный критерий"
+
+msgctxt "Description|"
+msgid "Bayesian Contingency Tables"
+msgstr "Байесовские таблицы сопряженности"
+
+msgctxt "Description|"
+msgid "Bayesian Log-Linear Regression"
+msgstr "Байесовская лог-линейная регрессия"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Successes Group 1"
+msgstr "Успехи Группы 1"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Sample Size Group 1"
+msgstr "Размер выборки Группы 1"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Successes Group 2"
+msgstr "Успехи Группы 2"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Sample Size Group 2"
+msgstr "Размер выборки Группы 2"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Normal Prior on Log Odds Ratio"
+msgstr "Нормальный приор логарифмических шансов"
+
+msgctxt "ABTestBayesian|"
+msgid "μ:"
+msgstr "μ:"
+
+msgctxt "ABTestBayesian|"
+msgid "σ:"
+msgstr "σ:"
+
+msgctxt "ABTestBayesian|"
+msgid "Descriptives"
+msgstr "Описательные статистики"
+
+msgctxt "ABTestBayesian|"
+msgid "Plots"
+msgstr "Графики"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Prior and posterior"
+msgstr "Приор и постериор"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Sequential analysis"
+msgstr "Последовательная проверка гипотез"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Prior"
+msgstr "Приор"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Bayes factor robustness check"
+msgstr "Проверка робастности фактора Байеса"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Order"
+msgstr "Порядок"
+
+msgctxt "ABTestBayesian|"
+msgid "Compare to best model"
+msgstr "Сравнить с лучшей моделью"
+
+msgctxt "ABTestBayesian|"
+msgid "Compare to null model"
+msgstr "Сравнить с нулевой моделью"
+
+msgctxt "ABTestBayesian|"
+msgid "Advanced Options"
+msgstr "Дополнительные параметры"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Prior Model Probability"
+msgstr "Вероятность априорной модели"
+
+msgctxt "ABTestBayesian|"
+msgid "Log odds ratio = 0"
+msgstr "Лог-отношение шансов = 0"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Log odds ratio > 0"
+msgstr "Лог-отношение шансов > 0"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Log odds ratio < 0"
+msgstr "Лог-отношение шансов < 0"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Log odds ratio ≠ 0"
+msgstr "Лог-отношение шансов ≠ 0"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Sampling"
+msgstr "Выборка"
+
+msgctxt "ABTestBayesian|"
+msgid "No. samples"
+msgstr "Кол-во выборок"
+
+msgctxt "ABTestBayesian|"
+msgid "Robustness Plot"
+msgstr "График робастности"
+
+msgctxt "ABTestBayesian|"
+msgid "No. Steps"
+msgstr "Кол-во шагов"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Step Range"
+msgstr "Диапазон шагов"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "lower:"
+msgstr "нижняя граница:"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "upper:"
+msgstr "верхняя граница:"
+
+msgctxt "BinomialTest|"
+msgid "Variables"
+msgstr "Переменные"
+
+#, fuzzy
+msgctxt "BinomialTest|"
+msgid "Test value: "
+msgstr "Значение критерия: "
+
+msgctxt "BinomialTest|"
+msgid "Alt. Hypothesis"
+msgstr "Альт. гипотеза"
+
+#, fuzzy
+msgctxt "BinomialTest|"
+msgid "≠ Test value"
+msgstr "≠ Значению критерия"
+
+#, fuzzy
+msgctxt "BinomialTest|"
+msgid "> Test value"
+msgstr "> Значения критерия"
+
+msgctxt "BinomialTest|"
+msgid "< Test value"
+msgstr "< Значения критерия"
+
+msgctxt "BinomialTest|"
+msgid "Additional Statisics"
+msgstr "Дополнительные статистики"
+
+msgctxt "BinomialTest|"
+msgid "Confidence interval"
+msgstr "Доверительный интервал"
+
+msgctxt "BinomialTest|"
+msgid "Interval"
+msgstr "Интервал"
+
+#, fuzzy
+msgctxt "BinomialTest|"
+msgid "Vovk-Sellke maximum p-ratio"
+msgstr "Максимальное p-отношение Вовк-Селлке"
+
+msgctxt "BinomialTest|"
+msgid "Plots"
+msgstr "Графики"
+
+msgctxt "BinomialTest|"
+msgid "Descriptive plots"
+msgstr "Описательные графики"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "Test value: "
+msgstr "Значение критерия: "
+
+msgctxt "BinomialTestBayesian|"
+msgid "Alt. Hypothesis"
+msgstr "Альт. гипотеза"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "≠ Test value"
+msgstr "≠ Значению критерия"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "> Test value"
+msgstr "> Значения критерия"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "< Test value"
+msgstr "< Значения критерия"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Plots"
+msgstr "Графики"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "Prior and posterior"
+msgstr "Приор и постериор"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Additional info"
+msgstr "Дополнительная информация"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "Sequential analysis"
+msgstr "Последовательная проверка гипотез"
+
+msgctxt "BinomialTestBayesian|"
+msgid "Descriptive plots"
+msgstr "Описательные графики"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "Credible interval"
+msgstr "Достоверный интервал"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "Prior"
+msgstr "Приор"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "Beta prior: parameter a"
+msgstr "Бета приор: параметр a"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "Beta prior: parameter b"
+msgstr "Бета-приор: параметр б"
+
+msgctxt "ContingencyTables|"
+msgid "Rows"
+msgstr "Ряды"
+
+msgctxt "ContingencyTables|"
+msgid "Columns"
+msgstr "Столбцы"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Counts"
+msgstr "Количественные переменные"
+
+msgctxt "ContingencyTables|"
+msgid "Layers"
+msgstr "Слои"
+
+msgctxt "ContingencyTables|"
+msgid "Statistics"
+msgstr "Статистики"
+
+msgctxt "ContingencyTables|"
+msgid "χ²"
+msgstr "χ²"
+
+msgctxt "ContingencyTables|"
+msgid "χ² continuity correction"
+msgstr "χ² с коррекцией на непрерывность"
+
+msgctxt "ContingencyTables|"
+msgid "Likelihood ratio"
+msgstr "Отношение правдоподобия"
+
+msgctxt "ContingencyTables|"
+msgid "Vovk-Sellke maximum p-ratio"
+msgstr "Максимальное p-отношение Вовк-Селлке"
+
+msgctxt "ContingencyTables|"
+msgid "Confidence interval"
+msgstr "Доверительный интервал"
+
+msgctxt "ContingencyTables|"
+msgid "Alt. Hypothesis (Fisher's exact test)"
+msgstr "Альт. Гипотеза (точный критерий Фишера)"
+
+msgctxt "ContingencyTables|"
+msgid "Group one ≠ Group two"
+msgstr "Группа 1 ≠ Группа 2"
+
+msgctxt "ContingencyTables|"
+msgid "Group one > Group two"
+msgstr "Группа 1 > Группа 2"
+
+msgctxt "ContingencyTables|"
+msgid "Group one < Group two"
+msgstr "Группа 1 < Группа 2"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Nominal"
+msgstr "Номинативное"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Contingency coefficient"
+msgstr "Коэффициент сопряженности"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Phi and Cramer's V"
+msgstr "Фи и V-Крамера"
+
+msgctxt "ContingencyTables|"
+msgid "Lambda"
+msgstr "Лямбда"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Uncertainty coefficient"
+msgstr "Коэффициент неопределенности"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Ordinal"
+msgstr "Для порядковых шкал"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Gamma"
+msgstr "Гамма-корреляция"
+
+msgctxt "ContingencyTables|"
+msgid "Somers' d"
+msgstr "d Сомерса"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Kendall's tau-b"
+msgstr "Корреляции Кендалла (tau-b)"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Kendall's tau-c"
+msgstr "Корреляции Кендалла (tau-с)"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Nominal By Interval"
+msgstr "Номинальная, преобразованная от интервальной"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Eta"
+msgstr "Эта"
+
+msgctxt "ContingencyTables|"
+msgid "Cochran's and Mantel-Haenszel statistics"
+msgstr "Статистики Кокрана и Мантеля-Хензеля"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Test common odds ratio equals"
+msgstr "Критерий равенства общего соотношения шансов"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Cells"
+msgstr "Ячейки"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Expected"
+msgstr "Ожидаемые"
+
+msgctxt "ContingencyTables|"
+msgid "Hide small counts"
+msgstr "Скрыть маленькие значения"
+
+msgctxt "ContingencyTables|"
+msgid "Less than"
+msgstr "Меньше, чем"
+
+msgctxt "ContingencyTables|"
+msgid "Z-Test"
+msgstr "Z-критерий"
+
+msgctxt "ContingencyTables|"
+msgid "Compare column proportions"
+msgstr "Сравнить пропорции столбцов"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Adjust p-values"
+msgstr "Скорректировать p-значения"
+
+msgctxt "ContingencyTables|"
+msgid "Percentages"
+msgstr "Проценты"
+
+msgctxt "ContingencyTables|"
+msgid "Row"
+msgstr "Строка"
+
+msgctxt "ContingencyTables|"
+msgid "Column"
+msgstr "Столбец"
+
+msgctxt "ContingencyTables|"
+msgid "Total"
+msgstr "Всего"
+
+msgctxt "ContingencyTables|"
+msgid "Residuals"
+msgstr "Остатки"
+
+msgctxt "ContingencyTables|"
+msgid "Unstandardized"
+msgstr "Нестандартизованные"
+
+msgctxt "ContingencyTables|"
+msgid "Options"
+msgstr "Параметры"
+
+msgctxt "ContingencyTables|"
+msgid "Row Order"
+msgstr "Упорядочить строки"
+
+msgctxt "ContingencyTables|"
+msgid "Ascending"
+msgstr "По возрастанию"
+
+msgctxt "ContingencyTables|"
+msgid "Descending"
+msgstr "По убыванию"
+
+msgctxt "ContingencyTables|"
+msgid "Column Order"
+msgstr "Упорядочить столбцы"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Rows"
+msgstr "Строки"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Columns"
+msgstr "Столбцы"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Counts"
+msgstr "Значения"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Layers"
+msgstr "Слои"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Statistics"
+msgstr "Статистики"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Sample"
+msgstr "Выборка"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Poisson"
+msgstr "Пуассона"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Joint multinomial"
+msgstr "Совместный полином"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Indep. multinomial, rows fixed"
+msgstr "Незав. полином, фикс. строки"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Indep. multinomial, columns fixed"
+msgstr "Незав. полином, фикс. столбцы"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Hypergeometric (2x2 only)"
+msgstr "Гипергеометрический (только 2x2)"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Additional Statistics"
+msgstr "Дополнительные статистики"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Log odds ratio (2x2 only)"
+msgstr "Лог-отношение шансов (только 2x2)"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Credible interval"
+msgstr "Достоверный интервал"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Cramer's V"
+msgstr "V-Крамера"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Alt. Hypothesis"
+msgstr "Альт. гипотеза"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Group one ≠ Group two"
+msgstr "Группа 1 ≠ Группа 2"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Group one > Group two"
+msgstr "Группа 1 > Группа 2"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Group one < Group two"
+msgstr "Группа 1 < Группа 2"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Plots"
+msgstr "Графики"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Additional info"
+msgstr "Дополнительная информация"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Prior"
+msgstr "Приор"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Prior concentration"
+msgstr "Априорная концентрация"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Cells"
+msgstr "Ячейки"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Percentages"
+msgstr "Проценты"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Row"
+msgstr "По строкам"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Column"
+msgstr "По столбцам"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Total"
+msgstr "Всего"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Options"
+msgstr "Параметры"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Row Order"
+msgstr "Упорядочить строки"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Ascending"
+msgstr "По возрастанию"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Descending"
+msgstr "По убыванию"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Column Order"
+msgstr "Упорядочить столбцы"
+
+msgctxt "MultinomialTest|"
+msgid "Factor"
+msgstr "Фактор"
+
+#, fuzzy
+msgctxt "MultinomialTest|"
+msgid "Counts"
+msgstr "Значения"
+
+#, fuzzy
+msgctxt "MultinomialTest|"
+msgid "Expected Counts"
+msgstr "Ожидаемые значения"
+
+msgctxt "MultinomialTest|"
+msgid "Test Values"
+msgstr "Значения критерия"
+
+#, fuzzy
+msgctxt "MultinomialTest|"
+msgid "Equal proportions (multinomial test)"
+msgstr "Равные пропорции (полиномиальный критерий)"
+
+msgctxt "MultinomialTest|"
+msgid "Additional Statistics"
+msgstr "Дополнительные статистики"
+
+msgctxt "MultinomialTest|"
+msgid "Descriptives"
+msgstr "Описательные статистики"
+
+msgctxt "MultinomialTest|"
+msgid "Confidence interval"
+msgstr "Доверительный интервал"
+
+#, fuzzy
+msgctxt "MultinomialTest|"
+msgid "Vovk-Sellke maximum p-ratio"
+msgstr "Максимальное p-отношение Вовк-Селлке"
+
+msgctxt "MultinomialTest|"
+msgid "Display"
+msgstr "Показать"
+
+msgctxt "MultinomialTest|"
+msgid "Proportions"
+msgstr "Пропорции"
+
+msgctxt "MultinomialTest|"
+msgid "Plots"
+msgstr "Графики"
+
+#, fuzzy
+msgctxt "MultinomialTest|"
+msgid "Descriptives plot"
+msgstr "График описательных статистик"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Factor"
+msgstr "Фактор"
+
+#, fuzzy
+msgctxt "MultinomialTestBayesian|"
+msgid "Counts"
+msgstr "Значения"
+
+#, fuzzy
+msgctxt "MultinomialTestBayesian|"
+msgid "Expected Counts"
+msgstr "Ожидаемые значения"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Test Values"
+msgstr "Значения критерия"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Equal proportions"
+msgstr "Равные пропорции"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Additional Statistics"
+msgstr "Дополнительные статистики"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Descriptives"
+msgstr "Описательные статистики"
+
+#, fuzzy
+msgctxt "MultinomialTestBayesian|"
+msgid "Credible interval"
+msgstr "Достоверный интервал"
+
+#, fuzzy
+msgctxt "MultinomialTestBayesian|"
+msgid "Display"
+msgstr "Показать"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Proportions"
+msgstr "Пропорции"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "Plots"
+msgstr "Графики"
+
+#, fuzzy
+msgctxt "MultinomialTestBayesian|"
+msgid "Descriptives plot"
+msgstr "График описательных статистик"
+
+#, fuzzy
+msgctxt "MultinomialTestBayesian|"
+msgid "Prior"
+msgstr "Приор"
+
+msgctxt "MultinomialTestBayesian|"
+msgid "No factor specified"
+msgstr "Фактор не указан"
+
+msgctxt "RegressionLogLinear|"
+msgid "Counts (optional)"
+msgstr "Значения (необязательно)"
+
+msgctxt "RegressionLogLinear|"
+msgid "Factors"
+msgstr "Факторы"
+
+msgctxt "RegressionLogLinear|"
+msgid "Model"
+msgstr "Модель"
+
+msgctxt "RegressionLogLinear|"
+msgid "Components"
+msgstr "Компоненты"
+
+#, fuzzy
+msgctxt "RegressionLogLinear|"
+msgid "Model Terms"
+msgstr "Модель"
+
+msgctxt "RegressionLogLinear|"
+msgid "Statistics"
+msgstr "Статистики"
+
+msgctxt "RegressionLogLinear|"
+msgid "Regression Coefficient"
+msgstr "Коэффициент регрессии"
+
+msgctxt "RegressionLogLinear|"
+msgid "Estimates"
+msgstr "Оценки"
+
+msgctxt "RegressionLogLinear|"
+msgid "Confidence intervals"
+msgstr "Доверительные интервалы"
+
+msgctxt "RegressionLogLinear|"
+msgid "Interval"
+msgstr "Интервал"
+
+msgctxt "RegressionLogLinear|"
+msgid "Vovk-Sellke maximum p-ratio"
+msgstr "Максимальное p-отношение Вовк-Селлке"
+
+#, fuzzy
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Counts (optional)"
+msgstr "Значения (необязательно)"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Factors"
+msgstr "Факторы"
+
+#, fuzzy
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Prior"
+msgstr "Приор"
+
+#, fuzzy
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Shape"
+msgstr "Вид"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Scale"
+msgstr "Количественная шкала"
+
+#, fuzzy
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Model Cut-offs"
+msgstr "Отсечки модели"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Display best"
+msgstr "Показать лучшее"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "models"
+msgstr "модели"
+
+#, fuzzy
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Posterior prob."
+msgstr "Апостериорная вер."
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Model"
+msgstr "Модель"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Components"
+msgstr "Компоненты"
+
+#, fuzzy
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Model Terms"
+msgstr "Модель"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Statistics"
+msgstr "Статистики"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Regression Coefficients"
+msgstr "Коэффициенты регрессии"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Estimates"
+msgstr "Оценки"
+
+#, fuzzy
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Credible intervals"
+msgstr "Достоверные интервалы"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Interval"
+msgstr "Интервал"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Submodel"
+msgstr "Подмодель"
+
+#, fuzzy
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Samples"
+msgstr "Выборки"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Auto"
+msgstr "Авто"
+
+msgctxt "RegressionLogLinearBayesian|"
+msgid "Manual"
+msgstr "Вручную"
+
+#, fuzzy
+msgctxt "RegressionLogLinearBayesian|"
+msgid "No. samples"
+msgstr "Кол-во выборок"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Odds ratio (2x2 only)"
+msgstr "Отношение шансов (только 2x2)"
+
+#, fuzzy
+msgctxt "ContingencyTables|"
+msgid "Log Odds Ratio"
+msgstr "Лог-отношение шансов"
+
+#, fuzzy
+msgctxt "Description|"
+msgid "Analyses for count data"
+msgstr "Анализ для рассчитанных данных"
+
+#, fuzzy
+msgctxt "MultinomialTestBayesian|"
+msgid "Level #"
+msgstr "Уровень"
+
+#, fuzzy
+msgctxt "BinomialTestBayesian|"
+msgid "Direction"
+msgstr "Направление"
+
+msgctxt "ContingencyTables|"
+msgid "Pearson"
+msgstr "Пирсона"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Log Odds Ratio"
+msgstr "Лог-отношение шансов"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Odds Ratio"
+msgstr "Отношение шансов"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Relative Risk"
+msgstr "Косвенный риск"
+
+#, fuzzy
+msgctxt "ABTestBayesian|"
+msgid "Absolute Risk"
+msgstr "Абсолютный риск"
+
+msgctxt "ABTestBayesian|"
+msgid "p1 & p2"
+msgstr "p1 & p2"
+
+msgctxt "ABTestBayesian|"
+msgid "p1"
+msgstr "p1"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Expected"
+msgstr "Ожидаемый"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Residuals"
+msgstr "Остатки"
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Unstandardized"
+msgstr "Нестандартизованные"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Pearson"
+msgstr "Пирсона"
+
+#, fuzzy
+msgctxt "ContingencyTablesBayesian|"
+msgid "Standardized"
+msgstr "Стандартизованные"
+
+#, fuzzy
+msgctxt "MultinomialTest|"
+msgid "Custom expected proportions (χ² test)"
+msgstr "Настраиваемые ожидаемые значения (χ²)"
+
+#, fuzzy
+msgctxt "MultinomialTestBayesian|"
+msgid "Custom expected proportions"
+msgstr "Настраиваемые ожидаемые значения"
+
+msgctxt "Description|"
+msgid "Informed Multinomial Test"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Informed Bayesian Multinomial Test"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Informed Multi-Binomial Test"
+msgstr ""
+
+msgctxt "Description|"
+msgid "Informed Bayesian Multi-Binomial Test"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Factor"
+msgstr "Фактор"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Successes"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Sample Size"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Bayes Factor Comparison"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Encompassing"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Null"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "vs."
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Table"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Plot"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Display"
+msgstr "Показать"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Counts"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Proportions"
+msgstr "Пропорции"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Posterior plot"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Credible interval"
+msgstr "Достоверный интервал"
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "No factor specified"
+msgstr "Фактор не указан"
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Level #"
+msgstr "Уровень"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Order Restricted Hypotheses"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid ""
+"Enter each restriction of one hypothesis on a new line,\n"
+"e.g., Low <= Mid <= High\n"
+"where 'Low'/'Mid'/'High' are the factor level names.\n"
+"Click on the 'plus' icon to add more hypotheses. \n"
+"Click the information icon for more examples."
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Click to learn more about the syntax for order restrictions."
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Model 1"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid ""
+"Ctrl + Enter to apply. Click on the blue button above for help on the "
+"restriction syntax"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Estimation settings"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Burnin (MCMC)"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Iterations (MCMC)"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Maximum samples (bridgesampling)"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Factor"
+msgstr "Фактор"
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Counts"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Bayes Factor Comparison"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Encompassing"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Null"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "vs."
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Table"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Plot"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Display"
+msgstr "Показать"
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Proportions"
+msgstr "Пропорции"
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Posterior plot"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Credible interval"
+msgstr "Достоверный интервал"
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "No factor specified"
+msgstr "Фактор не указан"
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Level #"
+msgstr "Уровень"
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Order Restricted Hypotheses"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid ""
+"Enter each restriction of one hypothesis on a new line,\n"
+"e.g., Low <= Mid <= High\n"
+"where 'Low'/'Mid'/'High' are the factor level names.\n"
+"Click on the 'plus' icon to add more hypotheses. \n"
+"Click the information icon for more examples."
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Click to learn more about the syntax for order restrictions."
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Model 1"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid ""
+"Ctrl + Enter to apply. Click on the blue button above for help on the "
+"restriction syntax"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Estimation settings"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Burnin (MCMC)"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Iterations (MCMC)"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Maximum samples (bridgesampling)"
+msgstr ""
+
+msgctxt "ContingencyTables|"
+msgid "Standardized (adjusted Pearson)"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Sequential analysis plot"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Bayes factors"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Posterior probability"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Prior Distribution"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Prior Model Probability"
+msgstr "Вероятность априорной модели"
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Model"
+msgstr "Модель"
+
+#, fuzzy
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Sequential analysis"
+msgstr "Последовательная проверка гипотез"
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Number of steps"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Include"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Null model"
+msgstr ""
+
+msgctxt "InformedBinomialTestBayesian|"
+msgid "Encompassing model"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Sequential analysis plot"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Bayes factors"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Posterior probability"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Prior Distribution"
+msgstr ""
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Prior Model Probability"
+msgstr "Вероятность априорной модели"
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Model"
+msgstr "Модель"
+
+#, fuzzy
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Sequential analysis"
+msgstr "Последовательная проверка гипотез"
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Number of steps"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Include"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Null model"
+msgstr ""
+
+msgctxt "InformedMultinomialTestBayesian|"
+msgid "Encompassing model"
+msgstr ""
+
+msgctxt "ContingencyTables|"
+msgid "Observed"
+msgstr ""
+
+msgctxt "ContingencyTables|"
+msgid "Margin"
+msgstr ""
+
+msgctxt "ContingencyTables|"
+msgid "Show totals"
+msgstr ""
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Observed"
+msgstr ""
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Margin"
+msgstr ""
+
+msgctxt "ContingencyTablesBayesian|"
+msgid "Show totals"
+msgstr ""

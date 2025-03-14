@@ -1,0 +1,44 @@
+Package: jaspMetaAnalysis
+Type: Package
+Title: Meta-Analysis Module for JASP
+Version: 0.19.2
+Date: 2022-10-05
+Author: JASP Team
+Website: jasp-stats.org
+Maintainer: JASP Team <info@jasp-stats.org>
+Description: Synthesize evidence across multiple studies
+License: GPL (>= 2)
+Encoding: UTF-8
+Imports:
+  dplyr,
+  ggplot2,
+  jaspBase,
+  jaspGraphs,
+  MASS,
+  metaBMA (>= 0.6.3),
+  metafor,
+  psych,
+  purrr,
+  rstan,
+  stringr,
+  tibble,
+  tidyr,
+  weightr,
+  BayesTools,
+  RoBMA,
+  metamisc (>= 0.2.5),
+  ggmcmc,
+  pema,
+  clubSandwich,
+  CompQuadForm,
+  sp,
+  dfoptim,
+  nleqslv,
+  patchwork
+Remotes:
+  jasp-stats/jaspBase,
+  jasp-stats/jaspGraphs
+Depends: 
+    R (>= 2.10)
+LazyData: true
+RoxygenNote: 7.3.2
